@@ -19,9 +19,9 @@
   },
   {
     "full_name": "servo/servo",
-    "stargazers_count": 21855,
-    "open_issues_count": 3488,
-    "forks_count": 2659
+    "stargazers_count": 21871,
+    "open_issues_count": 3491,
+    "forks_count": 2658
   },
   {
     "full_name": "trickster0/OffensiveRust",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "dtolnay/async-trait",
-    "stargazers_count": 1288,
-    "open_issues_count": 9,
+    "stargazers_count": 1293,
+    "open_issues_count": 5,
     "forks_count": 61
   },
   {
     "full_name": "peeeuzin/brasilapi-rs",
     "stargazers_count": 5,
-    "open_issues_count": 0,
-    "forks_count": 1
+    "open_issues_count": 1,
+    "forks_count": 2
   },
   {
     "full_name": "nuta/kerla",
@@ -49,63 +49,63 @@
   },
   {
     "full_name": "ahkarami/Deep-Learning-in-Production",
-    "stargazers_count": 3859,
+    "stargazers_count": 3861,
     "open_issues_count": 7,
     "forks_count": 641
   },
   {
     "full_name": "zv/SICP-guile",
-    "stargazers_count": 602,
+    "stargazers_count": 604,
     "open_issues_count": 1,
     "forks_count": 44
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 6838,
+    "stargazers_count": 6858,
     "open_issues_count": 1,
-    "forks_count": 757
+    "forks_count": 763
   },
   {
     "full_name": "IceWhaleTech/CasaOS",
-    "stargazers_count": 7417,
-    "open_issues_count": 116,
-    "forks_count": 489
+    "stargazers_count": 7445,
+    "open_issues_count": 113,
+    "forks_count": 493
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 13659,
-    "open_issues_count": 146,
-    "forks_count": 847
+    "stargazers_count": 13772,
+    "open_issues_count": 142,
+    "forks_count": 857
   },
   {
     "full_name": "total-typescript/typescript-generics-workshop",
-    "stargazers_count": 1052,
-    "open_issues_count": 3,
-    "forks_count": 87
+    "stargazers_count": 1057,
+    "open_issues_count": 2,
+    "forks_count": 89
   },
   {
     "full_name": "SeleniumHQ/selenium",
-    "stargazers_count": 25222,
-    "open_issues_count": 123,
-    "forks_count": 7289
+    "stargazers_count": 25239,
+    "open_issues_count": 128,
+    "forks_count": 7286
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 19390,
-    "open_issues_count": 243,
-    "forks_count": 882
+    "stargazers_count": 19427,
+    "open_issues_count": 251,
+    "forks_count": 885
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 218288,
-    "open_issues_count": 83,
-    "forks_count": 24957
+    "stargazers_count": 218689,
+    "open_issues_count": 85,
+    "forks_count": 25009
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 50112,
-    "open_issues_count": 440,
-    "forks_count": 6082
+    "stargazers_count": 50245,
+    "open_issues_count": 446,
+    "forks_count": 6103
   },
   {
     "full_name": "Quramy/type-dungeon",
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "lunatic-solutions/submillisecond",
-    "stargazers_count": 693,
-    "open_issues_count": 6,
+    "stargazers_count": 715,
+    "open_issues_count": 4,
     "forks_count": 13
   },
   {
     "full_name": "lyst/lightfm",
-    "stargazers_count": 4190,
+    "stargazers_count": 4197,
     "open_issues_count": 130,
     "forks_count": 651
   },
@@ -133,13 +133,13 @@
   },
   {
     "full_name": "cypress-io/cypress",
-    "stargazers_count": 41796,
-    "open_issues_count": 2830,
-    "forks_count": 2631
+    "stargazers_count": 41868,
+    "open_issues_count": 2845,
+    "forks_count": 2637
   },
   {
     "full_name": "sindresorhus/file-type",
-    "stargazers_count": 2822,
+    "stargazers_count": 2830,
     "open_issues_count": 15,
     "forks_count": 294
   },
@@ -169,13 +169,13 @@
   },
   {
     "full_name": "nodejs/next-10",
-    "stargazers_count": 385,
-    "open_issues_count": 28,
+    "stargazers_count": 386,
+    "open_issues_count": 27,
     "forks_count": 21
   },
   {
     "full_name": "markets/awesome-ruby",
-    "stargazers_count": 12531,
+    "stargazers_count": 12539,
     "open_issues_count": 8,
     "forks_count": 1717
   }
