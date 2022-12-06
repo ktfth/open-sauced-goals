@@ -1,13 +1,13 @@
 [
   {
     "full_name": "ErickWendel/myownnode",
-    "stargazers_count": 103,
+    "stargazers_count": 104,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "servo/html5ever",
-    "stargazers_count": 1656,
+    "stargazers_count": 1657,
     "open_issues_count": 49,
     "forks_count": 196
   },
@@ -19,39 +19,39 @@
   },
   {
     "full_name": "servo/servo",
-    "stargazers_count": 21871,
-    "open_issues_count": 3491,
-    "forks_count": 2658
+    "stargazers_count": 21885,
+    "open_issues_count": 3487,
+    "forks_count": 2657
   },
   {
     "full_name": "trickster0/OffensiveRust",
-    "stargazers_count": 1283,
+    "stargazers_count": 1290,
     "open_issues_count": 0,
     "forks_count": 147
   },
   {
     "full_name": "dtolnay/async-trait",
-    "stargazers_count": 1293,
-    "open_issues_count": 5,
+    "stargazers_count": 1297,
+    "open_issues_count": 4,
     "forks_count": 61
   },
   {
     "full_name": "peeeuzin/brasilapi-rs",
     "stargazers_count": 5,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "nuta/kerla",
     "stargazers_count": 3130,
     "open_issues_count": 25,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "ahkarami/Deep-Learning-in-Production",
-    "stargazers_count": 3861,
+    "stargazers_count": 3867,
     "open_issues_count": 7,
-    "forks_count": 641
+    "forks_count": 642
   },
   {
     "full_name": "zv/SICP-guile",
@@ -61,51 +61,51 @@
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 6858,
+    "stargazers_count": 6874,
     "open_issues_count": 1,
-    "forks_count": 763
+    "forks_count": 769
   },
   {
     "full_name": "IceWhaleTech/CasaOS",
-    "stargazers_count": 7445,
-    "open_issues_count": 113,
-    "forks_count": 493
+    "stargazers_count": 7493,
+    "open_issues_count": 116,
+    "forks_count": 497
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 13772,
-    "open_issues_count": 142,
-    "forks_count": 857
+    "stargazers_count": 13843,
+    "open_issues_count": 158,
+    "forks_count": 880
   },
   {
     "full_name": "total-typescript/typescript-generics-workshop",
-    "stargazers_count": 1057,
+    "stargazers_count": 1065,
     "open_issues_count": 2,
-    "forks_count": 89
+    "forks_count": 92
   },
   {
     "full_name": "SeleniumHQ/selenium",
-    "stargazers_count": 25239,
-    "open_issues_count": 128,
-    "forks_count": 7286
+    "stargazers_count": 25259,
+    "open_issues_count": 130,
+    "forks_count": 7287
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 19427,
-    "open_issues_count": 251,
+    "stargazers_count": 19464,
+    "open_issues_count": 248,
     "forks_count": 885
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 218689,
-    "open_issues_count": 85,
-    "forks_count": 25009
+    "stargazers_count": 219051,
+    "open_issues_count": 86,
+    "forks_count": 25049
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 50245,
-    "open_issues_count": 446,
-    "forks_count": 6103
+    "stargazers_count": 50382,
+    "open_issues_count": 457,
+    "forks_count": 6115
   },
   {
     "full_name": "Quramy/type-dungeon",
@@ -115,31 +115,31 @@
   },
   {
     "full_name": "lunatic-solutions/submillisecond",
-    "stargazers_count": 715,
+    "stargazers_count": 718,
     "open_issues_count": 4,
     "forks_count": 13
   },
   {
     "full_name": "lyst/lightfm",
-    "stargazers_count": 4197,
-    "open_issues_count": 130,
+    "stargazers_count": 4198,
+    "open_issues_count": 131,
     "forks_count": 651
   },
   {
     "full_name": "asciinema/agg",
-    "stargazers_count": 420,
+    "stargazers_count": 422,
     "open_issues_count": 10,
-    "forks_count": 7
+    "forks_count": 8
   },
   {
     "full_name": "cypress-io/cypress",
-    "stargazers_count": 41868,
-    "open_issues_count": 2845,
-    "forks_count": 2637
+    "stargazers_count": 41915,
+    "open_issues_count": 2834,
+    "forks_count": 2636
   },
   {
     "full_name": "sindresorhus/file-type",
-    "stargazers_count": 2830,
+    "stargazers_count": 2834,
     "open_issues_count": 15,
     "forks_count": 294
   },
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "peggyjs/peggy",
-    "stargazers_count": 421,
+    "stargazers_count": 422,
     "open_issues_count": 38,
     "forks_count": 32
   },
@@ -170,13 +170,13 @@
   {
     "full_name": "nodejs/next-10",
     "stargazers_count": 386,
-    "open_issues_count": 27,
+    "open_issues_count": 28,
     "forks_count": 21
   },
   {
     "full_name": "markets/awesome-ruby",
-    "stargazers_count": 12539,
-    "open_issues_count": 8,
+    "stargazers_count": 12550,
+    "open_issues_count": 9,
     "forks_count": 1717
   }
 ]
