@@ -1,45 +1,57 @@
 [
   {
+    "full_name": "denoland/deno_lint",
+    "stargazers_count": 1263,
+    "open_issues_count": 77,
+    "forks_count": 136
+  },
+  {
+    "full_name": "mattbullen/rust-steganography",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 34468,
-    "open_issues_count": 353,
-    "forks_count": 3034
+    "stargazers_count": 34653,
+    "open_issues_count": 357,
+    "forks_count": 3052
   },
   {
     "full_name": "kamiyaa/joshuto",
-    "stargazers_count": 1041,
+    "stargazers_count": 1048,
     "open_issues_count": 29,
     "forks_count": 61
   },
   {
     "full_name": "microsoft/PowerToys",
-    "stargazers_count": 83489,
-    "open_issues_count": 4018,
-    "forks_count": 4795
+    "stargazers_count": 83657,
+    "open_issues_count": 4050,
+    "forks_count": 4799
   },
   {
     "full_name": "containerd/accelerated-container-image",
-    "stargazers_count": 263,
-    "open_issues_count": 12,
+    "stargazers_count": 264,
+    "open_issues_count": 13,
     "forks_count": 53
   },
   {
     "full_name": "rust-windowing/winit",
-    "stargazers_count": 3022,
-    "open_issues_count": 443,
-    "forks_count": 650
+    "stargazers_count": 3032,
+    "open_issues_count": 445,
+    "forks_count": 652
   },
   {
     "full_name": "ErickWendel/myownnode",
-    "stargazers_count": 106,
+    "stargazers_count": 108,
     "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "servo/html5ever",
-    "stargazers_count": 1665,
+    "stargazers_count": 1667,
     "open_issues_count": 49,
-    "forks_count": 196
+    "forks_count": 197
   },
   {
     "full_name": "JSextonn/rust-challenges",
@@ -49,19 +61,19 @@
   },
   {
     "full_name": "servo/servo",
-    "stargazers_count": 21924,
+    "stargazers_count": 21943,
     "open_issues_count": 3493,
-    "forks_count": 2661
+    "forks_count": 2662
   },
   {
     "full_name": "trickster0/OffensiveRust",
-    "stargazers_count": 1299,
+    "stargazers_count": 1343,
     "open_issues_count": 0,
-    "forks_count": 151
+    "forks_count": 154
   },
   {
     "full_name": "dtolnay/async-trait",
-    "stargazers_count": 1304,
+    "stargazers_count": 1311,
     "open_issues_count": 4,
     "forks_count": 62
   },
@@ -73,13 +85,13 @@
   },
   {
     "full_name": "nuta/kerla",
-    "stargazers_count": 3131,
+    "stargazers_count": 3135,
     "open_issues_count": 25,
     "forks_count": 79
   },
   {
     "full_name": "ahkarami/Deep-Learning-in-Production",
-    "stargazers_count": 3874,
+    "stargazers_count": 3876,
     "open_issues_count": 7,
     "forks_count": 643
   },
@@ -91,51 +103,51 @@
   },
   {
     "full_name": "total-typescript/beginners-typescript-tutorial",
-    "stargazers_count": 6905,
+    "stargazers_count": 6913,
     "open_issues_count": 2,
-    "forks_count": 786
+    "forks_count": 788
   },
   {
     "full_name": "IceWhaleTech/CasaOS",
-    "stargazers_count": 7683,
-    "open_issues_count": 115,
-    "forks_count": 511
+    "stargazers_count": 7846,
+    "open_issues_count": 118,
+    "forks_count": 520
   },
   {
     "full_name": "novuhq/novu",
-    "stargazers_count": 14560,
-    "open_issues_count": 149,
-    "forks_count": 934
+    "stargazers_count": 14684,
+    "open_issues_count": 145,
+    "forks_count": 939
   },
   {
     "full_name": "total-typescript/typescript-generics-workshop",
-    "stargazers_count": 1074,
+    "stargazers_count": 1075,
     "open_issues_count": 2,
-    "forks_count": 98
+    "forks_count": 101
   },
   {
     "full_name": "SeleniumHQ/selenium",
-    "stargazers_count": 25345,
-    "open_issues_count": 144,
-    "forks_count": 7298
+    "stargazers_count": 25369,
+    "open_issues_count": 147,
+    "forks_count": 7306
   },
   {
     "full_name": "penpot/penpot",
-    "stargazers_count": 19540,
-    "open_issues_count": 254,
-    "forks_count": 887
+    "stargazers_count": 19571,
+    "open_issues_count": 256,
+    "forks_count": 889
   },
   {
     "full_name": "public-apis/public-apis",
-    "stargazers_count": 219996,
-    "open_issues_count": 97,
-    "forks_count": 25175
+    "stargazers_count": 220413,
+    "open_issues_count": 100,
+    "forks_count": 25225
   },
   {
     "full_name": "strapi/strapi",
-    "stargazers_count": 50567,
-    "open_issues_count": 430,
-    "forks_count": 6142
+    "stargazers_count": 50636,
+    "open_issues_count": 427,
+    "forks_count": 6147
   },
   {
     "full_name": "Quramy/type-dungeon",
@@ -145,38 +157,26 @@
   },
   {
     "full_name": "lunatic-solutions/submillisecond",
-    "stargazers_count": 727,
-    "open_issues_count": 5,
-    "forks_count": 14
+    "stargazers_count": 729,
+    "open_issues_count": 4,
+    "forks_count": 15
   },
   {
     "full_name": "lyst/lightfm",
-    "stargazers_count": 4208,
+    "stargazers_count": 4210,
     "open_issues_count": 132,
     "forks_count": 653
   },
   {
     "full_name": "asciinema/agg",
-    "stargazers_count": 431,
+    "stargazers_count": 437,
     "open_issues_count": 10,
     "forks_count": 8
   },
   {
     "full_name": "cypress-io/cypress",
-    "stargazers_count": 42012,
-    "open_issues_count": 2821,
-    "forks_count": 2652
-  },
-  {
-    "full_name": "sindresorhus/file-type",
-    "stargazers_count": 2845,
-    "open_issues_count": 15,
-    "forks_count": 298
-  },
-  {
-    "full_name": "curquiza/meilisearch-changelog-generator-gha",
-    "stargazers_count": 2,
-    "open_issues_count": 1,
-    "forks_count": 0
+    "stargazers_count": 42044,
+    "open_issues_count": 2815,
+    "forks_count": 2657
   }
 ]
