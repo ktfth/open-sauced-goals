@@ -1,57 +1,63 @@
 [
   {
+    "full_name": "RustScan/RustScan",
+    "stargazers_count": 9247,
+    "open_issues_count": 115,
+    "forks_count": 671
+  },
+  {
     "full_name": "yearn/yearn-vaults",
-    "stargazers_count": 469,
+    "stargazers_count": 470,
     "open_issues_count": 10,
     "forks_count": 294
   },
   {
     "full_name": "otterkit/otterkit",
-    "stargazers_count": 155,
+    "stargazers_count": 162,
     "open_issues_count": 2,
-    "forks_count": 6
+    "forks_count": 8
   },
   {
     "full_name": "mariuszgil/awesome-eventstorming",
-    "stargazers_count": 1892,
+    "stargazers_count": 1894,
     "open_issues_count": 5,
     "forks_count": 142
   },
   {
     "full_name": "ine-labs/AWSGoat",
-    "stargazers_count": 1154,
-    "open_issues_count": 2,
-    "forks_count": 435
+    "stargazers_count": 1165,
+    "open_issues_count": 3,
+    "forks_count": 441
   },
   {
     "full_name": "feathersjs-ecosystem/feathers-authentication-management",
-    "stargazers_count": 240,
+    "stargazers_count": 241,
     "open_issues_count": 3,
     "forks_count": 98
   },
   {
     "full_name": "WebAssembly/gc",
-    "stargazers_count": 658,
-    "open_issues_count": 19,
+    "stargazers_count": 664,
+    "open_issues_count": 20,
     "forks_count": 49
   },
   {
     "full_name": "fathyb/carbonyl",
-    "stargazers_count": 10964,
-    "open_issues_count": 31,
-    "forks_count": 247
+    "stargazers_count": 11095,
+    "open_issues_count": 32,
+    "forks_count": 248
   },
   {
     "full_name": "AdrienTorris/awesome-blazor",
-    "stargazers_count": 7438,
-    "open_issues_count": 79,
+    "stargazers_count": 7441,
+    "open_issues_count": 80,
     "forks_count": 877
   },
   {
     "full_name": "koskimas/kysely",
-    "stargazers_count": 3745,
+    "stargazers_count": 3775,
     "open_issues_count": 31,
-    "forks_count": 87
+    "forks_count": 86
   },
   {
     "full_name": "rocktimsaikia/hackernews-redesign",
@@ -61,9 +67,9 @@
   },
   {
     "full_name": "facebookexperimental/reverie",
-    "stargazers_count": 164,
+    "stargazers_count": 290,
     "open_issues_count": 1,
-    "forks_count": 8
+    "forks_count": 12
   },
   {
     "full_name": "jsoref/fwupd",
@@ -73,9 +79,9 @@
   },
   {
     "full_name": "vlang/v",
-    "stargazers_count": 31325,
-    "open_issues_count": 827,
-    "forks_count": 1938
+    "stargazers_count": 31334,
+    "open_issues_count": 835,
+    "forks_count": 1939
   },
   {
     "full_name": "LucasRufo/helm-kube-demo-app",
@@ -85,14 +91,14 @@
   },
   {
     "full_name": "google/comprehensive-rust",
-    "stargazers_count": 9097,
-    "open_issues_count": 66,
-    "forks_count": 411
+    "stargazers_count": 9319,
+    "open_issues_count": 67,
+    "forks_count": 426
   },
   {
     "full_name": "denoland/deno_lint",
-    "stargazers_count": 1401,
-    "open_issues_count": 85,
+    "stargazers_count": 1404,
+    "open_issues_count": 83,
     "forks_count": 145
   },
   {
@@ -103,21 +109,21 @@
   },
   {
     "full_name": "rustdesk/rustdesk",
-    "stargazers_count": 38164,
+    "stargazers_count": 38414,
     "open_issues_count": 322,
-    "forks_count": 3406
+    "forks_count": 3433
   },
   {
     "full_name": "kamiyaa/joshuto",
-    "stargazers_count": 1132,
-    "open_issues_count": 30,
+    "stargazers_count": 1137,
+    "open_issues_count": 29,
     "forks_count": 64
   },
   {
     "full_name": "microsoft/PowerToys",
-    "stargazers_count": 86724,
-    "open_issues_count": 4340,
-    "forks_count": 4991
+    "stargazers_count": 86895,
+    "open_issues_count": 4369,
+    "forks_count": 4996
   },
   {
     "full_name": "containerd/accelerated-container-image",
@@ -127,19 +133,19 @@
   },
   {
     "full_name": "rust-windowing/winit",
-    "stargazers_count": 3203,
-    "open_issues_count": 442,
-    "forks_count": 676
+    "stargazers_count": 3211,
+    "open_issues_count": 445,
+    "forks_count": 678
   },
   {
     "full_name": "ErickWendel/myownnode",
-    "stargazers_count": 133,
+    "stargazers_count": 136,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "servo/html5ever",
-    "stargazers_count": 1704,
+    "stargazers_count": 1706,
     "open_issues_count": 51,
     "forks_count": 197
   },
@@ -151,19 +157,19 @@
   },
   {
     "full_name": "servo/servo",
-    "stargazers_count": 22579,
-    "open_issues_count": 3499,
-    "forks_count": 2680
+    "stargazers_count": 22595,
+    "open_issues_count": 3503,
+    "forks_count": 2683
   },
   {
     "full_name": "trickster0/OffensiveRust",
-    "stargazers_count": 1769,
+    "stargazers_count": 1774,
     "open_issues_count": 3,
-    "forks_count": 194
+    "forks_count": 195
   },
   {
     "full_name": "dtolnay/async-trait",
-    "stargazers_count": 1362,
+    "stargazers_count": 1367,
     "open_issues_count": 2,
     "forks_count": 63
   },
@@ -172,11 +178,5 @@
     "stargazers_count": 11,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "nuta/kerla",
-    "stargazers_count": 3164,
-    "open_issues_count": 24,
-    "forks_count": 81
   }
 ]
