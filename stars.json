@@ -1,27 +1,27 @@
 [
   {
     "full_name": "mrgian/felix",
-    "stargazers_count": 295,
-    "open_issues_count": 1,
-    "forks_count": 4
+    "stargazers_count": 311,
+    "open_issues_count": 0,
+    "forks_count": 5
   },
   {
     "full_name": "facebookexperimental/starlark-rust",
-    "stargazers_count": 451,
+    "stargazers_count": 453,
     "open_issues_count": 15,
-    "forks_count": 33
+    "forks_count": 34
   },
   {
     "full_name": "coeuvre/rust-2048",
-    "stargazers_count": 222,
+    "stargazers_count": 223,
     "open_issues_count": 18,
     "forks_count": 35
   },
   {
     "full_name": "Ryujinx/Ryujinx",
-    "stargazers_count": 17234,
-    "open_issues_count": 464,
-    "forks_count": 1867
+    "stargazers_count": 17292,
+    "open_issues_count": 451,
+    "forks_count": 1874
   },
   {
     "full_name": "The-4n/hacBrewPack",
@@ -31,21 +31,21 @@
   },
   {
     "full_name": "guillaume-be/rust-bert",
-    "stargazers_count": 1663,
-    "open_issues_count": 26,
-    "forks_count": 134
+    "stargazers_count": 1672,
+    "open_issues_count": 27,
+    "forks_count": 135
   },
   {
     "full_name": "cassiozen/useStateMachine",
-    "stargazers_count": 2305,
+    "stargazers_count": 2310,
     "open_issues_count": 10,
     "forks_count": 45
   },
   {
     "full_name": "Eugeny/tabby",
-    "stargazers_count": 44875,
-    "open_issues_count": 1372,
-    "forks_count": 2709
+    "stargazers_count": 44933,
+    "open_issues_count": 1376,
+    "forks_count": 2713
   },
   {
     "full_name": "social4git/social4git",
@@ -55,51 +55,51 @@
   },
   {
     "full_name": "rerun-io/rerun",
-    "stargazers_count": 1966,
-    "open_issues_count": 252,
-    "forks_count": 82
+    "stargazers_count": 2014,
+    "open_issues_count": 263,
+    "forks_count": 88
   },
   {
     "full_name": "prest/prest-node",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 6,
     "forks_count": 1
   },
   {
     "full_name": "nestjs/nest",
-    "stargazers_count": 55876,
-    "open_issues_count": 70,
-    "forks_count": 6757
+    "stargazers_count": 55959,
+    "open_issues_count": 75,
+    "forks_count": 6790
   },
   {
     "full_name": "boa-dev/boa",
-    "stargazers_count": 3865,
-    "open_issues_count": 118,
+    "stargazers_count": 3872,
+    "open_issues_count": 120,
     "forks_count": 336
   },
   {
     "full_name": "awesome-rust-com/awesome-rust",
-    "stargazers_count": 422,
+    "stargazers_count": 423,
     "open_issues_count": 0,
     "forks_count": 50
   },
   {
     "full_name": "EbTech/rust-algorithms",
-    "stargazers_count": 3400,
+    "stargazers_count": 3406,
     "open_issues_count": 3,
     "forks_count": 202
   },
   {
     "full_name": "rust-cli/book",
-    "stargazers_count": 545,
+    "stargazers_count": 548,
     "open_issues_count": 20,
-    "forks_count": 80
+    "forks_count": 81
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 97429,
-    "open_issues_count": 2459,
-    "forks_count": 35792
+    "stargazers_count": 97549,
+    "open_issues_count": 2495,
+    "forks_count": 35830
   },
   {
     "full_name": "griffinmyers/wirepig",
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "johnkerl/miller",
-    "stargazers_count": 7638,
-    "open_issues_count": 89,
+    "stargazers_count": 7648,
+    "open_issues_count": 88,
     "forks_count": 185
   },
   {
     "full_name": "linebender/druid",
-    "stargazers_count": 8812,
+    "stargazers_count": 8825,
     "open_issues_count": 299,
-    "forks_count": 551
+    "forks_count": 552
   },
   {
     "full_name": "nccgroup/freebsd-kernel-module-rust",
@@ -129,19 +129,19 @@
     "full_name": "20urc3/Sekiryu",
     "stargazers_count": 233,
     "open_issues_count": 3,
-    "forks_count": 13
+    "forks_count": 14
   },
   {
     "full_name": "jongallant/LiquidSimulator",
-    "stargazers_count": 428,
+    "stargazers_count": 429,
     "open_issues_count": 3,
     "forks_count": 50
   },
   {
     "full_name": "RustScan/RustScan",
-    "stargazers_count": 9671,
-    "open_issues_count": 121,
-    "forks_count": 692
+    "stargazers_count": 9709,
+    "open_issues_count": 122,
+    "forks_count": 694
   },
   {
     "full_name": "yearn/yearn-vaults",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "otterkit/otterkit",
-    "stargazers_count": 203,
+    "stargazers_count": 207,
     "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "mariuszgil/awesome-eventstorming",
-    "stargazers_count": 1933,
+    "stargazers_count": 1936,
     "open_issues_count": 6,
     "forks_count": 149
   },
   {
     "full_name": "ine-labs/AWSGoat",
-    "stargazers_count": 1292,
+    "stargazers_count": 1299,
     "open_issues_count": 4,
-    "forks_count": 530
+    "forks_count": 533
   },
   {
     "full_name": "feathersjs-ecosystem/feathers-authentication-management",
     "stargazers_count": 242,
-    "open_issues_count": 3,
+    "open_issues_count": 4,
     "forks_count": 98
   },
   {
     "full_name": "WebAssembly/gc",
-    "stargazers_count": 717,
-    "open_issues_count": 16,
-    "forks_count": 52
+    "stargazers_count": 720,
+    "open_issues_count": 17,
+    "forks_count": 53
   }
 ]
