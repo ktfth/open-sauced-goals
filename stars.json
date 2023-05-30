@@ -1,27 +1,27 @@
 [
   {
     "full_name": "haad/proxychains",
-    "stargazers_count": 5156,
+    "stargazers_count": 5164,
     "open_issues_count": 72,
-    "forks_count": 571
+    "forks_count": 570
   },
   {
     "full_name": "janoside/btc-rpc-explorer",
-    "stargazers_count": 1207,
+    "stargazers_count": 1209,
     "open_issues_count": 34,
-    "forks_count": 920
+    "forks_count": 921
   },
   {
     "full_name": "rust-db/refinery",
-    "stargazers_count": 1011,
+    "stargazers_count": 1013,
     "open_issues_count": 20,
     "forks_count": 92
   },
   {
     "full_name": "pezzolabs/pezzo",
-    "stargazers_count": 254,
+    "stargazers_count": 313,
     "open_issues_count": 6,
-    "forks_count": 18
+    "forks_count": 22
   },
   {
     "full_name": "microsoft/slngen",
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "ory/kratos",
-    "stargazers_count": 8742,
-    "open_issues_count": 263,
+    "stargazers_count": 8755,
+    "open_issues_count": 262,
     "forks_count": 765
   },
   {
     "full_name": "bhaskatripathi/pdfGPT",
-    "stargazers_count": 4478,
-    "open_issues_count": 28,
-    "forks_count": 479
+    "stargazers_count": 4625,
+    "open_issues_count": 29,
+    "forks_count": 497
   },
   {
     "full_name": "pim-book/programmers-introduction-to-mathematics",
@@ -63,7 +63,7 @@
     "full_name": "facebookexperimental/starlark-rust",
     "stargazers_count": 476,
     "open_issues_count": 16,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "coeuvre/rust-2048",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "Ryujinx/Ryujinx",
-    "stargazers_count": 22720,
-    "open_issues_count": 521,
-    "forks_count": 2178
+    "stargazers_count": 22905,
+    "open_issues_count": 532,
+    "forks_count": 2193
   },
   {
     "full_name": "The-4n/hacBrewPack",
@@ -85,21 +85,21 @@
   },
   {
     "full_name": "guillaume-be/rust-bert",
-    "stargazers_count": 1814,
-    "open_issues_count": 36,
-    "forks_count": 150
+    "stargazers_count": 1828,
+    "open_issues_count": 35,
+    "forks_count": 152
   },
   {
     "full_name": "cassiozen/useStateMachine",
-    "stargazers_count": 2315,
+    "stargazers_count": 2316,
     "open_issues_count": 10,
     "forks_count": 45
   },
   {
     "full_name": "Eugeny/tabby",
-    "stargazers_count": 47341,
-    "open_issues_count": 1450,
-    "forks_count": 2846
+    "stargazers_count": 47399,
+    "open_issues_count": 1458,
+    "forks_count": 2849
   },
   {
     "full_name": "social4git/social4git",
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "rerun-io/rerun",
-    "stargazers_count": 2196,
-    "open_issues_count": 340,
-    "forks_count": 102
+    "stargazers_count": 2286,
+    "open_issues_count": 346,
+    "forks_count": 103
   },
   {
     "full_name": "prest/prest-node",
@@ -121,39 +121,39 @@
   },
   {
     "full_name": "nestjs/nest",
-    "stargazers_count": 56844,
-    "open_issues_count": 75,
-    "forks_count": 6909
+    "stargazers_count": 56943,
+    "open_issues_count": 68,
+    "forks_count": 6920
   },
   {
     "full_name": "boa-dev/boa",
-    "stargazers_count": 3915,
+    "stargazers_count": 3921,
     "open_issues_count": 108,
     "forks_count": 341
   },
   {
     "full_name": "awesome-rust-com/awesome-rust",
-    "stargazers_count": 433,
+    "stargazers_count": 436,
     "open_issues_count": 0,
-    "forks_count": 50
+    "forks_count": 51
   },
   {
     "full_name": "EbTech/rust-algorithms",
-    "stargazers_count": 3457,
+    "stargazers_count": 3461,
     "open_issues_count": 3,
     "forks_count": 206
   },
   {
     "full_name": "rust-cli/book",
-    "stargazers_count": 575,
+    "stargazers_count": 578,
     "open_issues_count": 20,
     "forks_count": 82
   },
   {
     "full_name": "kubernetes/kubernetes",
-    "stargazers_count": 98652,
-    "open_issues_count": 2460,
-    "forks_count": 36192
+    "stargazers_count": 98731,
+    "open_issues_count": 2459,
+    "forks_count": 36218
   },
   {
     "full_name": "griffinmyers/wirepig",
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "johnkerl/miller",
-    "stargazers_count": 7739,
+    "stargazers_count": 7746,
     "open_issues_count": 95,
     "forks_count": 185
   },
   {
     "full_name": "linebender/druid",
-    "stargazers_count": 8944,
-    "open_issues_count": 296,
-    "forks_count": 558
+    "stargazers_count": 8951,
+    "open_issues_count": 298,
+    "forks_count": 561
   },
   {
     "full_name": "nccgroup/freebsd-kernel-module-rust",
-    "stargazers_count": 49,
+    "stargazers_count": 50,
     "open_issues_count": 1,
     "forks_count": 2
   }
