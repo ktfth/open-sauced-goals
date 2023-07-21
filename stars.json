@@ -7,15 +7,15 @@
   },
   {
     "full_name": "fyoorer/ShadowClone",
-    "stargazers_count": 444,
+    "stargazers_count": 461,
     "open_issues_count": 11,
     "forks_count": 53
   },
   {
     "full_name": "raphamorim/rio",
-    "stargazers_count": 1750,
-    "open_issues_count": 25,
-    "forks_count": 43
+    "stargazers_count": 1765,
+    "open_issues_count": 24,
+    "forks_count": 44
   },
   {
     "full_name": "srodriki/feathers-admin",
@@ -25,19 +25,19 @@
   },
   {
     "full_name": "expressots/expressots",
-    "stargazers_count": 612,
+    "stargazers_count": 701,
     "open_issues_count": 1,
     "forks_count": 20
   },
   {
     "full_name": "ixahmedxi/noodle",
-    "stargazers_count": 9688,
-    "open_issues_count": 30,
-    "forks_count": 721
+    "stargazers_count": 9792,
+    "open_issues_count": 17,
+    "forks_count": 732
   },
   {
     "full_name": "hisxo/ReconAIzer",
-    "stargazers_count": 683,
+    "stargazers_count": 684,
     "open_issues_count": 4,
     "forks_count": 77
   },
@@ -49,93 +49,93 @@
   },
   {
     "full_name": "projectdiscovery/uncover",
-    "stargazers_count": 1916,
+    "stargazers_count": 1924,
     "open_issues_count": 13,
     "forks_count": 167
   },
   {
     "full_name": "0xKayala/NucleiFuzzer",
-    "stargazers_count": 379,
-    "open_issues_count": 2,
+    "stargazers_count": 381,
+    "open_issues_count": 1,
     "forks_count": 47
   },
   {
     "full_name": "N0rz3/Zehef",
-    "stargazers_count": 295,
+    "stargazers_count": 301,
     "open_issues_count": 0,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "KingOfBugbounty/KingOfBugBountyTips",
-    "stargazers_count": 3683,
+    "stargazers_count": 3688,
     "open_issues_count": 1,
-    "forks_count": 703
+    "forks_count": 704
   },
   {
     "full_name": "samuela/rustybox",
-    "stargazers_count": 762,
+    "stargazers_count": 764,
     "open_issues_count": 9,
     "forks_count": 31
   },
   {
     "full_name": "pry0cc/axiom",
-    "stargazers_count": 3400,
-    "open_issues_count": 53,
-    "forks_count": 548
+    "stargazers_count": 3405,
+    "open_issues_count": 52,
+    "forks_count": 549
   },
   {
     "full_name": "btcsuite/btcwallet",
     "stargazers_count": 962,
-    "open_issues_count": 123,
-    "forks_count": 528
+    "open_issues_count": 122,
+    "forks_count": 529
   },
   {
     "full_name": "haad/proxychains",
-    "stargazers_count": 5287,
+    "stargazers_count": 5290,
     "open_issues_count": 73,
-    "forks_count": 582
+    "forks_count": 581
   },
   {
     "full_name": "janoside/btc-rpc-explorer",
-    "stargazers_count": 1236,
+    "stargazers_count": 1240,
     "open_issues_count": 34,
-    "forks_count": 968
+    "forks_count": 971
   },
   {
     "full_name": "rust-db/refinery",
     "stargazers_count": 1049,
-    "open_issues_count": 21,
+    "open_issues_count": 20,
     "forks_count": 94
   },
   {
     "full_name": "pezzolabs/pezzo",
-    "stargazers_count": 415,
+    "stargazers_count": 422,
     "open_issues_count": 11,
     "forks_count": 37
   },
   {
     "full_name": "microsoft/slngen",
-    "stargazers_count": 281,
-    "open_issues_count": 15,
+    "stargazers_count": 282,
+    "open_issues_count": 16,
     "forks_count": 62
   },
   {
     "full_name": "ory/kratos",
-    "stargazers_count": 9082,
-    "open_issues_count": 234,
-    "forks_count": 790
+    "stargazers_count": 9098,
+    "open_issues_count": 233,
+    "forks_count": 792
   },
   {
     "full_name": "bhaskatripathi/pdfGPT",
-    "stargazers_count": 5407,
+    "stargazers_count": 5442,
     "open_issues_count": 37,
-    "forks_count": 645
+    "forks_count": 651
   },
   {
     "full_name": "pim-book/programmers-introduction-to-mathematics",
-    "stargazers_count": 3237,
+    "stargazers_count": 3239,
     "open_issues_count": 10,
-    "forks_count": 272
+    "forks_count": 273
   },
   {
     "full_name": "koto/xsschef",
@@ -147,7 +147,7 @@
     "full_name": "mrgian/felix",
     "stargazers_count": 347,
     "open_issues_count": 0,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "facebookexperimental/starlark-rust",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "Ryujinx/Ryujinx",
-    "stargazers_count": 23880,
-    "open_issues_count": 569,
-    "forks_count": 2270
+    "stargazers_count": 23906,
+    "open_issues_count": 572,
+    "forks_count": 2274
   },
   {
     "full_name": "The-4n/hacBrewPack",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "guillaume-be/rust-bert",
-    "stargazers_count": 1957,
-    "open_issues_count": 35,
+    "stargazers_count": 1968,
+    "open_issues_count": 37,
     "forks_count": 165
   }
 ]
