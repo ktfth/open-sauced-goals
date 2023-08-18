@@ -1,20 +1,38 @@
 [
   {
+    "full_name": "moosefs/moosefs",
+    "stargazers_count": 1469,
+    "open_issues_count": 182,
+    "forks_count": 188
+  },
+  {
+    "full_name": "ceph/ceph",
+    "stargazers_count": 12263,
+    "open_issues_count": 881,
+    "forks_count": 6108
+  },
+  {
+    "full_name": "seaweedfs/seaweedfs",
+    "stargazers_count": 18074,
+    "open_issues_count": 237,
+    "forks_count": 2018
+  },
+  {
     "full_name": "tansengming/stripe-rails",
-    "stargazers_count": 698,
+    "stargazers_count": 697,
     "open_issues_count": 19,
     "forks_count": 119
   },
   {
     "full_name": "VeryGoodOpenSource/dart_frog",
-    "stargazers_count": 1509,
-    "open_issues_count": 77,
-    "forks_count": 117
+    "stargazers_count": 1517,
+    "open_issues_count": 82,
+    "forks_count": 118
   },
   {
     "full_name": "parcel-bundler/lightningcss",
-    "stargazers_count": 4353,
-    "open_issues_count": 146,
+    "stargazers_count": 4370,
+    "open_issues_count": 149,
     "forks_count": 129
   },
   {
@@ -25,19 +43,19 @@
   },
   {
     "full_name": "hotwired/stimulus-rails",
-    "stargazers_count": 515,
-    "open_issues_count": 5,
+    "stargazers_count": 517,
+    "open_issues_count": 6,
     "forks_count": 75
   },
   {
     "full_name": "fonoster/fonoster",
-    "stargazers_count": 5809,
+    "stargazers_count": 5808,
     "open_issues_count": 13,
     "forks_count": 291
   },
   {
     "full_name": "robre/scripthunter",
-    "stargazers_count": 489,
+    "stargazers_count": 491,
     "open_issues_count": 13,
     "forks_count": 95
   },
@@ -49,8 +67,8 @@
   },
   {
     "full_name": "raphamorim/rio",
-    "stargazers_count": 1891,
-    "open_issues_count": 28,
+    "stargazers_count": 1949,
+    "open_issues_count": 30,
     "forks_count": 47
   },
   {
@@ -61,49 +79,49 @@
   },
   {
     "full_name": "expressots/expressots",
-    "stargazers_count": 960,
+    "stargazers_count": 966,
     "open_issues_count": 2,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "ixahmedxi/noodle",
-    "stargazers_count": 10466,
-    "open_issues_count": 20,
-    "forks_count": 775
+    "stargazers_count": 10488,
+    "open_issues_count": 25,
+    "forks_count": 777
   },
   {
     "full_name": "hisxo/ReconAIzer",
-    "stargazers_count": 712,
+    "stargazers_count": 713,
     "open_issues_count": 4,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "sf197/nuclei_gpt",
-    "stargazers_count": 70,
+    "stargazers_count": 71,
     "open_issues_count": 0,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "projectdiscovery/uncover",
-    "stargazers_count": 1991,
+    "stargazers_count": 1993,
     "open_issues_count": 14,
-    "forks_count": 170
+    "forks_count": 169
   },
   {
     "full_name": "0xKayala/NucleiFuzzer",
-    "stargazers_count": 404,
+    "stargazers_count": 405,
     "open_issues_count": 0,
     "forks_count": 53
   },
   {
     "full_name": "N0rz3/Zehef",
-    "stargazers_count": 322,
+    "stargazers_count": 327,
     "open_issues_count": 0,
-    "forks_count": 27
+    "forks_count": 28
   },
   {
     "full_name": "KingOfBugbounty/KingOfBugBountyTips",
-    "stargazers_count": 3714,
+    "stargazers_count": 3715,
     "open_issues_count": 1,
     "forks_count": 715
   },
@@ -115,9 +133,9 @@
   },
   {
     "full_name": "pry0cc/axiom",
-    "stargazers_count": 3420,
-    "open_issues_count": 55,
-    "forks_count": 549
+    "stargazers_count": 3422,
+    "open_issues_count": 54,
+    "forks_count": 550
   },
   {
     "full_name": "btcsuite/btcwallet",
@@ -127,15 +145,15 @@
   },
   {
     "full_name": "haad/proxychains",
-    "stargazers_count": 5364,
+    "stargazers_count": 5371,
     "open_issues_count": 73,
     "forks_count": 584
   },
   {
     "full_name": "janoside/btc-rpc-explorer",
-    "stargazers_count": 1254,
+    "stargazers_count": 1257,
     "open_issues_count": 33,
-    "forks_count": 983
+    "forks_count": 988
   },
   {
     "full_name": "rust-db/refinery",
@@ -145,38 +163,20 @@
   },
   {
     "full_name": "pezzolabs/pezzo",
-    "stargazers_count": 440,
+    "stargazers_count": 445,
     "open_issues_count": 9,
     "forks_count": 36
   },
   {
     "full_name": "microsoft/slngen",
-    "stargazers_count": 285,
-    "open_issues_count": 19,
-    "forks_count": 63
+    "stargazers_count": 286,
+    "open_issues_count": 18,
+    "forks_count": 64
   },
   {
     "full_name": "ory/kratos",
-    "stargazers_count": 9177,
+    "stargazers_count": 9194,
     "open_issues_count": 223,
-    "forks_count": 800
-  },
-  {
-    "full_name": "bhaskatripathi/pdfGPT",
-    "stargazers_count": 5678,
-    "open_issues_count": 34,
-    "forks_count": 684
-  },
-  {
-    "full_name": "pim-book/programmers-introduction-to-mathematics",
-    "stargazers_count": 3236,
-    "open_issues_count": 10,
-    "forks_count": 273
-  },
-  {
-    "full_name": "koto/xsschef",
-    "stargazers_count": 542,
-    "open_issues_count": 1,
-    "forks_count": 116
+    "forks_count": 802
   }
 ]
