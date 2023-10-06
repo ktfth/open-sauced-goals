@@ -1,20 +1,26 @@
 [
   {
+    "full_name": "redbadger/crux",
+    "stargazers_count": 1022,
+    "open_issues_count": 15,
+    "forks_count": 26
+  },
+  {
     "full_name": "pwnwriter/kanha",
-    "stargazers_count": 90,
-    "open_issues_count": 1,
+    "stargazers_count": 91,
+    "open_issues_count": 2,
     "forks_count": 6
   },
   {
     "full_name": "projectdiscovery/pdtm",
     "stargazers_count": 550,
-    "open_issues_count": 9,
+    "open_issues_count": 12,
     "forks_count": 40
   },
   {
     "full_name": "aripiprazole/rinha-de-compiler",
-    "stargazers_count": 858,
-    "open_issues_count": 2,
+    "stargazers_count": 877,
+    "open_issues_count": 1,
     "forks_count": 242
   },
   {
@@ -25,33 +31,33 @@
   },
   {
     "full_name": "charmbracelet/pop",
-    "stargazers_count": 1730,
+    "stargazers_count": 1737,
     "open_issues_count": 8,
     "forks_count": 30
   },
   {
     "full_name": "Everduin94/better-commits",
-    "stargazers_count": 620,
+    "stargazers_count": 621,
     "open_issues_count": 1,
     "forks_count": 41
   },
   {
     "full_name": "moosefs/moosefs",
-    "stargazers_count": 1489,
+    "stargazers_count": 1491,
     "open_issues_count": 181,
     "forks_count": 189
   },
   {
     "full_name": "ceph/ceph",
-    "stargazers_count": 12421,
-    "open_issues_count": 952,
-    "forks_count": 5959
+    "stargazers_count": 12430,
+    "open_issues_count": 916,
+    "forks_count": 5962
   },
   {
     "full_name": "seaweedfs/seaweedfs",
-    "stargazers_count": 18345,
-    "open_issues_count": 247,
-    "forks_count": 2037
+    "stargazers_count": 18356,
+    "open_issues_count": 250,
+    "forks_count": 2038
   },
   {
     "full_name": "tansengming/stripe-rails",
@@ -61,15 +67,15 @@
   },
   {
     "full_name": "VeryGoodOpenSource/dart_frog",
-    "stargazers_count": 1572,
+    "stargazers_count": 1575,
     "open_issues_count": 69,
     "forks_count": 123
   },
   {
     "full_name": "parcel-bundler/lightningcss",
-    "stargazers_count": 4881,
-    "open_issues_count": 146,
-    "forks_count": 138
+    "stargazers_count": 4891,
+    "open_issues_count": 147,
+    "forks_count": 137
   },
   {
     "full_name": "TristanToye/rails-template",
@@ -85,9 +91,9 @@
   },
   {
     "full_name": "fonoster/fonoster",
-    "stargazers_count": 5864,
+    "stargazers_count": 5865,
     "open_issues_count": 10,
-    "forks_count": 298
+    "forks_count": 300
   },
   {
     "full_name": "robre/scripthunter",
@@ -103,8 +109,8 @@
   },
   {
     "full_name": "raphamorim/rio",
-    "stargazers_count": 2198,
-    "open_issues_count": 40,
+    "stargazers_count": 2206,
+    "open_issues_count": 41,
     "forks_count": 64
   },
   {
@@ -116,18 +122,18 @@
   {
     "full_name": "expressots/expressots",
     "stargazers_count": 1398,
-    "open_issues_count": 5,
-    "forks_count": 38
+    "open_issues_count": 4,
+    "forks_count": 40
   },
   {
     "full_name": "ixahmedxi/noodle",
-    "stargazers_count": 10844,
+    "stargazers_count": 10854,
     "open_issues_count": 36,
-    "forks_count": 811
+    "forks_count": 814
   },
   {
     "full_name": "hisxo/ReconAIzer",
-    "stargazers_count": 748,
+    "stargazers_count": 750,
     "open_issues_count": 4,
     "forks_count": 92
   },
@@ -139,19 +145,19 @@
   },
   {
     "full_name": "projectdiscovery/uncover",
-    "stargazers_count": 2051,
-    "open_issues_count": 6,
-    "forks_count": 177
+    "stargazers_count": 2055,
+    "open_issues_count": 8,
+    "forks_count": 178
   },
   {
     "full_name": "0xKayala/NucleiFuzzer",
-    "stargazers_count": 693,
+    "stargazers_count": 697,
     "open_issues_count": 0,
     "forks_count": 102
   },
   {
     "full_name": "N0rz3/Zehef",
-    "stargazers_count": 359,
+    "stargazers_count": 360,
     "open_issues_count": 0,
     "forks_count": 33
   },
@@ -159,7 +165,7 @@
     "full_name": "KingOfBugbounty/KingOfBugBountyTips",
     "stargazers_count": 3773,
     "open_issues_count": 1,
-    "forks_count": 728
+    "forks_count": 727
   },
   {
     "full_name": "samuela/rustybox",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "pry0cc/axiom",
-    "stargazers_count": 3482,
+    "stargazers_count": 3486,
     "open_issues_count": 55,
-    "forks_count": 561
-  },
-  {
-    "full_name": "btcsuite/btcwallet",
-    "stargazers_count": 977,
-    "open_issues_count": 126,
-    "forks_count": 540
+    "forks_count": 562
   }
 ]
