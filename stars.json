@@ -1,50 +1,50 @@
 [
   {
     "full_name": "ksawery29/turbo-strings",
-    "stargazers_count": 8,
+    "stargazers_count": 10,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "BearToCode/mismerge",
-    "stargazers_count": 13,
+    "stargazers_count": 18,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "build-trust/ockam",
-    "stargazers_count": 3733,
-    "open_issues_count": 359,
-    "forks_count": 489
+    "stargazers_count": 3742,
+    "open_issues_count": 344,
+    "forks_count": 496
   },
   {
     "full_name": "nicoespeon/abracadabra",
-    "stargazers_count": 700,
-    "open_issues_count": 30,
+    "stargazers_count": 701,
+    "open_issues_count": 31,
     "forks_count": 46
   },
   {
     "full_name": "Sangwan5688/BlackHole",
-    "stargazers_count": 7353,
-    "open_issues_count": 237,
-    "forks_count": 952
+    "stargazers_count": 7553,
+    "open_issues_count": 239,
+    "forks_count": 968
   },
   {
     "full_name": "redbadger/crux",
-    "stargazers_count": 1071,
+    "stargazers_count": 1079,
     "open_issues_count": 17,
     "forks_count": 27
   },
   {
     "full_name": "pwnwriter/kanha",
-    "stargazers_count": 158,
-    "open_issues_count": 3,
-    "forks_count": 11
+    "stargazers_count": 185,
+    "open_issues_count": 0,
+    "forks_count": 13
   },
   {
     "full_name": "projectdiscovery/pdtm",
-    "stargazers_count": 560,
-    "open_issues_count": 6,
+    "stargazers_count": 561,
+    "open_issues_count": 5,
     "forks_count": 42
   },
   {
@@ -61,7 +61,7 @@
   },
   {
     "full_name": "charmbracelet/pop",
-    "stargazers_count": 1763,
+    "stargazers_count": 1767,
     "open_issues_count": 8,
     "forks_count": 30
   },
@@ -79,14 +79,14 @@
   },
   {
     "full_name": "ceph/ceph",
-    "stargazers_count": 12461,
-    "open_issues_count": 934,
-    "forks_count": 5973
+    "stargazers_count": 12472,
+    "open_issues_count": 890,
+    "forks_count": 5974
   },
   {
     "full_name": "seaweedfs/seaweedfs",
-    "stargazers_count": 18436,
-    "open_issues_count": 247,
+    "stargazers_count": 18461,
+    "open_issues_count": 249,
     "forks_count": 2048
   },
   {
@@ -98,13 +98,13 @@
   {
     "full_name": "VeryGoodOpenSource/dart_frog",
     "stargazers_count": 1588,
-    "open_issues_count": 81,
+    "open_issues_count": 76,
     "forks_count": 124
   },
   {
     "full_name": "parcel-bundler/lightningcss",
-    "stargazers_count": 4955,
-    "open_issues_count": 154,
+    "stargazers_count": 4967,
+    "open_issues_count": 155,
     "forks_count": 140
   },
   {
@@ -115,33 +115,33 @@
   },
   {
     "full_name": "hotwired/stimulus-rails",
-    "stargazers_count": 542,
+    "stargazers_count": 543,
     "open_issues_count": 10,
     "forks_count": 80
   },
   {
     "full_name": "fonoster/fonoster",
-    "stargazers_count": 5872,
-    "open_issues_count": 10,
+    "stargazers_count": 5873,
+    "open_issues_count": 12,
     "forks_count": 300
   },
   {
     "full_name": "robre/scripthunter",
-    "stargazers_count": 498,
+    "stargazers_count": 499,
     "open_issues_count": 13,
     "forks_count": 95
   },
   {
     "full_name": "fyoorer/ShadowClone",
-    "stargazers_count": 493,
+    "stargazers_count": 501,
     "open_issues_count": 13,
     "forks_count": 62
   },
   {
     "full_name": "raphamorim/rio",
-    "stargazers_count": 2252,
-    "open_issues_count": 42,
-    "forks_count": 69
+    "stargazers_count": 2270,
+    "open_issues_count": 39,
+    "forks_count": 71
   },
   {
     "full_name": "srodriki/feathers-admin",
@@ -151,19 +151,19 @@
   },
   {
     "full_name": "expressots/expressots",
-    "stargazers_count": 1406,
-    "open_issues_count": 6,
+    "stargazers_count": 1407,
+    "open_issues_count": 7,
     "forks_count": 41
   },
   {
     "full_name": "ixahmedxi/noodle",
-    "stargazers_count": 10898,
+    "stargazers_count": 10905,
     "open_issues_count": 36,
     "forks_count": 822
   },
   {
     "full_name": "hisxo/ReconAIzer",
-    "stargazers_count": 754,
+    "stargazers_count": 755,
     "open_issues_count": 4,
     "forks_count": 94
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "projectdiscovery/uncover",
-    "stargazers_count": 2067,
+    "stargazers_count": 2070,
     "open_issues_count": 8,
-    "forks_count": 178
+    "forks_count": 179
   }
 ]
