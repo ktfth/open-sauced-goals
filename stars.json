@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "rectorphp/rector-downgrade-php",
+    "stargazers_count": 28,
+    "open_issues_count": 0,
+    "forks_count": 10
+  },
+  {
+    "full_name": "rust-lang/rust",
+    "stargazers_count": 86372,
+    "open_issues_count": 9626,
+    "forks_count": 11436
+  },
+  {
     "full_name": "ksawery29/turbo-strings",
     "stargazers_count": 10,
     "open_issues_count": 0,
@@ -13,37 +25,37 @@
   },
   {
     "full_name": "build-trust/ockam",
-    "stargazers_count": 3742,
-    "open_issues_count": 344,
-    "forks_count": 496
+    "stargazers_count": 3760,
+    "open_issues_count": 361,
+    "forks_count": 508
   },
   {
     "full_name": "nicoespeon/abracadabra",
     "stargazers_count": 701,
-    "open_issues_count": 31,
+    "open_issues_count": 23,
     "forks_count": 46
   },
   {
     "full_name": "Sangwan5688/BlackHole",
-    "stargazers_count": 7553,
-    "open_issues_count": 239,
-    "forks_count": 968
+    "stargazers_count": 7609,
+    "open_issues_count": 232,
+    "forks_count": 972
   },
   {
     "full_name": "redbadger/crux",
-    "stargazers_count": 1079,
+    "stargazers_count": 1088,
     "open_issues_count": 17,
     "forks_count": 27
   },
   {
     "full_name": "pwnwriter/kanha",
-    "stargazers_count": 185,
-    "open_issues_count": 0,
+    "stargazers_count": 191,
+    "open_issues_count": 1,
     "forks_count": 13
   },
   {
     "full_name": "projectdiscovery/pdtm",
-    "stargazers_count": 561,
+    "stargazers_count": 562,
     "open_issues_count": 5,
     "forks_count": 42
   },
@@ -67,27 +79,27 @@
   },
   {
     "full_name": "Everduin94/better-commits",
-    "stargazers_count": 631,
+    "stargazers_count": 635,
     "open_issues_count": 1,
     "forks_count": 41
   },
   {
     "full_name": "moosefs/moosefs",
-    "stargazers_count": 1493,
+    "stargazers_count": 1495,
     "open_issues_count": 182,
-    "forks_count": 189
+    "forks_count": 190
   },
   {
     "full_name": "ceph/ceph",
-    "stargazers_count": 12472,
-    "open_issues_count": 890,
+    "stargazers_count": 12486,
+    "open_issues_count": 857,
     "forks_count": 5974
   },
   {
     "full_name": "seaweedfs/seaweedfs",
-    "stargazers_count": 18461,
-    "open_issues_count": 249,
-    "forks_count": 2048
+    "stargazers_count": 18491,
+    "open_issues_count": 252,
+    "forks_count": 2051
   },
   {
     "full_name": "tansengming/stripe-rails",
@@ -97,15 +109,15 @@
   },
   {
     "full_name": "VeryGoodOpenSource/dart_frog",
-    "stargazers_count": 1588,
-    "open_issues_count": 76,
+    "stargazers_count": 1589,
+    "open_issues_count": 78,
     "forks_count": 124
   },
   {
     "full_name": "parcel-bundler/lightningcss",
-    "stargazers_count": 4967,
-    "open_issues_count": 155,
-    "forks_count": 140
+    "stargazers_count": 4983,
+    "open_issues_count": 157,
+    "forks_count": 141
   },
   {
     "full_name": "TristanToye/rails-template",
@@ -115,33 +127,33 @@
   },
   {
     "full_name": "hotwired/stimulus-rails",
-    "stargazers_count": 543,
+    "stargazers_count": 544,
     "open_issues_count": 10,
     "forks_count": 80
   },
   {
     "full_name": "fonoster/fonoster",
-    "stargazers_count": 5873,
+    "stargazers_count": 5874,
     "open_issues_count": 12,
-    "forks_count": 300
+    "forks_count": 301
   },
   {
     "full_name": "robre/scripthunter",
     "stargazers_count": 499,
     "open_issues_count": 13,
-    "forks_count": 95
+    "forks_count": 96
   },
   {
     "full_name": "fyoorer/ShadowClone",
-    "stargazers_count": 501,
+    "stargazers_count": 503,
     "open_issues_count": 13,
     "forks_count": 62
   },
   {
     "full_name": "raphamorim/rio",
-    "stargazers_count": 2270,
-    "open_issues_count": 39,
-    "forks_count": 71
+    "stargazers_count": 2285,
+    "open_issues_count": 41,
+    "forks_count": 74
   },
   {
     "full_name": "srodriki/feathers-admin",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "expressots/expressots",
-    "stargazers_count": 1407,
-    "open_issues_count": 7,
+    "stargazers_count": 1412,
+    "open_issues_count": 4,
     "forks_count": 41
   },
   {
     "full_name": "ixahmedxi/noodle",
-    "stargazers_count": 10905,
-    "open_issues_count": 36,
-    "forks_count": 822
+    "stargazers_count": 10942,
+    "open_issues_count": 37,
+    "forks_count": 825
   },
   {
     "full_name": "hisxo/ReconAIzer",
-    "stargazers_count": 755,
+    "stargazers_count": 756,
     "open_issues_count": 4,
     "forks_count": 94
-  },
-  {
-    "full_name": "sf197/nuclei_gpt",
-    "stargazers_count": 77,
-    "open_issues_count": 0,
-    "forks_count": 14
-  },
-  {
-    "full_name": "projectdiscovery/uncover",
-    "stargazers_count": 2070,
-    "open_issues_count": 8,
-    "forks_count": 179
   }
 ]
