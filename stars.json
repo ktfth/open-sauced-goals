@@ -1,5 +1,47 @@
 [
   {
+    "full_name": "ByteByteGoHq/system-design-101",
+    "stargazers_count": 41084,
+    "open_issues_count": 18,
+    "forks_count": 3870
+  },
+  {
+    "full_name": "ferrilab/bitvec",
+    "stargazers_count": 1046,
+    "open_issues_count": 53,
+    "forks_count": 98
+  },
+  {
+    "full_name": "andrewmcodes-archive/rubocop-linter-action",
+    "stargazers_count": 95,
+    "open_issues_count": 0,
+    "forks_count": 67
+  },
+  {
+    "full_name": "emilk/music_theory",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "apernet/hysteria",
+    "stargazers_count": 8496,
+    "open_issues_count": 109,
+    "forks_count": 902
+  },
+  {
+    "full_name": "microsoft/fluentui",
+    "stargazers_count": 16731,
+    "open_issues_count": 657,
+    "forks_count": 2572
+  },
+  {
+    "full_name": "PowerShell/PowerShell",
+    "stargazers_count": 41365,
+    "open_issues_count": 3578,
+    "forks_count": 7623
+  },
+  {
     "full_name": "rectorphp/rector-downgrade-php",
     "stargazers_count": 28,
     "open_issues_count": 0,
@@ -7,15 +49,9 @@
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 86462,
-    "open_issues_count": 9647,
-    "forks_count": 11453
-  },
-  {
-    "full_name": "ksawery29/turbo-strings",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 86559,
+    "open_issues_count": 9637,
+    "forks_count": 11470
   },
   {
     "full_name": "BearToCode/mismerge",
@@ -25,81 +61,81 @@
   },
   {
     "full_name": "build-trust/ockam",
-    "stargazers_count": 3778,
-    "open_issues_count": 373,
-    "forks_count": 510
+    "stargazers_count": 3847,
+    "open_issues_count": 371,
+    "forks_count": 520
   },
   {
     "full_name": "nicoespeon/abracadabra",
     "stargazers_count": 701,
-    "open_issues_count": 23,
+    "open_issues_count": 22,
     "forks_count": 46
   },
   {
     "full_name": "Sangwan5688/BlackHole",
-    "stargazers_count": 7641,
-    "open_issues_count": 237,
-    "forks_count": 981
+    "stargazers_count": 7692,
+    "open_issues_count": 238,
+    "forks_count": 989
   },
   {
     "full_name": "redbadger/crux",
-    "stargazers_count": 1095,
+    "stargazers_count": 1102,
     "open_issues_count": 15,
     "forks_count": 27
   },
   {
     "full_name": "pwnwriter/kanha",
-    "stargazers_count": 201,
-    "open_issues_count": 3,
+    "stargazers_count": 203,
+    "open_issues_count": 4,
     "forks_count": 13
   },
   {
     "full_name": "projectdiscovery/pdtm",
-    "stargazers_count": 563,
+    "stargazers_count": 564,
     "open_issues_count": 5,
-    "forks_count": 42
+    "forks_count": 43
   },
   {
     "full_name": "aripiprazole/rinha-de-compiler",
-    "stargazers_count": 896,
+    "stargazers_count": 899,
     "open_issues_count": 1,
     "forks_count": 239
   },
   {
     "full_name": "microsoft/Bing-Maps-Fleet-Tracker",
-    "stargazers_count": 218,
+    "stargazers_count": 219,
     "open_issues_count": 27,
-    "forks_count": 100
+    "forks_count": 101
   },
   {
     "full_name": "charmbracelet/pop",
-    "stargazers_count": 1776,
-    "open_issues_count": 8,
+    "stargazers_count": 1793,
+    "open_issues_count": 9,
     "forks_count": 30
   },
   {
     "full_name": "Everduin94/better-commits",
-    "stargazers_count": 636,
+    "stargazers_count": 638,
     "open_issues_count": 1,
     "forks_count": 41
   },
   {
     "full_name": "moosefs/moosefs",
-    "stargazers_count": 1496,
-    "open_issues_count": 182,
+    "stargazers_count": 1497,
+    "open_issues_count": 183,
     "forks_count": 191
   },
   {
     "full_name": "ceph/ceph",
-    "stargazers_count": 12498,
-    "open_issues_count": 890,
-    "forks_count": 5974
+    "stargazers_count": 12507,
+    "open_issues_count": 885,
+    "forks_count": 5977
   },
   {
     "full_name": "seaweedfs/seaweedfs",
-    "stargazers_count": 18509,
-    "open_issues_count": 259,
-    "forks_count": 2053
+    "stargazers_count": 18525,
+    "open_issues_count": 262,
+    "forks_count": 2055
   },
   {
     "full_name": "tansengming/stripe-rails",
@@ -109,14 +145,14 @@
   },
   {
     "full_name": "VeryGoodOpenSource/dart_frog",
-    "stargazers_count": 1593,
+    "stargazers_count": 1594,
     "open_issues_count": 76,
     "forks_count": 124
   },
   {
     "full_name": "parcel-bundler/lightningcss",
-    "stargazers_count": 4990,
-    "open_issues_count": 157,
+    "stargazers_count": 4996,
+    "open_issues_count": 158,
     "forks_count": 141
   },
   {
@@ -127,14 +163,14 @@
   },
   {
     "full_name": "hotwired/stimulus-rails",
-    "stargazers_count": 545,
+    "stargazers_count": 546,
     "open_issues_count": 11,
-    "forks_count": 80
+    "forks_count": 82
   },
   {
     "full_name": "fonoster/fonoster",
-    "stargazers_count": 5878,
-    "open_issues_count": 12,
+    "stargazers_count": 5881,
+    "open_issues_count": 10,
     "forks_count": 302
   },
   {
@@ -142,41 +178,5 @@
     "stargazers_count": 498,
     "open_issues_count": 13,
     "forks_count": 96
-  },
-  {
-    "full_name": "fyoorer/ShadowClone",
-    "stargazers_count": 504,
-    "open_issues_count": 14,
-    "forks_count": 62
-  },
-  {
-    "full_name": "raphamorim/rio",
-    "stargazers_count": 2300,
-    "open_issues_count": 45,
-    "forks_count": 76
-  },
-  {
-    "full_name": "srodriki/feathers-admin",
-    "stargazers_count": 10,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "expressots/expressots",
-    "stargazers_count": 1414,
-    "open_issues_count": 4,
-    "forks_count": 41
-  },
-  {
-    "full_name": "ixahmedxi/noodle",
-    "stargazers_count": 10962,
-    "open_issues_count": 30,
-    "forks_count": 835
-  },
-  {
-    "full_name": "hisxo/ReconAIzer",
-    "stargazers_count": 757,
-    "open_issues_count": 4,
-    "forks_count": 95
   }
 ]
