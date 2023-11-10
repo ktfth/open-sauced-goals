@@ -1,49 +1,49 @@
 [
   {
     "full_name": "bluesky-social/social-app",
-    "stargazers_count": 4147,
-    "open_issues_count": 344,
-    "forks_count": 573
+    "stargazers_count": 4186,
+    "open_issues_count": 348,
+    "forks_count": 574
   },
   {
     "full_name": "ScopeLift/l2-flexible-voting",
-    "stargazers_count": 11,
-    "open_issues_count": 10,
+    "stargazers_count": 12,
+    "open_issues_count": 9,
     "forks_count": 1
   },
   {
     "full_name": "mealie-recipes/mealie",
-    "stargazers_count": 3882,
-    "open_issues_count": 84,
-    "forks_count": 420
+    "stargazers_count": 3901,
+    "open_issues_count": 86,
+    "forks_count": 422
   },
   {
     "full_name": "epicweb-dev/epic-stack-docs",
     "stargazers_count": 13,
     "open_issues_count": 1,
-    "forks_count": 0
+    "forks_count": 1
   },
   {
     "full_name": "excid3/tailwindcss-stimulus-components",
-    "stargazers_count": 1215,
+    "stargazers_count": 1216,
     "open_issues_count": 30,
     "forks_count": 123
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 43763,
-    "open_issues_count": 20,
-    "forks_count": 4197
+    "stargazers_count": 44469,
+    "open_issues_count": 23,
+    "forks_count": 4297
   },
   {
     "full_name": "ferrilab/bitvec",
-    "stargazers_count": 1051,
-    "open_issues_count": 53,
+    "stargazers_count": 1053,
+    "open_issues_count": 54,
     "forks_count": 98
   },
   {
     "full_name": "andrewmcodes-archive/rubocop-linter-action",
-    "stargazers_count": 95,
+    "stargazers_count": 94,
     "open_issues_count": 0,
     "forks_count": 67
   },
@@ -55,33 +55,33 @@
   },
   {
     "full_name": "apernet/hysteria",
-    "stargazers_count": 9466,
-    "open_issues_count": 113,
-    "forks_count": 1113
+    "stargazers_count": 9889,
+    "open_issues_count": 116,
+    "forks_count": 1156
   },
   {
     "full_name": "microsoft/fluentui",
-    "stargazers_count": 16792,
-    "open_issues_count": 674,
+    "stargazers_count": 16802,
+    "open_issues_count": 663,
     "forks_count": 2577
   },
   {
     "full_name": "PowerShell/PowerShell",
-    "stargazers_count": 41491,
-    "open_issues_count": 3579,
-    "forks_count": 7663
+    "stargazers_count": 41509,
+    "open_issues_count": 3578,
+    "forks_count": 7668
   },
   {
     "full_name": "rectorphp/rector-downgrade-php",
     "stargazers_count": 28,
-    "open_issues_count": 1,
+    "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 86767,
-    "open_issues_count": 9654,
-    "forks_count": 11500
+    "stargazers_count": 86862,
+    "open_issues_count": 9668,
+    "forks_count": 11513
   },
   {
     "full_name": "BearToCode/mismerge",
@@ -91,8 +91,8 @@
   },
   {
     "full_name": "build-trust/ockam",
-    "stargazers_count": 3868,
-    "open_issues_count": 352,
+    "stargazers_count": 3876,
+    "open_issues_count": 365,
     "forks_count": 522
   },
   {
@@ -103,31 +103,31 @@
   },
   {
     "full_name": "Sangwan5688/BlackHole",
-    "stargazers_count": 7790,
-    "open_issues_count": 242,
-    "forks_count": 998
+    "stargazers_count": 7837,
+    "open_issues_count": 247,
+    "forks_count": 1009
   },
   {
     "full_name": "redbadger/crux",
-    "stargazers_count": 1112,
+    "stargazers_count": 1113,
     "open_issues_count": 17,
     "forks_count": 27
   },
   {
     "full_name": "pwnwriter/kanha",
-    "stargazers_count": 206,
-    "open_issues_count": 6,
-    "forks_count": 13
+    "stargazers_count": 207,
+    "open_issues_count": 7,
+    "forks_count": 14
   },
   {
     "full_name": "projectdiscovery/pdtm",
-    "stargazers_count": 565,
+    "stargazers_count": 567,
     "open_issues_count": 6,
     "forks_count": 43
   },
   {
     "full_name": "aripiprazole/rinha-de-compiler",
-    "stargazers_count": 900,
+    "stargazers_count": 901,
     "open_issues_count": 1,
     "forks_count": 239
   },
@@ -139,13 +139,13 @@
   },
   {
     "full_name": "charmbracelet/pop",
-    "stargazers_count": 1810,
-    "open_issues_count": 10,
+    "stargazers_count": 1819,
+    "open_issues_count": 9,
     "forks_count": 31
   },
   {
     "full_name": "Everduin94/better-commits",
-    "stargazers_count": 644,
+    "stargazers_count": 647,
     "open_issues_count": 1,
     "forks_count": 41
   },
@@ -157,15 +157,15 @@
   },
   {
     "full_name": "ceph/ceph",
-    "stargazers_count": 12540,
-    "open_issues_count": 865,
-    "forks_count": 5985
+    "stargazers_count": 12549,
+    "open_issues_count": 861,
+    "forks_count": 5992
   },
   {
     "full_name": "seaweedfs/seaweedfs",
-    "stargazers_count": 18563,
-    "open_issues_count": 268,
-    "forks_count": 2058
+    "stargazers_count": 18581,
+    "open_issues_count": 271,
+    "forks_count": 2060
   },
   {
     "full_name": "tansengming/stripe-rails",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "VeryGoodOpenSource/dart_frog",
-    "stargazers_count": 1602,
-    "open_issues_count": 77,
-    "forks_count": 125
+    "stargazers_count": 1608,
+    "open_issues_count": 72,
+    "forks_count": 126
   }
 ]
