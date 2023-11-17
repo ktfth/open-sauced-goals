@@ -7,38 +7,38 @@
   },
   {
     "full_name": "aripiprazole/hvm-core",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "excid3/jumpstart",
-    "stargazers_count": 1147,
+    "stargazers_count": 1149,
     "open_issues_count": 0,
-    "forks_count": 302
+    "forks_count": 301
   },
   {
     "full_name": "biomejs/biome",
-    "stargazers_count": 3356,
-    "open_issues_count": 60,
-    "forks_count": 99
+    "stargazers_count": 3489,
+    "open_issues_count": 65,
+    "forks_count": 102
   },
   {
     "full_name": "btpf/Alexandria",
-    "stargazers_count": 1813,
+    "stargazers_count": 1824,
     "open_issues_count": 3,
     "forks_count": 32
   },
   {
     "full_name": "go-swagger/go-swagger",
-    "stargazers_count": 8976,
+    "stargazers_count": 8984,
     "open_issues_count": 632,
-    "forks_count": 1270
+    "forks_count": 1271
   },
   {
     "full_name": "bluesky-social/social-app",
-    "stargazers_count": 4239,
-    "open_issues_count": 356,
+    "stargazers_count": 4270,
+    "open_issues_count": 364,
     "forks_count": 582
   },
   {
@@ -49,31 +49,31 @@
   },
   {
     "full_name": "mealie-recipes/mealie",
-    "stargazers_count": 3921,
-    "open_issues_count": 88,
-    "forks_count": 424
+    "stargazers_count": 3951,
+    "open_issues_count": 89,
+    "forks_count": 426
   },
   {
     "full_name": "epicweb-dev/epic-stack-docs",
-    "stargazers_count": 13,
+    "stargazers_count": 14,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "excid3/tailwindcss-stimulus-components",
-    "stargazers_count": 1216,
+    "stargazers_count": 1217,
     "open_issues_count": 30,
     "forks_count": 123
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 45227,
-    "open_issues_count": 24,
-    "forks_count": 4389
+    "stargazers_count": 45747,
+    "open_issues_count": 25,
+    "forks_count": 4461
   },
   {
     "full_name": "ferrilab/bitvec",
-    "stargazers_count": 1054,
+    "stargazers_count": 1058,
     "open_issues_count": 54,
     "forks_count": 98
   },
@@ -91,21 +91,21 @@
   },
   {
     "full_name": "apernet/hysteria",
-    "stargazers_count": 10177,
-    "open_issues_count": 115,
-    "forks_count": 1196
+    "stargazers_count": 10363,
+    "open_issues_count": 110,
+    "forks_count": 1216
   },
   {
     "full_name": "microsoft/fluentui",
-    "stargazers_count": 16824,
-    "open_issues_count": 681,
-    "forks_count": 2579
+    "stargazers_count": 16849,
+    "open_issues_count": 684,
+    "forks_count": 2582
   },
   {
     "full_name": "PowerShell/PowerShell",
-    "stargazers_count": 41531,
-    "open_issues_count": 3586,
-    "forks_count": 7679
+    "stargazers_count": 41543,
+    "open_issues_count": 3573,
+    "forks_count": 7680
   },
   {
     "full_name": "rectorphp/rector-downgrade-php",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "rust-lang/rust",
-    "stargazers_count": 86963,
-    "open_issues_count": 9717,
-    "forks_count": 11533
+    "stargazers_count": 87043,
+    "open_issues_count": 9739,
+    "forks_count": 11543
   },
   {
     "full_name": "BearToCode/mismerge",
@@ -127,8 +127,8 @@
   },
   {
     "full_name": "build-trust/ockam",
-    "stargazers_count": 3890,
-    "open_issues_count": 353,
+    "stargazers_count": 3893,
+    "open_issues_count": 354,
     "forks_count": 525
   },
   {
@@ -139,25 +139,25 @@
   },
   {
     "full_name": "Sangwan5688/BlackHole",
-    "stargazers_count": 7875,
-    "open_issues_count": 247,
-    "forks_count": 1014
+    "stargazers_count": 7903,
+    "open_issues_count": 248,
+    "forks_count": 1019
   },
   {
     "full_name": "redbadger/crux",
-    "stargazers_count": 1121,
-    "open_issues_count": 19,
-    "forks_count": 29
+    "stargazers_count": 1130,
+    "open_issues_count": 18,
+    "forks_count": 30
   },
   {
     "full_name": "pwnwriter/kanha",
-    "stargazers_count": 208,
+    "stargazers_count": 207,
     "open_issues_count": 8,
     "forks_count": 14
   },
   {
     "full_name": "projectdiscovery/pdtm",
-    "stargazers_count": 568,
+    "stargazers_count": 572,
     "open_issues_count": 6,
     "forks_count": 43
   },
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "charmbracelet/pop",
-    "stargazers_count": 1828,
-    "open_issues_count": 9,
+    "stargazers_count": 1832,
+    "open_issues_count": 11,
     "forks_count": 32
   }
 ]
