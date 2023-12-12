@@ -1,31 +1,43 @@
 [
   {
+    "full_name": "bkrem/awesome-solidity",
+    "stargazers_count": 6212,
+    "open_issues_count": 7,
+    "forks_count": 936
+  },
+  {
+    "full_name": "MostlyAdequate/mostly-adequate-guide",
+    "stargazers_count": 22902,
+    "open_issues_count": 86,
+    "forks_count": 1902
+  },
+  {
     "full_name": "ThePrimeagen/git-worktree.nvim",
-    "stargazers_count": 549,
+    "stargazers_count": 553,
     "open_issues_count": 46,
     "forks_count": 73
   },
   {
     "full_name": "curlpipe/ox",
-    "stargazers_count": 3061,
+    "stargazers_count": 3088,
     "open_issues_count": 35,
     "forks_count": 98
   },
   {
     "full_name": "guymorita/recommendationRaccoon",
-    "stargazers_count": 806,
+    "stargazers_count": 808,
     "open_issues_count": 19,
     "forks_count": 137
   },
   {
     "full_name": "ICe1BotMaker/linterf",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 3,
     "forks_count": 1
   },
   {
     "full_name": "boh/RedCsharp",
-    "stargazers_count": 260,
+    "stargazers_count": 259,
     "open_issues_count": 1,
     "forks_count": 37
   },
@@ -43,25 +55,25 @@
   },
   {
     "full_name": "denoland/deployctl",
-    "stargazers_count": 303,
-    "open_issues_count": 39,
+    "stargazers_count": 304,
+    "open_issues_count": 37,
     "forks_count": 47
   },
   {
     "full_name": "reu/advent-of-code-2023",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "sindresorhus/np",
-    "stargazers_count": 7282,
+    "stargazers_count": 7289,
     "open_issues_count": 53,
     "forks_count": 348
   },
   {
     "full_name": "asottile/pyupgrade",
-    "stargazers_count": 2953,
+    "stargazers_count": 2954,
     "open_issues_count": 16,
     "forks_count": 167
   },
@@ -73,20 +85,20 @@
   },
   {
     "full_name": "LunarVim/LunarVim",
-    "stargazers_count": 16526,
-    "open_issues_count": 59,
-    "forks_count": 1495
+    "stargazers_count": 16561,
+    "open_issues_count": 57,
+    "forks_count": 1496
   },
   {
     "full_name": "cjmellor/level-up",
-    "stargazers_count": 427,
+    "stargazers_count": 428,
     "open_issues_count": 0,
     "forks_count": 27
   },
   {
     "full_name": "laravel/cashier-stripe",
     "stargazers_count": 2288,
-    "open_issues_count": 5,
+    "open_issues_count": 6,
     "forks_count": 651
   },
   {
@@ -103,33 +115,33 @@
   },
   {
     "full_name": "excid3/jumpstart",
-    "stargazers_count": 1154,
+    "stargazers_count": 1155,
     "open_issues_count": 0,
-    "forks_count": 301
+    "forks_count": 302
   },
   {
     "full_name": "biomejs/biome",
-    "stargazers_count": 5435,
-    "open_issues_count": 95,
-    "forks_count": 199
+    "stargazers_count": 5833,
+    "open_issues_count": 105,
+    "forks_count": 210
   },
   {
     "full_name": "btpf/Alexandria",
-    "stargazers_count": 1879,
+    "stargazers_count": 1882,
     "open_issues_count": 4,
     "forks_count": 32
   },
   {
     "full_name": "go-swagger/go-swagger",
-    "stargazers_count": 9021,
+    "stargazers_count": 9023,
     "open_issues_count": 622,
     "forks_count": 1272
   },
   {
     "full_name": "bluesky-social/social-app",
-    "stargazers_count": 4480,
-    "open_issues_count": 391,
-    "forks_count": 609
+    "stargazers_count": 4514,
+    "open_issues_count": 399,
+    "forks_count": 615
   },
   {
     "full_name": "ScopeLift/l2-flexible-voting",
@@ -139,9 +151,9 @@
   },
   {
     "full_name": "mealie-recipes/mealie",
-    "stargazers_count": 4041,
-    "open_issues_count": 85,
-    "forks_count": 435
+    "stargazers_count": 4064,
+    "open_issues_count": 78,
+    "forks_count": 439
   },
   {
     "full_name": "epicweb-dev/epic-stack-docs",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "excid3/tailwindcss-stimulus-components",
-    "stargazers_count": 1222,
+    "stargazers_count": 1223,
     "open_issues_count": 33,
     "forks_count": 125
   },
   {
     "full_name": "ByteByteGoHq/system-design-101",
-    "stargazers_count": 47501,
+    "stargazers_count": 48569,
     "open_issues_count": 27,
-    "forks_count": 4683
+    "forks_count": 4819
   },
   {
     "full_name": "ferrilab/bitvec",
     "stargazers_count": 1088,
     "open_issues_count": 60,
     "forks_count": 102
-  },
-  {
-    "full_name": "andrewmcodes-archive/rubocop-linter-action",
-    "stargazers_count": 94,
-    "open_issues_count": 0,
-    "forks_count": 67
-  },
-  {
-    "full_name": "emilk/music_theory",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]
