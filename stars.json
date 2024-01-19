@@ -1,44 +1,56 @@
 [
   {
+    "full_name": "ServiceWeaver/workshops",
+    "stargazers_count": 108,
+    "open_issues_count": 12,
+    "forks_count": 10
+  },
+  {
+    "full_name": "ServiceWeaver/weaver",
+    "stargazers_count": 4256,
+    "open_issues_count": 34,
+    "forks_count": 206
+  },
+  {
     "full_name": "ServiceWeaver/onlineboutique",
-    "stargazers_count": 15,
+    "stargazers_count": 14,
     "open_issues_count": 0,
     "forks_count": 5
   },
   {
     "full_name": "k8adev/type-challenges",
-    "stargazers_count": 20,
+    "stargazers_count": 31,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 4
   },
   {
     "full_name": "microsoft/Codex-CLI",
-    "stargazers_count": 1950,
+    "stargazers_count": 1952,
     "open_issues_count": 29,
     "forks_count": 234
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 51629,
-    "open_issues_count": 139,
-    "forks_count": 3931
+    "stargazers_count": 51703,
+    "open_issues_count": 143,
+    "forks_count": 3933
   },
   {
     "full_name": "jivoi/awesome-osint",
-    "stargazers_count": 15205,
+    "stargazers_count": 15244,
     "open_issues_count": 15,
-    "forks_count": 2501
+    "forks_count": 2508
   },
   {
     "full_name": "apple/ml-ferret",
-    "stargazers_count": 6541,
+    "stargazers_count": 6658,
     "open_issues_count": 7,
-    "forks_count": 340
+    "forks_count": 347
   },
   {
     "full_name": "zigcc/zig-cookbook",
-    "stargazers_count": 444,
-    "open_issues_count": 2,
+    "stargazers_count": 447,
+    "open_issues_count": 3,
     "forks_count": 20
   },
   {
@@ -49,31 +61,31 @@
   },
   {
     "full_name": "opencodeco/phpctl",
-    "stargazers_count": 138,
+    "stargazers_count": 140,
     "open_issues_count": 0,
     "forks_count": 6
   },
   {
     "full_name": "bkrem/awesome-solidity",
-    "stargazers_count": 6243,
+    "stargazers_count": 6244,
     "open_issues_count": 7,
     "forks_count": 942
   },
   {
     "full_name": "MostlyAdequate/mostly-adequate-guide",
-    "stargazers_count": 22984,
+    "stargazers_count": 22993,
     "open_issues_count": 87,
-    "forks_count": 1907
+    "forks_count": 1909
   },
   {
     "full_name": "ThePrimeagen/git-worktree.nvim",
-    "stargazers_count": 580,
+    "stargazers_count": 583,
     "open_issues_count": 47,
-    "forks_count": 76
+    "forks_count": 77
   },
   {
     "full_name": "curlpipe/ox",
-    "stargazers_count": 3153,
+    "stargazers_count": 3157,
     "open_issues_count": 35,
     "forks_count": 100
   },
@@ -97,7 +109,7 @@
   },
   {
     "full_name": "symplify/coding-standard",
-    "stargazers_count": 317,
+    "stargazers_count": 318,
     "open_issues_count": 3,
     "forks_count": 19
   },
@@ -110,7 +122,7 @@
   {
     "full_name": "denoland/deployctl",
     "stargazers_count": 308,
-    "open_issues_count": 37,
+    "open_issues_count": 40,
     "forks_count": 49
   },
   {
@@ -121,13 +133,13 @@
   },
   {
     "full_name": "sindresorhus/np",
-    "stargazers_count": 7313,
+    "stargazers_count": 7316,
     "open_issues_count": 56,
     "forks_count": 349
   },
   {
     "full_name": "asottile/pyupgrade",
-    "stargazers_count": 3046,
+    "stargazers_count": 3055,
     "open_issues_count": 16,
     "forks_count": 171
   },
@@ -139,21 +151,21 @@
   },
   {
     "full_name": "LunarVim/LunarVim",
-    "stargazers_count": 16797,
-    "open_issues_count": 56,
-    "forks_count": 1498
+    "stargazers_count": 16817,
+    "open_issues_count": 51,
+    "forks_count": 1497
   },
   {
     "full_name": "cjmellor/level-up",
-    "stargazers_count": 454,
+    "stargazers_count": 456,
     "open_issues_count": 0,
     "forks_count": 28
   },
   {
     "full_name": "laravel/cashier-stripe",
-    "stargazers_count": 2299,
+    "stargazers_count": 2300,
     "open_issues_count": 3,
-    "forks_count": 655
+    "forks_count": 656
   },
   {
     "full_name": "mkroening/rust-vmm-container",
@@ -166,17 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "excid3/jumpstart",
-    "stargazers_count": 1161,
-    "open_issues_count": 1,
-    "forks_count": 304
-  },
-  {
-    "full_name": "biomejs/biome",
-    "stargazers_count": 7510,
-    "open_issues_count": 98,
-    "forks_count": 257
   }
 ]
