@@ -1,19 +1,37 @@
 [
   {
+    "full_name": "vavkamil/awesome-bugbounty-tools",
+    "stargazers_count": 3318,
+    "open_issues_count": 5,
+    "forks_count": 561
+  },
+  {
+    "full_name": "Ullaakut/cameradar",
+    "stargazers_count": 3783,
+    "open_issues_count": 33,
+    "forks_count": 513
+  },
+  {
+    "full_name": "ezeoleaf/larry",
+    "stargazers_count": 155,
+    "open_issues_count": 16,
+    "forks_count": 28
+  },
+  {
     "full_name": "vanna-ai/vanna",
-    "stargazers_count": 4582,
-    "open_issues_count": 39,
-    "forks_count": 249
+    "stargazers_count": 4810,
+    "open_issues_count": 41,
+    "forks_count": 274
   },
   {
     "full_name": "blacklanternsecurity/TREVORspray",
-    "stargazers_count": 879,
+    "stargazers_count": 883,
     "open_issues_count": 3,
     "forks_count": 132
   },
   {
     "full_name": "Greenwolf/Spray",
-    "stargazers_count": 679,
+    "stargazers_count": 682,
     "open_issues_count": 5,
     "forks_count": 143
   },
@@ -25,7 +43,7 @@
   },
   {
     "full_name": "ServiceWeaver/weaver",
-    "stargazers_count": 4278,
+    "stargazers_count": 4298,
     "open_issues_count": 34,
     "forks_count": 207
   },
@@ -43,31 +61,31 @@
   },
   {
     "full_name": "microsoft/Codex-CLI",
-    "stargazers_count": 1955,
+    "stargazers_count": 1959,
     "open_issues_count": 29,
     "forks_count": 233
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 51818,
-    "open_issues_count": 137,
-    "forks_count": 3941
+    "stargazers_count": 51893,
+    "open_issues_count": 141,
+    "forks_count": 3947
   },
   {
     "full_name": "jivoi/awesome-osint",
-    "stargazers_count": 15331,
+    "stargazers_count": 15391,
     "open_issues_count": 20,
-    "forks_count": 2520
+    "forks_count": 2525
   },
   {
     "full_name": "apple/ml-ferret",
-    "stargazers_count": 6981,
+    "stargazers_count": 7124,
     "open_issues_count": 8,
-    "forks_count": 375
+    "forks_count": 391
   },
   {
     "full_name": "zigcc/zig-cookbook",
-    "stargazers_count": 452,
+    "stargazers_count": 454,
     "open_issues_count": 3,
     "forks_count": 20
   },
@@ -79,43 +97,43 @@
   },
   {
     "full_name": "opencodeco/phpctl",
-    "stargazers_count": 173,
+    "stargazers_count": 190,
     "open_issues_count": 0,
     "forks_count": 9
   },
   {
     "full_name": "bkrem/awesome-solidity",
-    "stargazers_count": 6256,
+    "stargazers_count": 6259,
     "open_issues_count": 7,
-    "forks_count": 944
+    "forks_count": 949
   },
   {
     "full_name": "MostlyAdequate/mostly-adequate-guide",
-    "stargazers_count": 23004,
+    "stargazers_count": 23020,
     "open_issues_count": 87,
-    "forks_count": 1912
+    "forks_count": 1915
   },
   {
     "full_name": "ThePrimeagen/git-worktree.nvim",
-    "stargazers_count": 588,
+    "stargazers_count": 590,
     "open_issues_count": 48,
-    "forks_count": 77
+    "forks_count": 78
   },
   {
     "full_name": "curlpipe/ox",
-    "stargazers_count": 3162,
+    "stargazers_count": 3167,
     "open_issues_count": 35,
-    "forks_count": 100
+    "forks_count": 101
   },
   {
     "full_name": "guymorita/recommendationRaccoon",
-    "stargazers_count": 811,
+    "stargazers_count": 810,
     "open_issues_count": 19,
     "forks_count": 138
   },
   {
     "full_name": "ICe1BotMaker/linterf",
-    "stargazers_count": 12,
+    "stargazers_count": 13,
     "open_issues_count": 3,
     "forks_count": 1
   },
@@ -123,7 +141,7 @@
     "full_name": "boh/RedCsharp",
     "stargazers_count": 262,
     "open_issues_count": 1,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "full_name": "symplify/coding-standard",
@@ -139,9 +157,9 @@
   },
   {
     "full_name": "denoland/deployctl",
-    "stargazers_count": 310,
-    "open_issues_count": 37,
-    "forks_count": 49
+    "stargazers_count": 311,
+    "open_issues_count": 38,
+    "forks_count": 50
   },
   {
     "full_name": "reu/advent-of-code-2023",
@@ -151,32 +169,14 @@
   },
   {
     "full_name": "sindresorhus/np",
-    "stargazers_count": 7320,
+    "stargazers_count": 7325,
     "open_issues_count": 56,
     "forks_count": 349
   },
   {
     "full_name": "asottile/pyupgrade",
-    "stargazers_count": 3074,
+    "stargazers_count": 3135,
     "open_issues_count": 16,
-    "forks_count": 174
-  },
-  {
-    "full_name": "zhuangyan/CodeWarsBook",
-    "stargazers_count": 3,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "LunarVim/LunarVim",
-    "stargazers_count": 16877,
-    "open_issues_count": 56,
-    "forks_count": 1498
-  },
-  {
-    "full_name": "cjmellor/level-up",
-    "stargazers_count": 461,
-    "open_issues_count": 1,
-    "forks_count": 29
+    "forks_count": 175
   }
 ]
