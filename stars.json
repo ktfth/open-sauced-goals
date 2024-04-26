@@ -1,19 +1,19 @@
 [
   {
     "full_name": "brandonmcconnell/tailwindcss-multi",
-    "stargazers_count": 145,
+    "stargazers_count": 149,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 10861,
-    "open_issues_count": 128,
-    "forks_count": 387
+    "stargazers_count": 10892,
+    "open_issues_count": 124,
+    "forks_count": 389
   },
   {
     "full_name": "d4t4s3c/Win7Blue",
-    "stargazers_count": 132,
+    "stargazers_count": 133,
     "open_issues_count": 0,
     "forks_count": 22
   },
@@ -25,25 +25,25 @@
   },
   {
     "full_name": "qcod/laravel-gamify",
-    "stargazers_count": 622,
+    "stargazers_count": 623,
     "open_issues_count": 24,
     "forks_count": 67
   },
   {
     "full_name": "abonander/img_hash",
-    "stargazers_count": 294,
+    "stargazers_count": 295,
     "open_issues_count": 14,
     "forks_count": 58
   },
   {
     "full_name": "rust-cli/human-panic",
-    "stargazers_count": 1537,
+    "stargazers_count": 1540,
     "open_issues_count": 13,
     "forks_count": 60
   },
   {
     "full_name": "RhinoSecurityLabs/cloudgoat",
-    "stargazers_count": 2431,
+    "stargazers_count": 2434,
     "open_issues_count": 32,
     "forks_count": 572
   },
@@ -61,49 +61,49 @@
   },
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 37358,
-    "open_issues_count": 2068,
-    "forks_count": 3235
+    "stargazers_count": 37405,
+    "open_issues_count": 2074,
+    "forks_count": 3237
   },
   {
     "full_name": "fastify/fast-json-stringify",
     "stargazers_count": 3378,
     "open_issues_count": 27,
-    "forks_count": 196
+    "forks_count": 197
   },
   {
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 14577,
-    "open_issues_count": 499,
-    "forks_count": 2634
+    "stargazers_count": 14589,
+    "open_issues_count": 501,
+    "forks_count": 2637
   },
   {
     "full_name": "MassTransit/MassTransit",
-    "stargazers_count": 6522,
-    "open_issues_count": 7,
-    "forks_count": 1573
+    "stargazers_count": 6530,
+    "open_issues_count": 6,
+    "forks_count": 1572
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 170069,
-    "open_issues_count": 333,
-    "forks_count": 51742
+    "stargazers_count": 170277,
+    "open_issues_count": 335,
+    "forks_count": 51793
   },
   {
     "full_name": "astral-sh/rye",
-    "stargazers_count": 11302,
-    "open_issues_count": 197,
+    "stargazers_count": 11342,
+    "open_issues_count": 192,
     "forks_count": 404
   },
   {
     "full_name": "vavkamil/awesome-bugbounty-tools",
-    "stargazers_count": 3525,
+    "stargazers_count": 3535,
     "open_issues_count": 1,
-    "forks_count": 578
+    "forks_count": 579
   },
   {
     "full_name": "Ullaakut/cameradar",
-    "stargazers_count": 3882,
+    "stargazers_count": 3887,
     "open_issues_count": 34,
     "forks_count": 500
   },
@@ -115,13 +115,13 @@
   },
   {
     "full_name": "vanna-ai/vanna",
-    "stargazers_count": 6426,
-    "open_issues_count": 50,
-    "forks_count": 433
+    "stargazers_count": 6491,
+    "open_issues_count": 54,
+    "forks_count": 436
   },
   {
     "full_name": "blacklanternsecurity/TREVORspray",
-    "stargazers_count": 932,
+    "stargazers_count": 934,
     "open_issues_count": 4,
     "forks_count": 136
   },
@@ -135,17 +135,17 @@
     "full_name": "ServiceWeaver/workshops",
     "stargazers_count": 121,
     "open_issues_count": 12,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "ServiceWeaver/weaver",
-    "stargazers_count": 4532,
+    "stargazers_count": 4538,
     "open_issues_count": 39,
     "forks_count": 214
   },
   {
     "full_name": "ServiceWeaver/onlineboutique",
-    "stargazers_count": 22,
+    "stargazers_count": 23,
     "open_issues_count": 1,
     "forks_count": 7
   },
@@ -163,19 +163,19 @@
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 53636,
-    "open_issues_count": 112,
-    "forks_count": 3837
+    "stargazers_count": 53718,
+    "open_issues_count": 101,
+    "forks_count": 3840
   },
   {
     "full_name": "jivoi/awesome-osint",
-    "stargazers_count": 16398,
-    "open_issues_count": 4,
-    "forks_count": 2564
+    "stargazers_count": 16437,
+    "open_issues_count": 6,
+    "forks_count": 2571
   },
   {
     "full_name": "apple/ml-ferret",
-    "stargazers_count": 7761,
+    "stargazers_count": 7780,
     "open_issues_count": 7,
     "forks_count": 453
   }
