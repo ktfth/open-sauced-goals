@@ -13,21 +13,21 @@
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 11711,
-    "open_issues_count": 127,
-    "forks_count": 466
+    "stargazers_count": 11823,
+    "open_issues_count": 125,
+    "forks_count": 468
   },
   {
     "full_name": "d4t4s3c/Win7Blue",
-    "stargazers_count": 133,
+    "stargazers_count": 132,
     "open_issues_count": 0,
     "forks_count": 22
   },
   {
     "full_name": "fnbrjs/fnbr.js",
-    "stargazers_count": 125,
-    "open_issues_count": 7,
-    "forks_count": 30
+    "stargazers_count": 124,
+    "open_issues_count": 8,
+    "forks_count": 31
   },
   {
     "full_name": "qcod/laravel-gamify",
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "rust-cli/human-panic",
-    "stargazers_count": 1556,
+    "stargazers_count": 1557,
     "open_issues_count": 13,
     "forks_count": 60
   },
   {
     "full_name": "RhinoSecurityLabs/cloudgoat",
-    "stargazers_count": 2762,
-    "open_issues_count": 27,
-    "forks_count": 578
+    "stargazers_count": 2768,
+    "open_issues_count": 28,
+    "forks_count": 580
   },
   {
     "full_name": "BishopFox/jsluice",
-    "stargazers_count": 1197,
+    "stargazers_count": 1205,
     "open_issues_count": 4,
-    "forks_count": 75
+    "forks_count": 76
   },
   {
     "full_name": "neosmart/udpproxy",
@@ -67,51 +67,51 @@
   },
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 37649,
-    "open_issues_count": 2102,
-    "forks_count": 3251
+    "stargazers_count": 37697,
+    "open_issues_count": 2118,
+    "forks_count": 3258
   },
   {
     "full_name": "fastify/fast-json-stringify",
     "stargazers_count": 3384,
     "open_issues_count": 26,
-    "forks_count": 198
+    "forks_count": 199
   },
   {
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 14647,
+    "stargazers_count": 14657,
     "open_issues_count": 513,
-    "forks_count": 2643
+    "forks_count": 2646
   },
   {
     "full_name": "MassTransit/MassTransit",
-    "stargazers_count": 6580,
+    "stargazers_count": 6588,
     "open_issues_count": 7,
-    "forks_count": 1587
+    "forks_count": 1586
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 171382,
-    "open_issues_count": 344,
-    "forks_count": 51978
+    "stargazers_count": 171561,
+    "open_issues_count": 352,
+    "forks_count": 52010
   },
   {
     "full_name": "astral-sh/rye",
-    "stargazers_count": 11536,
+    "stargazers_count": 11579,
     "open_issues_count": 203,
-    "forks_count": 413
+    "forks_count": 414
   },
   {
     "full_name": "vavkamil/awesome-bugbounty-tools",
-    "stargazers_count": 3602,
+    "stargazers_count": 3620,
     "open_issues_count": 1,
     "forks_count": 583
   },
   {
     "full_name": "Ullaakut/cameradar",
-    "stargazers_count": 3902,
+    "stargazers_count": 3904,
     "open_issues_count": 34,
-    "forks_count": 502
+    "forks_count": 503
   },
   {
     "full_name": "ezeoleaf/larry",
@@ -121,13 +121,13 @@
   },
   {
     "full_name": "vanna-ai/vanna",
-    "stargazers_count": 7136,
-    "open_issues_count": 60,
-    "forks_count": 494
+    "stargazers_count": 7202,
+    "open_issues_count": 67,
+    "forks_count": 501
   },
   {
     "full_name": "blacklanternsecurity/TREVORspray",
-    "stargazers_count": 944,
+    "stargazers_count": 947,
     "open_issues_count": 4,
     "forks_count": 137
   },
@@ -145,7 +145,7 @@
   },
   {
     "full_name": "ServiceWeaver/weaver",
-    "stargazers_count": 4560,
+    "stargazers_count": 4564,
     "open_issues_count": 41,
     "forks_count": 218
   },
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 54166,
-    "open_issues_count": 98,
-    "forks_count": 3863
+    "stargazers_count": 54256,
+    "open_issues_count": 99,
+    "forks_count": 3867
   },
   {
     "full_name": "jivoi/awesome-osint",
-    "stargazers_count": 16628,
+    "stargazers_count": 16677,
     "open_issues_count": 8,
-    "forks_count": 2587
+    "forks_count": 2598
   }
 ]
