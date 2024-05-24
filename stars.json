@@ -1,7 +1,43 @@
 [
   {
+    "full_name": "googleapis/nodejs-bigquery",
+    "stargazers_count": 459,
+    "open_issues_count": 16,
+    "forks_count": 206
+  },
+  {
+    "full_name": "0xZDH/o365spray",
+    "stargazers_count": 689,
+    "open_issues_count": 4,
+    "forks_count": 93
+  },
+  {
+    "full_name": "denoland/deno_core",
+    "stargazers_count": 204,
+    "open_issues_count": 91,
+    "forks_count": 65
+  },
+  {
+    "full_name": "GabiDeutner/Proj-Python-FastAPI",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ollama/ollama-python",
+    "stargazers_count": 2232,
+    "open_issues_count": 56,
+    "forks_count": 172
+  },
+  {
+    "full_name": "nhn/tui.calendar",
+    "stargazers_count": 11541,
+    "open_issues_count": 193,
+    "forks_count": 1251
+  },
+  {
     "full_name": "Coop56/awesome-unreal",
-    "stargazers_count": 100,
+    "stargazers_count": 101,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -13,14 +49,14 @@
   },
   {
     "full_name": "brandonmcconnell/tailwindcss-multi",
-    "stargazers_count": 157,
+    "stargazers_count": 158,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 11867,
-    "open_issues_count": 129,
+    "stargazers_count": 11916,
+    "open_issues_count": 128,
     "forks_count": 467
   },
   {
@@ -43,27 +79,27 @@
   },
   {
     "full_name": "abonander/img_hash",
-    "stargazers_count": 296,
+    "stargazers_count": 297,
     "open_issues_count": 14,
     "forks_count": 58
   },
   {
     "full_name": "rust-cli/human-panic",
-    "stargazers_count": 1559,
+    "stargazers_count": 1564,
     "open_issues_count": 13,
     "forks_count": 60
   },
   {
     "full_name": "RhinoSecurityLabs/cloudgoat",
-    "stargazers_count": 2776,
+    "stargazers_count": 2780,
     "open_issues_count": 29,
     "forks_count": 580
   },
   {
     "full_name": "BishopFox/jsluice",
-    "stargazers_count": 1207,
-    "open_issues_count": 4,
-    "forks_count": 76
+    "stargazers_count": 1212,
+    "open_issues_count": 5,
+    "forks_count": 77
   },
   {
     "full_name": "neosmart/udpproxy",
@@ -73,49 +109,49 @@
   },
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 37745,
-    "open_issues_count": 2133,
-    "forks_count": 3263
+    "stargazers_count": 37795,
+    "open_issues_count": 2144,
+    "forks_count": 3265
   },
   {
     "full_name": "fastify/fast-json-stringify",
-    "stargazers_count": 3385,
+    "stargazers_count": 3388,
     "open_issues_count": 26,
     "forks_count": 198
   },
   {
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 14671,
-    "open_issues_count": 521,
-    "forks_count": 2650
+    "stargazers_count": 14677,
+    "open_issues_count": 523,
+    "forks_count": 2651
   },
   {
     "full_name": "MassTransit/MassTransit",
-    "stargazers_count": 6595,
-    "open_issues_count": 7,
+    "stargazers_count": 6599,
+    "open_issues_count": 8,
     "forks_count": 1586
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 171754,
-    "open_issues_count": 352,
-    "forks_count": 52048
+    "stargazers_count": 171940,
+    "open_issues_count": 354,
+    "forks_count": 52063
   },
   {
     "full_name": "astral-sh/rye",
-    "stargazers_count": 11607,
-    "open_issues_count": 208,
-    "forks_count": 409
+    "stargazers_count": 11640,
+    "open_issues_count": 207,
+    "forks_count": 410
   },
   {
     "full_name": "vavkamil/awesome-bugbounty-tools",
-    "stargazers_count": 3636,
+    "stargazers_count": 3654,
     "open_issues_count": 2,
-    "forks_count": 587
+    "forks_count": 589
   },
   {
     "full_name": "Ullaakut/cameradar",
-    "stargazers_count": 3911,
+    "stargazers_count": 3914,
     "open_issues_count": 34,
     "forks_count": 504
   },
@@ -127,56 +163,20 @@
   },
   {
     "full_name": "vanna-ai/vanna",
-    "stargazers_count": 7256,
+    "stargazers_count": 7377,
     "open_issues_count": 65,
-    "forks_count": 511
+    "forks_count": 523
   },
   {
     "full_name": "blacklanternsecurity/TREVORspray",
-    "stargazers_count": 952,
+    "stargazers_count": 954,
     "open_issues_count": 4,
-    "forks_count": 138
+    "forks_count": 139
   },
   {
     "full_name": "Greenwolf/Spray",
     "stargazers_count": 699,
     "open_issues_count": 5,
     "forks_count": 136
-  },
-  {
-    "full_name": "ServiceWeaver/workshops",
-    "stargazers_count": 123,
-    "open_issues_count": 12,
-    "forks_count": 11
-  },
-  {
-    "full_name": "ServiceWeaver/weaver",
-    "stargazers_count": 4565,
-    "open_issues_count": 41,
-    "forks_count": 218
-  },
-  {
-    "full_name": "ServiceWeaver/onlineboutique",
-    "stargazers_count": 26,
-    "open_issues_count": 1,
-    "forks_count": 7
-  },
-  {
-    "full_name": "k8adev/type-challenges",
-    "stargazers_count": 34,
-    "open_issues_count": 1,
-    "forks_count": 3
-  },
-  {
-    "full_name": "microsoft/Codex-CLI",
-    "stargazers_count": 1976,
-    "open_issues_count": 28,
-    "forks_count": 176
-  },
-  {
-    "full_name": "caddyserver/caddy",
-    "stargazers_count": 54373,
-    "open_issues_count": 96,
-    "forks_count": 3868
   }
 ]
