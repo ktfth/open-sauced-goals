@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "assetnote/commonspeak2",
+    "stargazers_count": 667,
+    "open_issues_count": 11,
+    "forks_count": 96
+  },
+  {
     "full_name": "marcos-venicius/machine-runner",
     "stargazers_count": 8,
     "open_issues_count": 0,
@@ -7,8 +13,8 @@
   },
   {
     "full_name": "projectdiscovery/httpx",
-    "stargazers_count": 7069,
-    "open_issues_count": 21,
+    "stargazers_count": 7081,
+    "open_issues_count": 23,
     "forks_count": 781
   },
   {
@@ -25,27 +31,27 @@
   },
   {
     "full_name": "the-xentropy/samlists",
-    "stargazers_count": 497,
+    "stargazers_count": 499,
     "open_issues_count": 0,
     "forks_count": 72
   },
   {
     "full_name": "googleapis/nodejs-bigquery",
     "stargazers_count": 460,
-    "open_issues_count": 17,
+    "open_issues_count": 16,
     "forks_count": 208
   },
   {
     "full_name": "0xZDH/o365spray",
-    "stargazers_count": 702,
+    "stargazers_count": 703,
     "open_issues_count": 4,
     "forks_count": 94
   },
   {
     "full_name": "denoland/deno_core",
-    "stargazers_count": 219,
-    "open_issues_count": 100,
-    "forks_count": 69
+    "stargazers_count": 222,
+    "open_issues_count": 101,
+    "forks_count": 70
   },
   {
     "full_name": "GabiDeutner/Proj-Python-FastAPI",
@@ -55,19 +61,19 @@
   },
   {
     "full_name": "ollama/ollama-python",
-    "stargazers_count": 2625,
-    "open_issues_count": 61,
-    "forks_count": 212
+    "stargazers_count": 2659,
+    "open_issues_count": 60,
+    "forks_count": 216
   },
   {
     "full_name": "nhn/tui.calendar",
-    "stargazers_count": 11617,
+    "stargazers_count": 11628,
     "open_issues_count": 195,
     "forks_count": 1260
   },
   {
     "full_name": "Coop56/awesome-unreal",
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -85,8 +91,8 @@
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 12166,
-    "open_issues_count": 136,
+    "stargazers_count": 12189,
+    "open_issues_count": 137,
     "forks_count": 473
   },
   {
@@ -121,13 +127,13 @@
   },
   {
     "full_name": "RhinoSecurityLabs/cloudgoat",
-    "stargazers_count": 2808,
+    "stargazers_count": 2811,
     "open_issues_count": 27,
-    "forks_count": 587
+    "forks_count": 586
   },
   {
     "full_name": "BishopFox/jsluice",
-    "stargazers_count": 1271,
+    "stargazers_count": 1273,
     "open_issues_count": 5,
     "forks_count": 82
   },
@@ -139,44 +145,38 @@
   },
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 38192,
-    "open_issues_count": 2231,
-    "forks_count": 3308
+    "stargazers_count": 38257,
+    "open_issues_count": 2250,
+    "forks_count": 3314
   },
   {
     "full_name": "fastify/fast-json-stringify",
-    "stargazers_count": 3399,
-    "open_issues_count": 26,
-    "forks_count": 203
+    "stargazers_count": 3400,
+    "open_issues_count": 27,
+    "forks_count": 204
   },
   {
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 14796,
-    "open_issues_count": 418,
-    "forks_count": 2666
+    "stargazers_count": 14874,
+    "open_issues_count": 413,
+    "forks_count": 2671
   },
   {
     "full_name": "MassTransit/MassTransit",
-    "stargazers_count": 6677,
-    "open_issues_count": 8,
+    "stargazers_count": 6688,
+    "open_issues_count": 7,
     "forks_count": 1593
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 173584,
+    "stargazers_count": 173793,
     "open_issues_count": 359,
-    "forks_count": 52381
+    "forks_count": 52426
   },
   {
     "full_name": "astral-sh/rye",
-    "stargazers_count": 12042,
-    "open_issues_count": 235,
-    "forks_count": 422
-  },
-  {
-    "full_name": "vavkamil/awesome-bugbounty-tools",
-    "stargazers_count": 3785,
-    "open_issues_count": 2,
-    "forks_count": 602
+    "stargazers_count": 12071,
+    "open_issues_count": 236,
+    "forks_count": 425
   }
 ]
