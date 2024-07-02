@@ -1,7 +1,7 @@
 [
   {
     "full_name": "assetnote/commonspeak2",
-    "stargazers_count": 667,
+    "stargazers_count": 670,
     "open_issues_count": 11,
     "forks_count": 96
   },
@@ -13,9 +13,9 @@
   },
   {
     "full_name": "projectdiscovery/httpx",
-    "stargazers_count": 7081,
-    "open_issues_count": 23,
-    "forks_count": 781
+    "stargazers_count": 7102,
+    "open_issues_count": 27,
+    "forks_count": 785
   },
   {
     "full_name": "dark-warlord14/JSScanner",
@@ -31,7 +31,7 @@
   },
   {
     "full_name": "the-xentropy/samlists",
-    "stargazers_count": 499,
+    "stargazers_count": 501,
     "open_issues_count": 0,
     "forks_count": 72
   },
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "0xZDH/o365spray",
-    "stargazers_count": 703,
+    "stargazers_count": 704,
     "open_issues_count": 4,
     "forks_count": 94
   },
   {
     "full_name": "denoland/deno_core",
-    "stargazers_count": 222,
-    "open_issues_count": 101,
-    "forks_count": 70
+    "stargazers_count": 224,
+    "open_issues_count": 97,
+    "forks_count": 72
   },
   {
     "full_name": "GabiDeutner/Proj-Python-FastAPI",
@@ -61,19 +61,19 @@
   },
   {
     "full_name": "ollama/ollama-python",
-    "stargazers_count": 2659,
-    "open_issues_count": 60,
-    "forks_count": 216
+    "stargazers_count": 2699,
+    "open_issues_count": 66,
+    "forks_count": 223
   },
   {
     "full_name": "nhn/tui.calendar",
-    "stargazers_count": 11628,
-    "open_issues_count": 195,
-    "forks_count": 1260
+    "stargazers_count": 11635,
+    "open_issues_count": 196,
+    "forks_count": 1262
   },
   {
     "full_name": "Coop56/awesome-unreal",
-    "stargazers_count": 110,
+    "stargazers_count": 111,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -91,9 +91,9 @@
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 12189,
+    "stargazers_count": 12218,
     "open_issues_count": 137,
-    "forks_count": 473
+    "forks_count": 474
   },
   {
     "full_name": "d4t4s3c/Win7Blue",
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "abonander/img_hash",
-    "stargazers_count": 301,
+    "stargazers_count": 302,
     "open_issues_count": 14,
     "forks_count": 60
   },
@@ -127,56 +127,56 @@
   },
   {
     "full_name": "RhinoSecurityLabs/cloudgoat",
-    "stargazers_count": 2811,
-    "open_issues_count": 27,
+    "stargazers_count": 2815,
+    "open_issues_count": 25,
     "forks_count": 586
   },
   {
     "full_name": "BishopFox/jsluice",
-    "stargazers_count": 1273,
+    "stargazers_count": 1275,
     "open_issues_count": 5,
-    "forks_count": 82
+    "forks_count": 83
   },
   {
     "full_name": "neosmart/udpproxy",
-    "stargazers_count": 30,
+    "stargazers_count": 31,
     "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 38257,
-    "open_issues_count": 2250,
-    "forks_count": 3314
+    "stargazers_count": 38307,
+    "open_issues_count": 2242,
+    "forks_count": 3311
   },
   {
     "full_name": "fastify/fast-json-stringify",
-    "stargazers_count": 3400,
+    "stargazers_count": 3403,
     "open_issues_count": 27,
     "forks_count": 204
   },
   {
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 14874,
-    "open_issues_count": 413,
-    "forks_count": 2671
+    "stargazers_count": 14890,
+    "open_issues_count": 395,
+    "forks_count": 2673
   },
   {
     "full_name": "MassTransit/MassTransit",
-    "stargazers_count": 6688,
-    "open_issues_count": 7,
-    "forks_count": 1593
+    "stargazers_count": 6695,
+    "open_issues_count": 8,
+    "forks_count": 1594
   },
   {
     "full_name": "torvalds/linux",
-    "stargazers_count": 173793,
-    "open_issues_count": 359,
-    "forks_count": 52426
+    "stargazers_count": 173982,
+    "open_issues_count": 360,
+    "forks_count": 52459
   },
   {
     "full_name": "astral-sh/rye",
-    "stargazers_count": 12071,
-    "open_issues_count": 236,
+    "stargazers_count": 12124,
+    "open_issues_count": 240,
     "forks_count": 425
   }
 ]
