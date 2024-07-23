@@ -7,13 +7,13 @@
   },
   {
     "full_name": "PacktPublishing/Ghidra-Software-Reverse-Engineering-for-Beginners",
-    "stargazers_count": 136,
+    "stargazers_count": 135,
     "open_issues_count": 1,
     "forks_count": 40
   },
   {
     "full_name": "assetnote/commonspeak2",
-    "stargazers_count": 672,
+    "stargazers_count": 673,
     "open_issues_count": 11,
     "forks_count": 96
   },
@@ -25,25 +25,25 @@
   },
   {
     "full_name": "projectdiscovery/httpx",
-    "stargazers_count": 7204,
-    "open_issues_count": 28,
-    "forks_count": 793
+    "stargazers_count": 7217,
+    "open_issues_count": 32,
+    "forks_count": 795
   },
   {
     "full_name": "dark-warlord14/JSScanner",
-    "stargazers_count": 264,
+    "stargazers_count": 265,
     "open_issues_count": 1,
     "forks_count": 62
   },
   {
     "full_name": "hakluke/hakoriginfinder",
-    "stargazers_count": 825,
+    "stargazers_count": 826,
     "open_issues_count": 1,
     "forks_count": 109
   },
   {
     "full_name": "the-xentropy/samlists",
-    "stargazers_count": 510,
+    "stargazers_count": 512,
     "open_issues_count": 0,
     "forks_count": 73
   },
@@ -62,7 +62,7 @@
   {
     "full_name": "denoland/deno_core",
     "stargazers_count": 237,
-    "open_issues_count": 106,
+    "open_issues_count": 101,
     "forks_count": 77
   },
   {
@@ -73,13 +73,13 @@
   },
   {
     "full_name": "ollama/ollama-python",
-    "stargazers_count": 2884,
-    "open_issues_count": 72,
-    "forks_count": 237
+    "stargazers_count": 2912,
+    "open_issues_count": 76,
+    "forks_count": 239
   },
   {
     "full_name": "nhn/tui.calendar",
-    "stargazers_count": 11693,
+    "stargazers_count": 11724,
     "open_issues_count": 197,
     "forks_count": 1264
   },
@@ -91,25 +91,25 @@
   },
   {
     "full_name": "caarlos0/esp8266-garage-door",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "brandonmcconnell/tailwindcss-multi",
-    "stargazers_count": 165,
+    "stargazers_count": 167,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 12330,
+    "stargazers_count": 12352,
     "open_issues_count": 136,
-    "forks_count": 472
+    "forks_count": 474
   },
   {
     "full_name": "d4t4s3c/Win7Blue",
-    "stargazers_count": 132,
+    "stargazers_count": 131,
     "open_issues_count": 0,
     "forks_count": 19
   },
@@ -133,19 +133,19 @@
   },
   {
     "full_name": "rust-cli/human-panic",
-    "stargazers_count": 1581,
+    "stargazers_count": 1582,
     "open_issues_count": 14,
-    "forks_count": 61
+    "forks_count": 62
   },
   {
     "full_name": "RhinoSecurityLabs/cloudgoat",
-    "stargazers_count": 2830,
+    "stargazers_count": 2831,
     "open_issues_count": 25,
-    "forks_count": 592
+    "forks_count": 591
   },
   {
     "full_name": "BishopFox/jsluice",
-    "stargazers_count": 1290,
+    "stargazers_count": 1292,
     "open_issues_count": 5,
     "forks_count": 83
   },
@@ -157,26 +157,26 @@
   },
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 38543,
-    "open_issues_count": 2318,
-    "forks_count": 3332
+    "stargazers_count": 38571,
+    "open_issues_count": 2366,
+    "forks_count": 3340
   },
   {
     "full_name": "fastify/fast-json-stringify",
     "stargazers_count": 3461,
     "open_issues_count": 27,
-    "forks_count": 205
+    "forks_count": 204
   },
   {
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 14960,
-    "open_issues_count": 398,
-    "forks_count": 2685
+    "stargazers_count": 14971,
+    "open_issues_count": 383,
+    "forks_count": 2690
   },
   {
     "full_name": "MassTransit/MassTransit",
-    "stargazers_count": 6736,
+    "stargazers_count": 6741,
     "open_issues_count": 8,
-    "forks_count": 1595
+    "forks_count": 1597
   }
 ]
