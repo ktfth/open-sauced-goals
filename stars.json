@@ -13,7 +13,7 @@
   },
   {
     "full_name": "assetnote/commonspeak2",
-    "stargazers_count": 674,
+    "stargazers_count": 678,
     "open_issues_count": 11,
     "forks_count": 96
   },
@@ -25,8 +25,8 @@
   },
   {
     "full_name": "projectdiscovery/httpx",
-    "stargazers_count": 7236,
-    "open_issues_count": 27,
+    "stargazers_count": 7255,
+    "open_issues_count": 29,
     "forks_count": 795
   },
   {
@@ -37,32 +37,32 @@
   },
   {
     "full_name": "hakluke/hakoriginfinder",
-    "stargazers_count": 826,
+    "stargazers_count": 827,
     "open_issues_count": 1,
     "forks_count": 109
   },
   {
     "full_name": "the-xentropy/samlists",
-    "stargazers_count": 512,
+    "stargazers_count": 514,
     "open_issues_count": 0,
     "forks_count": 73
   },
   {
     "full_name": "googleapis/nodejs-bigquery",
-    "stargazers_count": 461,
+    "stargazers_count": 464,
     "open_issues_count": 15,
     "forks_count": 209
   },
   {
     "full_name": "0xZDH/o365spray",
-    "stargazers_count": 712,
+    "stargazers_count": 714,
     "open_issues_count": 4,
     "forks_count": 94
   },
   {
     "full_name": "denoland/deno_core",
-    "stargazers_count": 237,
-    "open_issues_count": 100,
+    "stargazers_count": 239,
+    "open_issues_count": 102,
     "forks_count": 77
   },
   {
@@ -73,15 +73,15 @@
   },
   {
     "full_name": "ollama/ollama-python",
-    "stargazers_count": 2986,
-    "open_issues_count": 77,
-    "forks_count": 250
+    "stargazers_count": 3247,
+    "open_issues_count": 74,
+    "forks_count": 270
   },
   {
     "full_name": "nhn/tui.calendar",
-    "stargazers_count": 11736,
+    "stargazers_count": 11747,
     "open_issues_count": 197,
-    "forks_count": 1263
+    "forks_count": 1264
   },
   {
     "full_name": "Coop56/awesome-unreal",
@@ -103,8 +103,8 @@
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 12371,
-    "open_issues_count": 136,
+    "stargazers_count": 12389,
+    "open_issues_count": 137,
     "forks_count": 473
   },
   {
@@ -116,7 +116,7 @@
   {
     "full_name": "fnbrjs/fnbr.js",
     "stargazers_count": 125,
-    "open_issues_count": 9,
+    "open_issues_count": 8,
     "forks_count": 31
   },
   {
@@ -133,49 +133,49 @@
   },
   {
     "full_name": "rust-cli/human-panic",
-    "stargazers_count": 1584,
-    "open_issues_count": 15,
+    "stargazers_count": 1587,
+    "open_issues_count": 14,
     "forks_count": 62
   },
   {
     "full_name": "RhinoSecurityLabs/cloudgoat",
-    "stargazers_count": 2833,
+    "stargazers_count": 2834,
     "open_issues_count": 25,
     "forks_count": 592
   },
   {
     "full_name": "BishopFox/jsluice",
-    "stargazers_count": 1297,
+    "stargazers_count": 1304,
     "open_issues_count": 5,
     "forks_count": 83
   },
   {
     "full_name": "neosmart/udpproxy",
-    "stargazers_count": 31,
+    "stargazers_count": 32,
     "open_issues_count": 1,
     "forks_count": 9
   },
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 38607,
-    "open_issues_count": 2381,
-    "forks_count": 3338
+    "stargazers_count": 38640,
+    "open_issues_count": 2390,
+    "forks_count": 3340
   },
   {
     "full_name": "fastify/fast-json-stringify",
     "stargazers_count": 3463,
-    "open_issues_count": 27,
-    "forks_count": 204
+    "open_issues_count": 28,
+    "forks_count": 206
   },
   {
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 14977,
-    "open_issues_count": 396,
+    "stargazers_count": 14991,
+    "open_issues_count": 385,
     "forks_count": 2692
   },
   {
     "full_name": "MassTransit/MassTransit",
-    "stargazers_count": 6742,
+    "stargazers_count": 6750,
     "open_issues_count": 8,
     "forks_count": 1597
   }
