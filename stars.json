@@ -1,9 +1,9 @@
 [
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 34150,
-    "open_issues_count": 783,
-    "forks_count": 1014
+    "stargazers_count": 34187,
+    "open_issues_count": 779,
+    "forks_count": 1013
   },
   {
     "full_name": "Codeinwp/quickwp",
@@ -19,9 +19,9 @@
   },
   {
     "full_name": "assetnote/commonspeak2",
-    "stargazers_count": 680,
+    "stargazers_count": 681,
     "open_issues_count": 11,
-    "forks_count": 95
+    "forks_count": 96
   },
   {
     "full_name": "marcos-venicius/machine-runner",
@@ -31,9 +31,9 @@
   },
   {
     "full_name": "projectdiscovery/httpx",
-    "stargazers_count": 7410,
+    "stargazers_count": 7425,
     "open_issues_count": 20,
-    "forks_count": 811
+    "forks_count": 813
   },
   {
     "full_name": "dark-warlord14/JSScanner",
@@ -43,15 +43,15 @@
   },
   {
     "full_name": "hakluke/hakoriginfinder",
-    "stargazers_count": 834,
+    "stargazers_count": 837,
     "open_issues_count": 1,
     "forks_count": 108
   },
   {
     "full_name": "the-xentropy/samlists",
-    "stargazers_count": 525,
+    "stargazers_count": 528,
     "open_issues_count": 0,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "googleapis/nodejs-bigquery",
@@ -61,15 +61,15 @@
   },
   {
     "full_name": "0xZDH/o365spray",
-    "stargazers_count": 730,
+    "stargazers_count": 732,
     "open_issues_count": 5,
     "forks_count": 94
   },
   {
     "full_name": "denoland/deno_core",
-    "stargazers_count": 252,
-    "open_issues_count": 107,
-    "forks_count": 83
+    "stargazers_count": 253,
+    "open_issues_count": 112,
+    "forks_count": 84
   },
   {
     "full_name": "GabiDeutner/Proj-Python-FastAPI",
@@ -79,19 +79,19 @@
   },
   {
     "full_name": "ollama/ollama-python",
-    "stargazers_count": 3736,
-    "open_issues_count": 80,
-    "forks_count": 315
+    "stargazers_count": 3781,
+    "open_issues_count": 81,
+    "forks_count": 322
   },
   {
     "full_name": "nhn/tui.calendar",
-    "stargazers_count": 11845,
+    "stargazers_count": 11851,
     "open_issues_count": 198,
     "forks_count": 1280
   },
   {
     "full_name": "Coop56/awesome-unreal",
-    "stargazers_count": 121,
+    "stargazers_count": 122,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 12641,
-    "open_issues_count": 140,
+    "stargazers_count": 12657,
+    "open_issues_count": 142,
     "forks_count": 476
   },
   {
@@ -122,8 +122,8 @@
   {
     "full_name": "fnbrjs/fnbr.js",
     "stargazers_count": 128,
-    "open_issues_count": 8,
-    "forks_count": 32
+    "open_issues_count": 9,
+    "forks_count": 33
   },
   {
     "full_name": "qcod/laravel-gamify",
@@ -139,20 +139,20 @@
   },
   {
     "full_name": "rust-cli/human-panic",
-    "stargazers_count": 1625,
-    "open_issues_count": 15,
+    "stargazers_count": 1627,
+    "open_issues_count": 14,
     "forks_count": 63
   },
   {
     "full_name": "RhinoSecurityLabs/cloudgoat",
-    "stargazers_count": 2872,
+    "stargazers_count": 2879,
     "open_issues_count": 22,
-    "forks_count": 595
+    "forks_count": 597
   },
   {
     "full_name": "BishopFox/jsluice",
-    "stargazers_count": 1345,
-    "open_issues_count": 6,
+    "stargazers_count": 1350,
+    "open_issues_count": 7,
     "forks_count": 85
   },
   {
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "dbeaver/dbeaver",
-    "stargazers_count": 39094,
-    "open_issues_count": 2500,
-    "forks_count": 3375
+    "stargazers_count": 39140,
+    "open_issues_count": 2540,
+    "forks_count": 3380
   },
   {
     "full_name": "fastify/fast-json-stringify",
-    "stargazers_count": 3473,
-    "open_issues_count": 29,
+    "stargazers_count": 3476,
+    "open_issues_count": 30,
     "forks_count": 207
   },
   {
     "full_name": "typescript-eslint/typescript-eslint",
-    "stargazers_count": 15102,
-    "open_issues_count": 349,
-    "forks_count": 2704
+    "stargazers_count": 15109,
+    "open_issues_count": 358,
+    "forks_count": 2705
   }
 ]
