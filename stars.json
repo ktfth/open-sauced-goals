@@ -1,45 +1,45 @@
 [
   {
     "full_name": "denoland/saaskit",
-    "stargazers_count": 1176,
-    "open_issues_count": 17,
-    "forks_count": 141
+    "stargazers_count": 1186,
+    "open_issues_count": 16,
+    "forks_count": 142
   },
   {
     "full_name": "jsr-io/jsr",
-    "stargazers_count": 2357,
-    "open_issues_count": 193,
-    "forks_count": 101
+    "stargazers_count": 2383,
+    "open_issues_count": 197,
+    "forks_count": 102
   },
   {
     "full_name": "n8n-io/self-hosted-ai-starter-kit",
-    "stargazers_count": 2946,
+    "stargazers_count": 3087,
     "open_issues_count": 4,
-    "forks_count": 449
+    "forks_count": 472
   },
   {
     "full_name": "WinampDesktop/winamp",
-    "stargazers_count": 9327,
-    "open_issues_count": 184,
-    "forks_count": 2727
+    "stargazers_count": 9427,
+    "open_issues_count": 189,
+    "forks_count": 2774
   },
   {
     "full_name": "leerob/next-saas-starter",
-    "stargazers_count": 4800,
-    "open_issues_count": 12,
-    "forks_count": 523
+    "stargazers_count": 4842,
+    "open_issues_count": 13,
+    "forks_count": 535
   },
   {
     "full_name": "comfyanonymous/ComfyUI",
-    "stargazers_count": 52814,
-    "open_issues_count": 1765,
-    "forks_count": 5581
+    "stargazers_count": 53175,
+    "open_issues_count": 1759,
+    "forks_count": 5627
   },
   {
     "full_name": "BishopFox/sj",
-    "stargazers_count": 489,
+    "stargazers_count": 493,
     "open_issues_count": 3,
-    "forks_count": 67
+    "forks_count": 68
   },
   {
     "full_name": "FabioSmuu/Bsky-bot",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 34348,
-    "open_issues_count": 796,
-    "forks_count": 1022
+    "stargazers_count": 34361,
+    "open_issues_count": 798,
+    "forks_count": 1026
   },
   {
     "full_name": "Codeinwp/quickwp",
@@ -79,8 +79,8 @@
   },
   {
     "full_name": "projectdiscovery/httpx",
-    "stargazers_count": 7566,
-    "open_issues_count": 27,
+    "stargazers_count": 7587,
+    "open_issues_count": 33,
     "forks_count": 824
   },
   {
@@ -97,27 +97,27 @@
   },
   {
     "full_name": "the-xentropy/samlists",
-    "stargazers_count": 536,
+    "stargazers_count": 538,
     "open_issues_count": 0,
     "forks_count": 75
   },
   {
     "full_name": "googleapis/nodejs-bigquery",
-    "stargazers_count": 464,
+    "stargazers_count": 465,
     "open_issues_count": 15,
     "forks_count": 211
   },
   {
     "full_name": "0xZDH/o365spray",
-    "stargazers_count": 750,
+    "stargazers_count": 754,
     "open_issues_count": 5,
     "forks_count": 96
   },
   {
     "full_name": "denoland/deno_core",
-    "stargazers_count": 270,
-    "open_issues_count": 111,
-    "forks_count": 89
+    "stargazers_count": 276,
+    "open_issues_count": 109,
+    "forks_count": 91
   },
   {
     "full_name": "GabiDeutner/Proj-Python-FastAPI",
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "ollama/ollama-python",
-    "stargazers_count": 4163,
-    "open_issues_count": 95,
-    "forks_count": 346
+    "stargazers_count": 4197,
+    "open_issues_count": 96,
+    "forks_count": 351
   },
   {
     "full_name": "nhn/tui.calendar",
-    "stargazers_count": 11914,
+    "stargazers_count": 11923,
     "open_issues_count": 200,
-    "forks_count": 1283
+    "forks_count": 1284
   },
   {
     "full_name": "Coop56/awesome-unreal",
-    "stargazers_count": 136,
+    "stargazers_count": 137,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -151,15 +151,15 @@
   },
   {
     "full_name": "brandonmcconnell/tailwindcss-multi",
-    "stargazers_count": 176,
+    "stargazers_count": 177,
     "open_issues_count": 0,
     "forks_count": 3
   },
   {
     "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 12912,
-    "open_issues_count": 153,
-    "forks_count": 482
+    "stargazers_count": 12924,
+    "open_issues_count": 156,
+    "forks_count": 483
   },
   {
     "full_name": "d4t4s3c/Win7Blue",
@@ -175,7 +175,7 @@
   },
   {
     "full_name": "qcod/laravel-gamify",
-    "stargazers_count": 642,
+    "stargazers_count": 643,
     "open_issues_count": 23,
     "forks_count": 69
   }
