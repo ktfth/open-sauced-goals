@@ -1,51 +1,153 @@
 [
   {
-    "full_name": "levkk/rwf",
-    "stargazers_count": 930,
+    "full_name": "drawdb-io/drawdb",
+    "stargazers_count": 22082,
+    "open_issues_count": 70,
+    "forks_count": 1552
+  },
+  {
+    "full_name": "hynek/structlog",
+    "stargazers_count": 3518,
+    "open_issues_count": 37,
+    "forks_count": 221
+  },
+  {
+    "full_name": "vercel/nft",
+    "stargazers_count": 1324,
+    "open_issues_count": 41,
+    "forks_count": 136
+  },
+  {
+    "full_name": "jdm/servo",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "incogbyte/shosubgo",
+    "stargazers_count": 356,
+    "open_issues_count": 1,
+    "forks_count": 45
+  },
+  {
+    "full_name": "raphamorim/mini-gameboy-emulator-rustlab",
+    "stargazers_count": 8,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "nyxgeek/onedrive_user_enum",
+    "stargazers_count": 617,
     "open_issues_count": 4,
-    "forks_count": 14
+    "forks_count": 76
+  },
+  {
+    "full_name": "pacocoursey/cmdk",
+    "stargazers_count": 9874,
+    "open_issues_count": 80,
+    "forks_count": 284
+  },
+  {
+    "full_name": "appsignal/appsignal-nodejs",
+    "stargazers_count": 28,
+    "open_issues_count": 18,
+    "forks_count": 9
+  },
+  {
+    "full_name": "arunabhverma/expo-linear-modal-example",
+    "stargazers_count": 15,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "lkarlslund/ldapnomnom",
+    "stargazers_count": 1000,
+    "open_issues_count": 0,
+    "forks_count": 79
+  },
+  {
+    "full_name": "paritytech/subxt",
+    "stargazers_count": 425,
+    "open_issues_count": 62,
+    "forks_count": 248
+  },
+  {
+    "full_name": "bitbomdev/minefield",
+    "stargazers_count": 354,
+    "open_issues_count": 2,
+    "forks_count": 10
+  },
+  {
+    "full_name": "marysaka/blackmagic",
+    "stargazers_count": 2,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "liseami/screenshot-to-code",
+    "stargazers_count": 949,
+    "open_issues_count": 0,
+    "forks_count": 67
+  },
+  {
+    "full_name": "safak/full-stack-restaurant",
+    "stargazers_count": 78,
+    "open_issues_count": 2,
+    "forks_count": 47
+  },
+  {
+    "full_name": "SRayen/Food-Ordering-NextJS",
+    "stargazers_count": 23,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
+    "full_name": "levkk/rwf",
+    "stargazers_count": 945,
+    "open_issues_count": 5,
+    "forks_count": 15
   },
   {
     "full_name": "oxc-project/oxc",
-    "stargazers_count": 12187,
-    "open_issues_count": 147,
-    "forks_count": 440
+    "stargazers_count": 12248,
+    "open_issues_count": 158,
+    "forks_count": 443
   },
   {
     "full_name": "denoland/saaskit",
-    "stargazers_count": 1202,
+    "stargazers_count": 1204,
     "open_issues_count": 21,
-    "forks_count": 149
+    "forks_count": 147
   },
   {
     "full_name": "jsr-io/jsr",
-    "stargazers_count": 2459,
-    "open_issues_count": 199,
-    "forks_count": 111
+    "stargazers_count": 2467,
+    "open_issues_count": 201,
+    "forks_count": 112
   },
   {
     "full_name": "n8n-io/self-hosted-ai-starter-kit",
-    "stargazers_count": 3369,
+    "stargazers_count": 3430,
     "open_issues_count": 5,
-    "forks_count": 562
+    "forks_count": 582
   },
   {
     "full_name": "leerob/next-saas-starter",
-    "stargazers_count": 5260,
-    "open_issues_count": 13,
-    "forks_count": 595
+    "stargazers_count": 5378,
+    "open_issues_count": 9,
+    "forks_count": 604
   },
   {
     "full_name": "comfyanonymous/ComfyUI",
-    "stargazers_count": 55251,
-    "open_issues_count": 1785,
-    "forks_count": 5837
+    "stargazers_count": 55616,
+    "open_issues_count": 1786,
+    "forks_count": 5874
   },
   {
     "full_name": "BishopFox/sj",
-    "stargazers_count": 511,
+    "stargazers_count": 524,
     "open_issues_count": 4,
-    "forks_count": 71
+    "forks_count": 74
   },
   {
     "full_name": "FabioSmuu/Bsky-bot",
@@ -55,13 +157,13 @@
   },
   {
     "full_name": "lapce/lapce",
-    "stargazers_count": 34431,
-    "open_issues_count": 804,
-    "forks_count": 1030
+    "stargazers_count": 34445,
+    "open_issues_count": 805,
+    "forks_count": 1031
   },
   {
     "full_name": "Codeinwp/quickwp",
-    "stargazers_count": 60,
+    "stargazers_count": 61,
     "open_issues_count": 0,
     "forks_count": 10
   },
@@ -73,110 +175,8 @@
   },
   {
     "full_name": "assetnote/commonspeak2",
-    "stargazers_count": 693,
+    "stargazers_count": 694,
     "open_issues_count": 11,
     "forks_count": 100
-  },
-  {
-    "full_name": "marcos-venicius/machine-runner",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "projectdiscovery/httpx",
-    "stargazers_count": 7668,
-    "open_issues_count": 24,
-    "forks_count": 833
-  },
-  {
-    "full_name": "dark-warlord14/JSScanner",
-    "stargazers_count": 267,
-    "open_issues_count": 1,
-    "forks_count": 62
-  },
-  {
-    "full_name": "hakluke/hakoriginfinder",
-    "stargazers_count": 849,
-    "open_issues_count": 1,
-    "forks_count": 110
-  },
-  {
-    "full_name": "the-xentropy/samlists",
-    "stargazers_count": 547,
-    "open_issues_count": 0,
-    "forks_count": 77
-  },
-  {
-    "full_name": "googleapis/nodejs-bigquery",
-    "stargazers_count": 466,
-    "open_issues_count": 19,
-    "forks_count": 211
-  },
-  {
-    "full_name": "0xZDH/o365spray",
-    "stargazers_count": 757,
-    "open_issues_count": 5,
-    "forks_count": 97
-  },
-  {
-    "full_name": "denoland/deno_core",
-    "stargazers_count": 292,
-    "open_issues_count": 111,
-    "forks_count": 95
-  },
-  {
-    "full_name": "GabiDeutner/Proj-Python-FastAPI",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "ollama/ollama-python",
-    "stargazers_count": 4368,
-    "open_issues_count": 100,
-    "forks_count": 368
-  },
-  {
-    "full_name": "nhn/tui.calendar",
-    "stargazers_count": 11966,
-    "open_issues_count": 202,
-    "forks_count": 1294
-  },
-  {
-    "full_name": "Coop56/awesome-unreal",
-    "stargazers_count": 141,
-    "open_issues_count": 0,
-    "forks_count": 9
-  },
-  {
-    "full_name": "caarlos0/esp8266-garage-door",
-    "stargazers_count": 9,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "brandonmcconnell/tailwindcss-multi",
-    "stargazers_count": 179,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "Orange-OpenSource/hurl",
-    "stargazers_count": 13021,
-    "open_issues_count": 150,
-    "forks_count": 486
-  },
-  {
-    "full_name": "d4t4s3c/Win7Blue",
-    "stargazers_count": 140,
-    "open_issues_count": 0,
-    "forks_count": 19
-  },
-  {
-    "full_name": "fnbrjs/fnbr.js",
-    "stargazers_count": 129,
-    "open_issues_count": 7,
-    "forks_count": 35
   }
 ]
