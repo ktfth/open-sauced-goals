@@ -1,55 +1,55 @@
 [
   {
     "full_name": "onwidget/astrowind",
-    "stargazers_count": 3483,
-    "open_issues_count": 17,
-    "forks_count": 1060
+    "stargazers_count": 3503,
+    "open_issues_count": 19,
+    "forks_count": 1070
   },
   {
     "full_name": "jonasmerlin/astro-seo",
-    "stargazers_count": 972,
+    "stargazers_count": 974,
     "open_issues_count": 11,
     "forks_count": 51
   },
   {
     "full_name": "integrandio/lucidmq",
-    "stargazers_count": 38,
+    "stargazers_count": 39,
     "open_issues_count": 8,
-    "forks_count": 1
+    "forks_count": 2
   },
   {
     "full_name": "flydelabs/flyde",
-    "stargazers_count": 1980,
+    "stargazers_count": 1983,
     "open_issues_count": 26,
     "forks_count": 49
   },
   {
     "full_name": "promptslab/Promptify",
-    "stargazers_count": 3271,
+    "stargazers_count": 3275,
     "open_issues_count": 60,
-    "forks_count": 239
+    "forks_count": 240
   },
   {
     "full_name": "promptslab/Awesome-Prompt-Engineering",
-    "stargazers_count": 3901,
+    "stargazers_count": 3910,
     "open_issues_count": 5,
-    "forks_count": 357
+    "forks_count": 359
   },
   {
     "full_name": "drawdb-io/drawdb",
-    "stargazers_count": 22589,
-    "open_issues_count": 75,
-    "forks_count": 1574
+    "stargazers_count": 22690,
+    "open_issues_count": 76,
+    "forks_count": 1581
   },
   {
     "full_name": "hynek/structlog",
-    "stargazers_count": 3578,
-    "open_issues_count": 35,
+    "stargazers_count": 3583,
+    "open_issues_count": 36,
     "forks_count": 225
   },
   {
     "full_name": "vercel/nft",
-    "stargazers_count": 1332,
+    "stargazers_count": 1335,
     "open_issues_count": 41,
     "forks_count": 136
   },
@@ -79,14 +79,14 @@
   },
   {
     "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 9943,
-    "open_issues_count": 79,
-    "forks_count": 285
+    "stargazers_count": 9966,
+    "open_issues_count": 70,
+    "forks_count": 287
   },
   {
     "full_name": "appsignal/appsignal-nodejs",
     "stargazers_count": 29,
-    "open_issues_count": 19,
+    "open_issues_count": 21,
     "forks_count": 9
   },
   {
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "lkarlslund/ldapnomnom",
-    "stargazers_count": 1006,
+    "stargazers_count": 1008,
     "open_issues_count": 0,
     "forks_count": 79
   },
@@ -109,8 +109,8 @@
   },
   {
     "full_name": "bitbomdev/minefield",
-    "stargazers_count": 515,
-    "open_issues_count": 7,
+    "stargazers_count": 535,
+    "open_issues_count": 8,
     "forks_count": 15
   },
   {
@@ -121,7 +121,7 @@
   },
   {
     "full_name": "liseami/screenshot-to-code",
-    "stargazers_count": 1071,
+    "stargazers_count": 1081,
     "open_issues_count": 0,
     "forks_count": 76
   },
@@ -129,7 +129,7 @@
     "full_name": "safak/full-stack-restaurant",
     "stargazers_count": 78,
     "open_issues_count": 2,
-    "forks_count": 48
+    "forks_count": 49
   },
   {
     "full_name": "SRayen/Food-Ordering-NextJS",
@@ -139,44 +139,44 @@
   },
   {
     "full_name": "levkk/rwf",
-    "stargazers_count": 979,
-    "open_issues_count": 13,
-    "forks_count": 17
+    "stargazers_count": 984,
+    "open_issues_count": 14,
+    "forks_count": 18
   },
   {
     "full_name": "oxc-project/oxc",
-    "stargazers_count": 12436,
-    "open_issues_count": 164,
-    "forks_count": 455
+    "stargazers_count": 12480,
+    "open_issues_count": 156,
+    "forks_count": 456
   },
   {
     "full_name": "denoland/saaskit",
-    "stargazers_count": 1211,
-    "open_issues_count": 20,
-    "forks_count": 150
+    "stargazers_count": 1213,
+    "open_issues_count": 19,
+    "forks_count": 149
   },
   {
     "full_name": "jsr-io/jsr",
-    "stargazers_count": 2514,
-    "open_issues_count": 189,
+    "stargazers_count": 2518,
+    "open_issues_count": 190,
     "forks_count": 116
   },
   {
     "full_name": "n8n-io/self-hosted-ai-starter-kit",
-    "stargazers_count": 3662,
+    "stargazers_count": 3697,
     "open_issues_count": 6,
-    "forks_count": 643
+    "forks_count": 654
   },
   {
     "full_name": "leerob/next-saas-starter",
-    "stargazers_count": 5548,
+    "stargazers_count": 5581,
     "open_issues_count": 11,
-    "forks_count": 628
+    "forks_count": 633
   },
   {
     "full_name": "comfyanonymous/ComfyUI",
-    "stargazers_count": 57049,
-    "open_issues_count": 1802,
-    "forks_count": 6042
+    "stargazers_count": 57421,
+    "open_issues_count": 1812,
+    "forks_count": 6078
   }
 ]
