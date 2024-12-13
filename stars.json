@@ -1,39 +1,63 @@
 [
   {
+    "full_name": "0xPlaygrounds/rig",
+    "stargazers_count": 724,
+    "open_issues_count": 27,
+    "forks_count": 45
+  },
+  {
+    "full_name": "quentinhardy/msdat",
+    "stargazers_count": 846,
+    "open_issues_count": 8,
+    "forks_count": 140
+  },
+  {
+    "full_name": "backstage/backstage",
+    "stargazers_count": 28702,
+    "open_issues_count": 489,
+    "forks_count": 6101
+  },
+  {
+    "full_name": "tursodatabase/limbo",
+    "stargazers_count": 4143,
+    "open_issues_count": 79,
+    "forks_count": 141
+  },
+  {
     "full_name": "Os-Derivados/college-management",
-    "stargazers_count": 12,
-    "open_issues_count": 3,
-    "forks_count": 0
+    "stargazers_count": 20,
+    "open_issues_count": 8,
+    "forks_count": 1
   },
   {
     "full_name": "kpcyrd/sn0int",
-    "stargazers_count": 2076,
+    "stargazers_count": 2083,
     "open_issues_count": 51,
     "forks_count": 182
   },
   {
     "full_name": "NVIDIA/garak",
-    "stargazers_count": 2989,
-    "open_issues_count": 317,
+    "stargazers_count": 3018,
+    "open_issues_count": 318,
     "forks_count": 256
   },
   {
     "full_name": "filipedeschamps/tabnews.com.br",
-    "stargazers_count": 5393,
+    "stargazers_count": 5396,
     "open_issues_count": 101,
-    "forks_count": 394
+    "forks_count": 395
   },
   {
     "full_name": "OWASP/Nettacker",
-    "stargazers_count": 3685,
-    "open_issues_count": 30,
-    "forks_count": 790
+    "stargazers_count": 3691,
+    "open_issues_count": 31,
+    "forks_count": 792
   },
   {
     "full_name": "aidenybai/react-scan",
-    "stargazers_count": 9716,
-    "open_issues_count": 49,
-    "forks_count": 107
+    "stargazers_count": 10272,
+    "open_issues_count": 55,
+    "forks_count": 119
   },
   {
     "full_name": "aws-samples/prompt-engineering-with-anthropic-claude-v-3",
@@ -43,25 +67,25 @@
   },
   {
     "full_name": "meilisearch/arroy",
-    "stargazers_count": 233,
+    "stargazers_count": 234,
     "open_issues_count": 27,
     "forks_count": 8
   },
   {
     "full_name": "RevoltSecurities/ShodanX",
-    "stargazers_count": 200,
+    "stargazers_count": 201,
     "open_issues_count": 4,
     "forks_count": 28
   },
   {
     "full_name": "mayuki/Cocona",
-    "stargazers_count": 3296,
+    "stargazers_count": 3300,
     "open_issues_count": 62,
     "forks_count": 87
   },
   {
     "full_name": "denoland/vscode_deno",
-    "stargazers_count": 1499,
+    "stargazers_count": 1500,
     "open_issues_count": 94,
     "forks_count": 145
   },
@@ -79,27 +103,27 @@
   },
   {
     "full_name": "BuilderIO/ai-shell",
-    "stargazers_count": 4271,
+    "stargazers_count": 4278,
     "open_issues_count": 38,
     "forks_count": 278
   },
   {
     "full_name": "Mintplex-Labs/anything-llm",
-    "stargazers_count": 28313,
-    "open_issues_count": 238,
-    "forks_count": 2876
+    "stargazers_count": 28500,
+    "open_issues_count": 220,
+    "forks_count": 2884
   },
   {
     "full_name": "onwidget/astrowind",
-    "stargazers_count": 3589,
-    "open_issues_count": 25,
-    "forks_count": 1096
+    "stargazers_count": 3606,
+    "open_issues_count": 18,
+    "forks_count": 1100
   },
   {
     "full_name": "jonasmerlin/astro-seo",
-    "stargazers_count": 986,
+    "stargazers_count": 989,
     "open_issues_count": 11,
-    "forks_count": 50
+    "forks_count": 52
   },
   {
     "full_name": "integrandio/lucidmq",
@@ -109,39 +133,39 @@
   },
   {
     "full_name": "flydelabs/flyde",
-    "stargazers_count": 1990,
+    "stargazers_count": 1993,
     "open_issues_count": 26,
     "forks_count": 50
   },
   {
     "full_name": "promptslab/Promptify",
-    "stargazers_count": 3320,
+    "stargazers_count": 3326,
     "open_issues_count": 60,
     "forks_count": 244
   },
   {
     "full_name": "promptslab/Awesome-Prompt-Engineering",
-    "stargazers_count": 3971,
+    "stargazers_count": 3982,
     "open_issues_count": 5,
-    "forks_count": 366
+    "forks_count": 367
   },
   {
     "full_name": "drawdb-io/drawdb",
-    "stargazers_count": 22951,
-    "open_issues_count": 87,
-    "forks_count": 1608
+    "stargazers_count": 23011,
+    "open_issues_count": 88,
+    "forks_count": 1611
   },
   {
     "full_name": "hynek/structlog",
-    "stargazers_count": 3608,
+    "stargazers_count": 3625,
     "open_issues_count": 38,
-    "forks_count": 228
+    "forks_count": 229
   },
   {
     "full_name": "vercel/nft",
-    "stargazers_count": 1346,
+    "stargazers_count": 1348,
     "open_issues_count": 41,
-    "forks_count": 137
+    "forks_count": 142
   },
   {
     "full_name": "jdm/servo",
@@ -154,29 +178,5 @@
     "stargazers_count": 368,
     "open_issues_count": 1,
     "forks_count": 48
-  },
-  {
-    "full_name": "raphamorim/mini-gameboy-emulator-rustlab",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "nyxgeek/onedrive_user_enum",
-    "stargazers_count": 627,
-    "open_issues_count": 4,
-    "forks_count": 78
-  },
-  {
-    "full_name": "pacocoursey/cmdk",
-    "stargazers_count": 10055,
-    "open_issues_count": 66,
-    "forks_count": 288
-  },
-  {
-    "full_name": "appsignal/appsignal-nodejs",
-    "stargazers_count": 29,
-    "open_issues_count": 21,
-    "forks_count": 9
   }
 ]
