@@ -1,51 +1,57 @@
 [
   {
+    "full_name": "dotnet/csharpstandard",
+    "stargazers_count": 736,
+    "open_issues_count": 265,
+    "forks_count": 87
+  },
+  {
     "full_name": "jake83741/vnc-lm",
-    "stargazers_count": 71,
+    "stargazers_count": 72,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "KozielGPC/person-crud",
-    "stargazers_count": 77,
+    "stargazers_count": 78,
     "open_issues_count": 0,
     "forks_count": 4
   },
   {
     "full_name": "nickscamara/open-deep-research",
-    "stargazers_count": 3917,
-    "open_issues_count": 23,
-    "forks_count": 471
+    "stargazers_count": 4147,
+    "open_issues_count": 24,
+    "forks_count": 511
   },
   {
     "full_name": "cline/cline",
-    "stargazers_count": 29148,
-    "open_issues_count": 363,
-    "forks_count": 2723
+    "stargazers_count": 29752,
+    "open_issues_count": 390,
+    "forks_count": 2822
   },
   {
     "full_name": "paypal/paypal-js",
     "stargazers_count": 263,
-    "open_issues_count": 33,
+    "open_issues_count": 34,
     "forks_count": 99
   },
   {
     "full_name": "expenses/slang-struct-rs",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "Abdenasser/neohtop",
-    "stargazers_count": 5147,
-    "open_issues_count": 16,
-    "forks_count": 161
+    "stargazers_count": 5658,
+    "open_issues_count": 17,
+    "forks_count": 175
   },
   {
     "full_name": "paradigmxyz/reth",
-    "stargazers_count": 4326,
-    "open_issues_count": 283,
-    "forks_count": 1406
+    "stargazers_count": 4339,
+    "open_issues_count": 272,
+    "forks_count": 1413
   },
   {
     "full_name": "scarletquasar/blockchain-rust",
@@ -55,19 +61,19 @@
   },
   {
     "full_name": "human-substrate/Substrate",
-    "stargazers_count": 443,
+    "stargazers_count": 445,
     "open_issues_count": 12,
-    "forks_count": 59
+    "forks_count": 60
   },
   {
     "full_name": "tensorzero/tensorzero",
-    "stargazers_count": 2531,
-    "open_issues_count": 106,
-    "forks_count": 143
+    "stargazers_count": 2583,
+    "open_issues_count": 104,
+    "forks_count": 151
   },
   {
     "full_name": "piebro/factorio-blueprint-visualizer",
-    "stargazers_count": 555,
+    "stargazers_count": 558,
     "open_issues_count": 0,
     "forks_count": 10
   },
@@ -79,104 +85,98 @@
   },
   {
     "full_name": "gitroomhq/postiz-app",
-    "stargazers_count": 18015,
-    "open_issues_count": 93,
-    "forks_count": 2869
+    "stargazers_count": 18081,
+    "open_issues_count": 96,
+    "forks_count": 2880
   },
   {
     "full_name": "maniero/SOpt",
-    "stargazers_count": 1790,
+    "stargazers_count": 1792,
     "open_issues_count": 0,
     "forks_count": 174
   },
   {
     "full_name": "go-gitea/gitea",
-    "stargazers_count": 47086,
-    "open_issues_count": 2749,
-    "forks_count": 5652
+    "stargazers_count": 47157,
+    "open_issues_count": 2755,
+    "forks_count": 5660
   },
   {
     "full_name": "drk1wi/portspoof",
-    "stargazers_count": 2157,
+    "stargazers_count": 2158,
     "open_issues_count": 1,
     "forks_count": 175
   },
   {
     "full_name": "blackcandy-org/blackcandy",
-    "stargazers_count": 3419,
+    "stargazers_count": 3435,
     "open_issues_count": 31,
     "forks_count": 166
   },
   {
     "full_name": "bitcoin/bitcoin",
-    "stargazers_count": 81985,
-    "open_issues_count": 691,
-    "forks_count": 36715
+    "stargazers_count": 82046,
+    "open_issues_count": 689,
+    "forks_count": 36734
   },
   {
     "full_name": "mherrmann/helium",
-    "stargazers_count": 7434,
-    "open_issues_count": 54,
-    "forks_count": 453
+    "stargazers_count": 7472,
+    "open_issues_count": 55,
+    "forks_count": 456
   },
   {
     "full_name": "DioxusLabs/dioxus",
-    "stargazers_count": 25176,
-    "open_issues_count": 314,
-    "forks_count": 977
+    "stargazers_count": 25225,
+    "open_issues_count": 327,
+    "forks_count": 979
   },
   {
     "full_name": "0xPlaygrounds/rig",
-    "stargazers_count": 2914,
-    "open_issues_count": 64,
-    "forks_count": 283
+    "stargazers_count": 2965,
+    "open_issues_count": 62,
+    "forks_count": 291
   },
   {
     "full_name": "quentinhardy/msdat",
-    "stargazers_count": 864,
+    "stargazers_count": 865,
     "open_issues_count": 9,
     "forks_count": 140
   },
   {
     "full_name": "backstage/backstage",
-    "stargazers_count": 29318,
-    "open_issues_count": 498,
-    "forks_count": 6264
+    "stargazers_count": 29341,
+    "open_issues_count": 502,
+    "forks_count": 6269
   },
   {
     "full_name": "tursodatabase/limbo",
-    "stargazers_count": 9395,
-    "open_issues_count": 84,
-    "forks_count": 332
+    "stargazers_count": 9462,
+    "open_issues_count": 83,
+    "forks_count": 337
   },
   {
     "full_name": "Os-Derivados/college-management",
     "stargazers_count": 24,
     "open_issues_count": 10,
-    "forks_count": 7
+    "forks_count": 6
   },
   {
     "full_name": "kpcyrd/sn0int",
-    "stargazers_count": 2143,
+    "stargazers_count": 2151,
     "open_issues_count": 51,
     "forks_count": 186
   },
   {
     "full_name": "NVIDIA/garak",
-    "stargazers_count": 3862,
-    "open_issues_count": 336,
-    "forks_count": 344
+    "stargazers_count": 3876,
+    "open_issues_count": 335,
+    "forks_count": 347
   },
   {
     "full_name": "filipedeschamps/tabnews.com.br",
-    "stargazers_count": 5549,
+    "stargazers_count": 5561,
     "open_issues_count": 102,
-    "forks_count": 409
-  },
-  {
-    "full_name": "OWASP/Nettacker",
-    "stargazers_count": 3820,
-    "open_issues_count": 40,
-    "forks_count": 814
+    "forks_count": 411
   }
 ]
