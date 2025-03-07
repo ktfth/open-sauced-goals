@@ -1,25 +1,55 @@
 [
   {
+    "full_name": "electronicarts/CnC_Red_Alert",
+    "stargazers_count": 5354,
+    "open_issues_count": 0,
+    "forks_count": 976
+  },
+  {
+    "full_name": "ThePrimeagen/CnC_Generals_Zero_Hour",
+    "stargazers_count": 15,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "danielgtaylor/huma",
+    "stargazers_count": 2727,
+    "open_issues_count": 78,
+    "forks_count": 184
+  },
+  {
+    "full_name": "deepseek-ai/smallpond",
+    "stargazers_count": 3851,
+    "open_issues_count": 20,
+    "forks_count": 312
+  },
+  {
+    "full_name": "nitrojs/nitro",
+    "stargazers_count": 6768,
+    "open_issues_count": 386,
+    "forks_count": 565
+  },
+  {
     "full_name": "cabelo/multicortex-exo",
-    "stargazers_count": 42,
+    "stargazers_count": 43,
     "open_issues_count": 1,
-    "forks_count": 4
+    "forks_count": 5
   },
   {
     "full_name": "GNtousakis/llm-commit",
-    "stargazers_count": 109,
+    "stargazers_count": 110,
     "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "mastra-ai/mastra",
-    "stargazers_count": 8994,
-    "open_issues_count": 50,
-    "forks_count": 371
+    "stargazers_count": 9480,
+    "open_issues_count": 70,
+    "forks_count": 411
   },
   {
     "full_name": "subtrace/subtrace",
-    "stargazers_count": 2215,
+    "stargazers_count": 2242,
     "open_issues_count": 9,
     "forks_count": 44
   },
@@ -43,20 +73,20 @@
   },
   {
     "full_name": "nickscamara/open-deep-research",
-    "stargazers_count": 4660,
-    "open_issues_count": 27,
-    "forks_count": 553
+    "stargazers_count": 4762,
+    "open_issues_count": 28,
+    "forks_count": 571
   },
   {
     "full_name": "cline/cline",
-    "stargazers_count": 32678,
-    "open_issues_count": 434,
-    "forks_count": 3184
+    "stargazers_count": 33273,
+    "open_issues_count": 437,
+    "forks_count": 3269
   },
   {
     "full_name": "paypal/paypal-js",
-    "stargazers_count": 268,
-    "open_issues_count": 36,
+    "stargazers_count": 269,
+    "open_issues_count": 35,
     "forks_count": 101
   },
   {
@@ -67,15 +97,15 @@
   },
   {
     "full_name": "Abdenasser/neohtop",
-    "stargazers_count": 5917,
-    "open_issues_count": 16,
-    "forks_count": 182
+    "stargazers_count": 5929,
+    "open_issues_count": 17,
+    "forks_count": 183
   },
   {
     "full_name": "paradigmxyz/reth",
-    "stargazers_count": 4391,
-    "open_issues_count": 294,
-    "forks_count": 1447
+    "stargazers_count": 4408,
+    "open_issues_count": 289,
+    "forks_count": 1458
   },
   {
     "full_name": "scarletquasar/blockchain-rust",
@@ -91,9 +121,9 @@
   },
   {
     "full_name": "tensorzero/tensorzero",
-    "stargazers_count": 2791,
-    "open_issues_count": 120,
-    "forks_count": 168
+    "stargazers_count": 2863,
+    "open_issues_count": 130,
+    "forks_count": 172
   },
   {
     "full_name": "piebro/factorio-blueprint-visualizer",
@@ -109,74 +139,44 @@
   },
   {
     "full_name": "gitroomhq/postiz-app",
-    "stargazers_count": 18288,
-    "open_issues_count": 105,
-    "forks_count": 2920
+    "stargazers_count": 18334,
+    "open_issues_count": 104,
+    "forks_count": 2927
   },
   {
     "full_name": "maniero/SOpt",
-    "stargazers_count": 1817,
+    "stargazers_count": 1824,
     "open_issues_count": 0,
-    "forks_count": 176
+    "forks_count": 177
   },
   {
     "full_name": "go-gitea/gitea",
-    "stargazers_count": 47373,
+    "stargazers_count": 47439,
     "open_issues_count": 2772,
-    "forks_count": 5690
+    "forks_count": 5693
   },
   {
     "full_name": "drk1wi/portspoof",
-    "stargazers_count": 2195,
+    "stargazers_count": 2200,
     "open_issues_count": 1,
     "forks_count": 177
   },
   {
     "full_name": "blackcandy-org/blackcandy",
-    "stargazers_count": 3452,
+    "stargazers_count": 3456,
     "open_issues_count": 32,
     "forks_count": 170
   },
   {
     "full_name": "bitcoin/bitcoin",
-    "stargazers_count": 82291,
+    "stargazers_count": 82353,
     "open_issues_count": 675,
-    "forks_count": 36870
+    "forks_count": 36891
   },
   {
     "full_name": "mherrmann/helium",
-    "stargazers_count": 7552,
+    "stargazers_count": 7572,
     "open_issues_count": 54,
     "forks_count": 459
-  },
-  {
-    "full_name": "DioxusLabs/dioxus",
-    "stargazers_count": 25543,
-    "open_issues_count": 348,
-    "forks_count": 1000
-  },
-  {
-    "full_name": "0xPlaygrounds/rig",
-    "stargazers_count": 3131,
-    "open_issues_count": 67,
-    "forks_count": 315
-  },
-  {
-    "full_name": "quentinhardy/msdat",
-    "stargazers_count": 868,
-    "open_issues_count": 9,
-    "forks_count": 140
-  },
-  {
-    "full_name": "backstage/backstage",
-    "stargazers_count": 29435,
-    "open_issues_count": 508,
-    "forks_count": 6307
-  },
-  {
-    "full_name": "tursodatabase/limbo",
-    "stargazers_count": 9670,
-    "open_issues_count": 173,
-    "forks_count": 352
   }
 ]
