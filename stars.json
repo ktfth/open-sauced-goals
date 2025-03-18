@@ -1,51 +1,141 @@
 [
   {
+    "full_name": "dwisiswant0/awesome-oneliner-bugbounty",
+    "stargazers_count": 2796,
+    "open_issues_count": 6,
+    "forks_count": 596
+  },
+  {
+    "full_name": "S3cur3Th1sSh1t/WinPwn",
+    "stargazers_count": 3439,
+    "open_issues_count": 2,
+    "forks_count": 534
+  },
+  {
+    "full_name": "khast3x/h8mail",
+    "stargazers_count": 4366,
+    "open_issues_count": 29,
+    "forks_count": 534
+  },
+  {
+    "full_name": "laramies/theHarvester",
+    "stargazers_count": 12213,
+    "open_issues_count": 24,
+    "forks_count": 2105
+  },
+  {
+    "full_name": "smicallef/spiderfoot",
+    "stargazers_count": 13943,
+    "open_issues_count": 210,
+    "forks_count": 2390
+  },
+  {
+    "full_name": "owasp-amass/amass",
+    "stargazers_count": 12629,
+    "open_issues_count": 206,
+    "forks_count": 1947
+  },
+  {
+    "full_name": "six2dez/reconftw",
+    "stargazers_count": 6108,
+    "open_issues_count": 16,
+    "forks_count": 976
+  },
+  {
+    "full_name": "s0md3v/Arjun",
+    "stargazers_count": 5507,
+    "open_issues_count": 11,
+    "forks_count": 810
+  },
+  {
+    "full_name": "traggo/server",
+    "stargazers_count": 1323,
+    "open_issues_count": 51,
+    "forks_count": 65
+  },
+  {
+    "full_name": "suitenumerique/docs",
+    "stargazers_count": 5773,
+    "open_issues_count": 159,
+    "forks_count": 115
+  },
+  {
+    "full_name": "leerob/gemini-image-editing-nextjs-quickstart",
+    "stargazers_count": 9,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "glanceapp/glance",
+    "stargazers_count": 17136,
+    "open_issues_count": 131,
+    "forks_count": 608
+  },
+  {
+    "full_name": "langchain-ai/ollama-deep-researcher",
+    "stargazers_count": 4451,
+    "open_issues_count": 16,
+    "forks_count": 489
+  },
+  {
+    "full_name": "crmne/ruby_llm",
+    "stargazers_count": 1568,
+    "open_issues_count": 21,
+    "forks_count": 42
+  },
+  {
+    "full_name": "chenquan/arkflow",
+    "stargazers_count": 356,
+    "open_issues_count": 9,
+    "forks_count": 10
+  },
+  {
     "full_name": "microsoft/typescript-go",
-    "stargazers_count": 15052,
-    "open_issues_count": 68,
-    "forks_count": 384
+    "stargazers_count": 17552,
+    "open_issues_count": 80,
+    "forks_count": 493
   },
   {
     "full_name": "yetone/avante.nvim",
-    "stargazers_count": 11050,
-    "open_issues_count": 188,
-    "forks_count": 438
+    "stargazers_count": 11203,
+    "open_issues_count": 198,
+    "forks_count": 445
   },
   {
     "full_name": "nvim-lua/kickstart.nvim",
-    "stargazers_count": 22454,
-    "open_issues_count": 14,
-    "forks_count": 29630
+    "stargazers_count": 22784,
+    "open_issues_count": 12,
+    "forks_count": 29931
   },
   {
     "full_name": "electronicarts/CnC_Red_Alert",
-    "stargazers_count": 5792,
+    "stargazers_count": 5906,
     "open_issues_count": 0,
-    "forks_count": 1089
+    "forks_count": 1120
   },
   {
     "full_name": "ThePrimeagen/CnC_Generals_Zero_Hour",
-    "stargazers_count": 15,
+    "stargazers_count": 17,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "danielgtaylor/huma",
-    "stargazers_count": 2747,
-    "open_issues_count": 85,
+    "stargazers_count": 2777,
+    "open_issues_count": 84,
     "forks_count": 184
   },
   {
     "full_name": "deepseek-ai/smallpond",
-    "stargazers_count": 4190,
+    "stargazers_count": 4262,
     "open_issues_count": 23,
-    "forks_count": 351
+    "forks_count": 359
   },
   {
     "full_name": "nitrojs/nitro",
-    "stargazers_count": 6820,
-    "open_issues_count": 388,
-    "forks_count": 569
+    "stargazers_count": 6852,
+    "open_issues_count": 386,
+    "forks_count": 570
   },
   {
     "full_name": "cabelo/multicortex-exo",
@@ -55,26 +145,26 @@
   },
   {
     "full_name": "GNtousakis/llm-commit",
-    "stargazers_count": 117,
-    "open_issues_count": 2,
+    "stargazers_count": 120,
+    "open_issues_count": 1,
     "forks_count": 7
   },
   {
     "full_name": "mastra-ai/mastra",
-    "stargazers_count": 10315,
-    "open_issues_count": 81,
-    "forks_count": 450
+    "stargazers_count": 10671,
+    "open_issues_count": 85,
+    "forks_count": 480
   },
   {
     "full_name": "subtrace/subtrace",
-    "stargazers_count": 2301,
-    "open_issues_count": 10,
-    "forks_count": 47
+    "stargazers_count": 2335,
+    "open_issues_count": 9,
+    "forks_count": 48
   },
   {
     "full_name": "dotnet/csharpstandard",
-    "stargazers_count": 740,
-    "open_issues_count": 262,
+    "stargazers_count": 741,
+    "open_issues_count": 264,
     "forks_count": 87
   },
   {
@@ -88,95 +178,5 @@
     "stargazers_count": 83,
     "open_issues_count": 0,
     "forks_count": 5
-  },
-  {
-    "full_name": "nickscamara/open-deep-research",
-    "stargazers_count": 4965,
-    "open_issues_count": 34,
-    "forks_count": 602
-  },
-  {
-    "full_name": "cline/cline",
-    "stargazers_count": 34462,
-    "open_issues_count": 464,
-    "forks_count": 3434
-  },
-  {
-    "full_name": "paypal/paypal-js",
-    "stargazers_count": 269,
-    "open_issues_count": 33,
-    "forks_count": 102
-  },
-  {
-    "full_name": "expenses/slang-struct-rs",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "Abdenasser/neohtop",
-    "stargazers_count": 5956,
-    "open_issues_count": 18,
-    "forks_count": 186
-  },
-  {
-    "full_name": "paradigmxyz/reth",
-    "stargazers_count": 4438,
-    "open_issues_count": 259,
-    "forks_count": 1476
-  },
-  {
-    "full_name": "scarletquasar/blockchain-rust",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "human-substrate/Substrate",
-    "stargazers_count": 457,
-    "open_issues_count": 12,
-    "forks_count": 63
-  },
-  {
-    "full_name": "tensorzero/tensorzero",
-    "stargazers_count": 2979,
-    "open_issues_count": 119,
-    "forks_count": 183
-  },
-  {
-    "full_name": "piebro/factorio-blueprint-visualizer",
-    "stargazers_count": 566,
-    "open_issues_count": 0,
-    "forks_count": 11
-  },
-  {
-    "full_name": "igorklopov/enclose",
-    "stargazers_count": 939,
-    "open_issues_count": 11,
-    "forks_count": 43
-  },
-  {
-    "full_name": "gitroomhq/postiz-app",
-    "stargazers_count": 18419,
-    "open_issues_count": 112,
-    "forks_count": 2946
-  },
-  {
-    "full_name": "maniero/SOpt",
-    "stargazers_count": 1834,
-    "open_issues_count": 0,
-    "forks_count": 175
-  },
-  {
-    "full_name": "go-gitea/gitea",
-    "stargazers_count": 47531,
-    "open_issues_count": 2749,
-    "forks_count": 5701
-  },
-  {
-    "full_name": "drk1wi/portspoof",
-    "stargazers_count": 2214,
-    "open_issues_count": 1,
-    "forks_count": 177
   }
 ]
