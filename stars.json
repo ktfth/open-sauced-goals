@@ -1,15 +1,99 @@
 [
   {
+    "full_name": "Keats/kickstart",
+    "stargazers_count": 429,
+    "open_issues_count": 14,
+    "forks_count": 29
+  },
+  {
+    "full_name": "go-nunu/nunu",
+    "stargazers_count": 2152,
+    "open_issues_count": 0,
+    "forks_count": 163
+  },
+  {
+    "full_name": "emacs-ng/emacs-ng",
+    "stargazers_count": 1742,
+    "open_issues_count": 96,
+    "forks_count": 73
+  },
+  {
+    "full_name": "juspay/hyperswitch",
+    "stargazers_count": 15551,
+    "open_issues_count": 839,
+    "forks_count": 1562
+  },
+  {
+    "full_name": "wasmerio/winterjs",
+    "stargazers_count": 3108,
+    "open_issues_count": 17,
+    "forks_count": 56
+  },
+  {
+    "full_name": "codecrafters-io/build-your-own-x",
+    "stargazers_count": 367774,
+    "open_issues_count": 368,
+    "forks_count": 34173
+  },
+  {
+    "full_name": "punkpeye/awesome-mcp-servers",
+    "stargazers_count": 30213,
+    "open_issues_count": 51,
+    "forks_count": 2022
+  },
+  {
+    "full_name": "dafthack/MSOLSpray",
+    "stargazers_count": 958,
+    "open_issues_count": 13,
+    "forks_count": 173
+  },
+  {
+    "full_name": "knavesec/CredMaster",
+    "stargazers_count": 1060,
+    "open_issues_count": 19,
+    "forks_count": 140
+  },
+  {
+    "full_name": "netbox-community/netbox",
+    "stargazers_count": 17213,
+    "open_issues_count": 366,
+    "forks_count": 2679
+  },
+  {
+    "full_name": "mpv-player/mpv",
+    "stargazers_count": 30214,
+    "open_issues_count": 952,
+    "forks_count": 3018
+  },
+  {
+    "full_name": "sentient-agi/OpenDeepSearch",
+    "stargazers_count": 2425,
+    "open_issues_count": 7,
+    "forks_count": 185
+  },
+  {
+    "full_name": "nvm-sh/nvm",
+    "stargazers_count": 83635,
+    "open_issues_count": 345,
+    "forks_count": 8483
+  },
+  {
+    "full_name": "Orange-Cyberdefense/GOAD",
+    "stargazers_count": 6241,
+    "open_issues_count": 79,
+    "forks_count": 866
+  },
+  {
     "full_name": "cucumber/godog",
-    "stargazers_count": 2402,
+    "stargazers_count": 2407,
     "open_issues_count": 80,
     "forks_count": 256
   },
   {
     "full_name": "jellyfin/jellyfin",
-    "stargazers_count": 38347,
-    "open_issues_count": 530,
-    "forks_count": 3416
+    "stargazers_count": 38400,
+    "open_issues_count": 521,
+    "forks_count": 3426
   },
   {
     "full_name": "tinylib/msgp",
@@ -31,25 +115,25 @@
   },
   {
     "full_name": "dylanhart/ulid-rs",
-    "stargazers_count": 412,
+    "stargazers_count": 413,
     "open_issues_count": 14,
     "forks_count": 42
   },
   {
     "full_name": "cyanfish/naps2",
-    "stargazers_count": 3178,
-    "open_issues_count": 131,
+    "stargazers_count": 3189,
+    "open_issues_count": 132,
     "forks_count": 343
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 36734,
-    "open_issues_count": 149,
-    "forks_count": 1336
+    "stargazers_count": 36779,
+    "open_issues_count": 153,
+    "forks_count": 1339
   },
   {
     "full_name": "mehmetkahya0/temp-mail",
-    "stargazers_count": 323,
+    "stargazers_count": 324,
     "open_issues_count": 0,
     "forks_count": 59
   },
@@ -61,122 +145,38 @@
   },
   {
     "full_name": "dwisiswant0/awesome-oneliner-bugbounty",
-    "stargazers_count": 2808,
+    "stargazers_count": 2810,
     "open_issues_count": 6,
     "forks_count": 597
   },
   {
     "full_name": "S3cur3Th1sSh1t/WinPwn",
-    "stargazers_count": 3453,
+    "stargazers_count": 3458,
     "open_issues_count": 2,
     "forks_count": 534
   },
   {
     "full_name": "khast3x/h8mail",
-    "stargazers_count": 4386,
+    "stargazers_count": 4390,
     "open_issues_count": 29,
     "forks_count": 534
   },
   {
     "full_name": "laramies/theHarvester",
-    "stargazers_count": 12314,
-    "open_issues_count": 29,
-    "forks_count": 2117
+    "stargazers_count": 12336,
+    "open_issues_count": 31,
+    "forks_count": 2121
   },
   {
     "full_name": "smicallef/spiderfoot",
-    "stargazers_count": 14039,
+    "stargazers_count": 14061,
     "open_issues_count": 212,
-    "forks_count": 2392
+    "forks_count": 2395
   },
   {
     "full_name": "owasp-amass/amass",
-    "stargazers_count": 12697,
+    "stargazers_count": 12716,
     "open_issues_count": 206,
-    "forks_count": 1953
-  },
-  {
-    "full_name": "six2dez/reconftw",
-    "stargazers_count": 6145,
-    "open_issues_count": 15,
-    "forks_count": 978
-  },
-  {
-    "full_name": "s0md3v/Arjun",
-    "stargazers_count": 5537,
-    "open_issues_count": 11,
-    "forks_count": 811
-  },
-  {
-    "full_name": "traggo/server",
-    "stargazers_count": 1336,
-    "open_issues_count": 52,
-    "forks_count": 66
-  },
-  {
-    "full_name": "suitenumerique/docs",
-    "stargazers_count": 10687,
-    "open_issues_count": 174,
-    "forks_count": 245
-  },
-  {
-    "full_name": "leerob/gemini-image-editing-nextjs-quickstart",
-    "stargazers_count": 11,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "glanceapp/glance",
-    "stargazers_count": 21149,
-    "open_issues_count": 159,
-    "forks_count": 774
-  },
-  {
-    "full_name": "langchain-ai/local-deep-researcher",
-    "stargazers_count": 6777,
-    "open_issues_count": 21,
-    "forks_count": 655
-  },
-  {
-    "full_name": "crmne/ruby_llm",
-    "stargazers_count": 1865,
-    "open_issues_count": 38,
-    "forks_count": 71
-  },
-  {
-    "full_name": "ark-flow/arkflow",
-    "stargazers_count": 433,
-    "open_issues_count": 10,
-    "forks_count": 13
-  },
-  {
-    "full_name": "microsoft/typescript-go",
-    "stargazers_count": 18700,
-    "open_issues_count": 61,
-    "forks_count": 551
-  },
-  {
-    "full_name": "yetone/avante.nvim",
-    "stargazers_count": 11999,
-    "open_issues_count": 197,
-    "forks_count": 490
-  },
-  {
-    "full_name": "nvim-lua/kickstart.nvim",
-    "stargazers_count": 23355,
-    "open_issues_count": 18,
-    "forks_count": 31045
-  },
-  {
-    "full_name": "electronicarts/CnC_Red_Alert",
-    "stargazers_count": 6115,
-    "open_issues_count": 0,
-    "forks_count": 1169
-  },
-  {
-    "full_name": "ThePrimeagen/CnC_Generals_Zero_Hour",
-    "stargazers_count": 17,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "forks_count": 1956
   }
 ]
