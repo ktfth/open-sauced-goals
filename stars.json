@@ -1,27 +1,33 @@
 [
   {
+    "full_name": "BrainBlend-AI/atomic-agents",
+    "stargazers_count": 3338,
+    "open_issues_count": 12,
+    "forks_count": 273
+  },
+  {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 44579,
-    "open_issues_count": 197,
-    "forks_count": 2122
+    "stargazers_count": 47797,
+    "open_issues_count": 210,
+    "forks_count": 2251
   },
   {
     "full_name": "supabase-community/supabase-mcp",
-    "stargazers_count": 614,
-    "open_issues_count": 18,
-    "forks_count": 32
+    "stargazers_count": 1073,
+    "open_issues_count": 21,
+    "forks_count": 60
   },
   {
     "full_name": "fleetdm/fleet",
-    "stargazers_count": 4666,
-    "open_issues_count": 2261,
-    "forks_count": 541
+    "stargazers_count": 4727,
+    "open_issues_count": 2278,
+    "forks_count": 544
   },
   {
     "full_name": "unionlabs/union",
-    "stargazers_count": 52662,
-    "open_issues_count": 305,
-    "forks_count": 2649
+    "stargazers_count": 53496,
+    "open_issues_count": 308,
+    "forks_count": 2691
   },
   {
     "full_name": "Keats/kickstart",
@@ -31,9 +37,9 @@
   },
   {
     "full_name": "go-nunu/nunu",
-    "stargazers_count": 2163,
+    "stargazers_count": 2171,
     "open_issues_count": 0,
-    "forks_count": 164
+    "forks_count": 165
   },
   {
     "full_name": "emacs-ng/emacs-ng",
@@ -43,85 +49,85 @@
   },
   {
     "full_name": "juspay/hyperswitch",
-    "stargazers_count": 15604,
-    "open_issues_count": 853,
-    "forks_count": 1570
+    "stargazers_count": 15647,
+    "open_issues_count": 852,
+    "forks_count": 1575
   },
   {
     "full_name": "wasmerio/winterjs",
-    "stargazers_count": 3111,
-    "open_issues_count": 17,
-    "forks_count": 56
+    "stargazers_count": 3113,
+    "open_issues_count": 16,
+    "forks_count": 55
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 369070,
-    "open_issues_count": 371,
-    "forks_count": 34298
+    "stargazers_count": 370036,
+    "open_issues_count": 374,
+    "forks_count": 34389
   },
   {
     "full_name": "punkpeye/awesome-mcp-servers",
-    "stargazers_count": 33037,
-    "open_issues_count": 55,
-    "forks_count": 2272
+    "stargazers_count": 35437,
+    "open_issues_count": 64,
+    "forks_count": 2479
   },
   {
     "full_name": "dafthack/MSOLSpray",
-    "stargazers_count": 959,
+    "stargazers_count": 960,
     "open_issues_count": 13,
     "forks_count": 173
   },
   {
     "full_name": "knavesec/CredMaster",
-    "stargazers_count": 1067,
+    "stargazers_count": 1068,
     "open_issues_count": 19,
     "forks_count": 140
   },
   {
     "full_name": "netbox-community/netbox",
-    "stargazers_count": 17225,
-    "open_issues_count": 362,
-    "forks_count": 2678
+    "stargazers_count": 17247,
+    "open_issues_count": 358,
+    "forks_count": 2684
   },
   {
     "full_name": "mpv-player/mpv",
-    "stargazers_count": 30242,
-    "open_issues_count": 962,
+    "stargazers_count": 30272,
+    "open_issues_count": 969,
     "forks_count": 3017
   },
   {
     "full_name": "sentient-agi/OpenDeepSearch",
-    "stargazers_count": 2978,
-    "open_issues_count": 10,
-    "forks_count": 250
+    "stargazers_count": 3086,
+    "open_issues_count": 9,
+    "forks_count": 257
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 83793,
-    "open_issues_count": 345,
-    "forks_count": 8556
+    "stargazers_count": 83874,
+    "open_issues_count": 346,
+    "forks_count": 8606
   },
   {
     "full_name": "Orange-Cyberdefense/GOAD",
-    "stargazers_count": 6257,
+    "stargazers_count": 6272,
     "open_issues_count": 79,
     "forks_count": 867
   },
   {
     "full_name": "cucumber/godog",
-    "stargazers_count": 2409,
+    "stargazers_count": 2413,
     "open_issues_count": 80,
     "forks_count": 256
   },
   {
     "full_name": "jellyfin/jellyfin",
-    "stargazers_count": 38540,
-    "open_issues_count": 526,
-    "forks_count": 3439
+    "stargazers_count": 38633,
+    "open_issues_count": 524,
+    "forks_count": 3445
   },
   {
     "full_name": "tinylib/msgp",
-    "stargazers_count": 1836,
+    "stargazers_count": 1838,
     "open_issues_count": 41,
     "forks_count": 196
   },
@@ -139,44 +145,38 @@
   },
   {
     "full_name": "dylanhart/ulid-rs",
-    "stargazers_count": 414,
+    "stargazers_count": 415,
     "open_issues_count": 14,
     "forks_count": 42
   },
   {
     "full_name": "cyanfish/naps2",
-    "stargazers_count": 3197,
-    "open_issues_count": 133,
-    "forks_count": 345
+    "stargazers_count": 3207,
+    "open_issues_count": 135,
+    "forks_count": 346
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 36834,
-    "open_issues_count": 153,
-    "forks_count": 1340
+    "stargazers_count": 36883,
+    "open_issues_count": 159,
+    "forks_count": 1344
   },
   {
     "full_name": "mehmetkahya0/temp-mail",
-    "stargazers_count": 326,
+    "stargazers_count": 327,
     "open_issues_count": 0,
     "forks_count": 60
   },
   {
     "full_name": "nolly-studio/cult-directory-template",
-    "stargazers_count": 560,
+    "stargazers_count": 561,
     "open_issues_count": 1,
-    "forks_count": 79
+    "forks_count": 80
   },
   {
     "full_name": "dwisiswant0/awesome-oneliner-bugbounty",
-    "stargazers_count": 2812,
+    "stargazers_count": 2814,
     "open_issues_count": 6,
-    "forks_count": 597
-  },
-  {
-    "full_name": "S3cur3Th1sSh1t/WinPwn",
-    "stargazers_count": 3460,
-    "open_issues_count": 2,
-    "forks_count": 534
+    "forks_count": 598
   }
 ]
