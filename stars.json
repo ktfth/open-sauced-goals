@@ -1,87 +1,99 @@
 [
   {
-    "full_name": "0x192/universal-android-debloater",
-    "stargazers_count": 16776,
-    "open_issues_count": 574,
-    "forks_count": 872
-  },
-  {
-    "full_name": "BrainBlend-AI/atomic-agents",
-    "stargazers_count": 3403,
-    "open_issues_count": 13,
+    "full_name": "antiwork/shortest",
+    "stargazers_count": 4822,
+    "open_issues_count": 0,
     "forks_count": 275
   },
   {
+    "full_name": "JustAman62/undercut-f1",
+    "stargazers_count": 486,
+    "open_issues_count": 7,
+    "forks_count": 6
+  },
+  {
+    "full_name": "0x192/universal-android-debloater",
+    "stargazers_count": 16796,
+    "open_issues_count": 574,
+    "forks_count": 873
+  },
+  {
+    "full_name": "BrainBlend-AI/atomic-agents",
+    "stargazers_count": 3430,
+    "open_issues_count": 12,
+    "forks_count": 276
+  },
+  {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 49209,
-    "open_issues_count": 211,
-    "forks_count": 2371
+    "stargazers_count": 51475,
+    "open_issues_count": 218,
+    "forks_count": 2512
   },
   {
     "full_name": "supabase-community/supabase-mcp",
-    "stargazers_count": 1204,
-    "open_issues_count": 27,
-    "forks_count": 68
+    "stargazers_count": 1245,
+    "open_issues_count": 30,
+    "forks_count": 77
   },
   {
     "full_name": "fleetdm/fleet",
-    "stargazers_count": 4846,
-    "open_issues_count": 2343,
-    "forks_count": 550
+    "stargazers_count": 4885,
+    "open_issues_count": 2365,
+    "forks_count": 557
   },
   {
     "full_name": "unionlabs/union",
-    "stargazers_count": 54392,
-    "open_issues_count": 297,
-    "forks_count": 2717
+    "stargazers_count": 54665,
+    "open_issues_count": 296,
+    "forks_count": 2759
   },
   {
     "full_name": "Keats/kickstart",
-    "stargazers_count": 429,
+    "stargazers_count": 432,
     "open_issues_count": 14,
     "forks_count": 29
   },
   {
     "full_name": "go-nunu/nunu",
-    "stargazers_count": 2184,
+    "stargazers_count": 2187,
     "open_issues_count": 0,
     "forks_count": 168
   },
   {
     "full_name": "emacs-ng/emacs-ng",
-    "stargazers_count": 1744,
+    "stargazers_count": 1745,
     "open_issues_count": 96,
     "forks_count": 73
   },
   {
     "full_name": "juspay/hyperswitch",
-    "stargazers_count": 15802,
-    "open_issues_count": 867,
-    "forks_count": 1592
+    "stargazers_count": 15832,
+    "open_issues_count": 864,
+    "forks_count": 1598
   },
   {
     "full_name": "wasmerio/winterjs",
-    "stargazers_count": 3116,
+    "stargazers_count": 3117,
     "open_issues_count": 16,
     "forks_count": 55
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 372472,
-    "open_issues_count": 375,
-    "forks_count": 34645
+    "stargazers_count": 373641,
+    "open_issues_count": 376,
+    "forks_count": 34755
   },
   {
     "full_name": "punkpeye/awesome-mcp-servers",
-    "stargazers_count": 39180,
-    "open_issues_count": 76,
-    "forks_count": 2786
+    "stargazers_count": 41170,
+    "open_issues_count": 31,
+    "forks_count": 2968
   },
   {
     "full_name": "dafthack/MSOLSpray",
     "stargazers_count": 963,
     "open_issues_count": 13,
-    "forks_count": 173
+    "forks_count": 174
   },
   {
     "full_name": "knavesec/CredMaster",
@@ -91,57 +103,57 @@
   },
   {
     "full_name": "netbox-community/netbox",
-    "stargazers_count": 17278,
-    "open_issues_count": 355,
-    "forks_count": 2689
+    "stargazers_count": 17307,
+    "open_issues_count": 358,
+    "forks_count": 2695
   },
   {
     "full_name": "mpv-player/mpv",
-    "stargazers_count": 30357,
-    "open_issues_count": 963,
+    "stargazers_count": 30404,
+    "open_issues_count": 964,
     "forks_count": 3024
   },
   {
     "full_name": "sentient-agi/OpenDeepSearch",
-    "stargazers_count": 3188,
+    "stargazers_count": 3214,
     "open_issues_count": 13,
-    "forks_count": 268
+    "forks_count": 270
   },
   {
     "full_name": "nvm-sh/nvm",
-    "stargazers_count": 84005,
+    "stargazers_count": 84079,
     "open_issues_count": 346,
-    "forks_count": 8661
+    "forks_count": 8685
   },
   {
     "full_name": "Orange-Cyberdefense/GOAD",
-    "stargazers_count": 6295,
+    "stargazers_count": 6314,
     "open_issues_count": 82,
-    "forks_count": 868
+    "forks_count": 872
   },
   {
     "full_name": "cucumber/godog",
-    "stargazers_count": 2412,
+    "stargazers_count": 2413,
     "open_issues_count": 80,
     "forks_count": 256
   },
   {
     "full_name": "jellyfin/jellyfin",
-    "stargazers_count": 38836,
-    "open_issues_count": 524,
-    "forks_count": 3458
+    "stargazers_count": 38936,
+    "open_issues_count": 521,
+    "forks_count": 3468
   },
   {
     "full_name": "tinylib/msgp",
     "stargazers_count": 1839,
-    "open_issues_count": 41,
+    "open_issues_count": 42,
     "forks_count": 196
   },
   {
     "full_name": "gremwell/o365enum",
-    "stargazers_count": 266,
+    "stargazers_count": 267,
     "open_issues_count": 2,
-    "forks_count": 38
+    "forks_count": 39
   },
   {
     "full_name": "jakebailey/go-testfs-insensitive",
@@ -151,32 +163,20 @@
   },
   {
     "full_name": "dylanhart/ulid-rs",
-    "stargazers_count": 416,
+    "stargazers_count": 418,
     "open_issues_count": 14,
     "forks_count": 42
   },
   {
     "full_name": "cyanfish/naps2",
-    "stargazers_count": 3224,
-    "open_issues_count": 133,
+    "stargazers_count": 3236,
+    "open_issues_count": 132,
     "forks_count": 345
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 36978,
-    "open_issues_count": 165,
-    "forks_count": 1348
-  },
-  {
-    "full_name": "mehmetkahya0/temp-mail",
-    "stargazers_count": 329,
-    "open_issues_count": 0,
-    "forks_count": 61
-  },
-  {
-    "full_name": "nolly-studio/cult-directory-template",
-    "stargazers_count": 567,
-    "open_issues_count": 1,
-    "forks_count": 81
+    "stargazers_count": 37014,
+    "open_issues_count": 168,
+    "forks_count": 1351
   }
 ]
