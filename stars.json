@@ -1,51 +1,111 @@
 [
   {
-    "full_name": "antiwork/shortest",
-    "stargazers_count": 4827,
-    "open_issues_count": 0,
-    "forks_count": 276
+    "full_name": "bbc/wraith",
+    "stargazers_count": 4842,
+    "open_issues_count": 125,
+    "forks_count": 357
   },
   {
-    "full_name": "JustAman62/undercut-f1",
-    "stargazers_count": 535,
+    "full_name": "Visual-Regression-Tracker/Visual-Regression-Tracker",
+    "stargazers_count": 629,
+    "open_issues_count": 57,
+    "forks_count": 60
+  },
+  {
+    "full_name": "garris/BackstopJS",
+    "stargazers_count": 6954,
+    "open_issues_count": 566,
+    "forks_count": 613
+  },
+  {
+    "full_name": "stevedylandev/bhvr",
+    "stargazers_count": 209,
     "open_issues_count": 3,
     "forks_count": 7
   },
   {
+    "full_name": "lanmaster53/recon-ng",
+    "stargazers_count": 4607,
+    "open_issues_count": 28,
+    "forks_count": 721
+  },
+  {
+    "full_name": "AccentuSoft/LinkScope_Client",
+    "stargazers_count": 371,
+    "open_issues_count": 2,
+    "forks_count": 24
+  },
+  {
+    "full_name": "tilt-dev/tilt",
+    "stargazers_count": 8339,
+    "open_issues_count": 477,
+    "forks_count": 324
+  },
+  {
+    "full_name": "httptoolkit/httptoolkit",
+    "stargazers_count": 2986,
+    "open_issues_count": 249,
+    "forks_count": 76
+  },
+  {
+    "full_name": "kubero-dev/kubero",
+    "stargazers_count": 3284,
+    "open_issues_count": 64,
+    "forks_count": 136
+  },
+  {
+    "full_name": "dyrector-io/dyrectorio",
+    "stargazers_count": 1572,
+    "open_issues_count": 26,
+    "forks_count": 113
+  },
+  {
+    "full_name": "antiwork/shortest",
+    "stargazers_count": 4839,
+    "open_issues_count": 1,
+    "forks_count": 276
+  },
+  {
+    "full_name": "JustAman62/undercut-f1",
+    "stargazers_count": 571,
+    "open_issues_count": 4,
+    "forks_count": 11
+  },
+  {
     "full_name": "0x192/universal-android-debloater",
-    "stargazers_count": 16818,
+    "stargazers_count": 16837,
     "open_issues_count": 575,
     "forks_count": 874
   },
   {
     "full_name": "BrainBlend-AI/atomic-agents",
-    "stargazers_count": 3462,
-    "open_issues_count": 12,
-    "forks_count": 280
+    "stargazers_count": 3511,
+    "open_issues_count": 14,
+    "forks_count": 282
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 53659,
-    "open_issues_count": 223,
-    "forks_count": 2672
+    "stargazers_count": 55013,
+    "open_issues_count": 236,
+    "forks_count": 2762
   },
   {
     "full_name": "supabase-community/supabase-mcp",
-    "stargazers_count": 1266,
-    "open_issues_count": 32,
-    "forks_count": 80
+    "stargazers_count": 1303,
+    "open_issues_count": 34,
+    "forks_count": 84
   },
   {
     "full_name": "fleetdm/fleet",
-    "stargazers_count": 4907,
-    "open_issues_count": 2326,
+    "stargazers_count": 4928,
+    "open_issues_count": 2352,
     "forks_count": 558
   },
   {
     "full_name": "unionlabs/union",
-    "stargazers_count": 55116,
+    "stargazers_count": 55378,
     "open_issues_count": 301,
-    "forks_count": 2779
+    "forks_count": 2787
   },
   {
     "full_name": "Keats/kickstart",
@@ -55,39 +115,39 @@
   },
   {
     "full_name": "go-nunu/nunu",
-    "stargazers_count": 2190,
-    "open_issues_count": 1,
-    "forks_count": 170
+    "stargazers_count": 2195,
+    "open_issues_count": 0,
+    "forks_count": 169
   },
   {
     "full_name": "emacs-ng/emacs-ng",
-    "stargazers_count": 1746,
+    "stargazers_count": 1748,
     "open_issues_count": 96,
     "forks_count": 73
   },
   {
     "full_name": "juspay/hyperswitch",
-    "stargazers_count": 15842,
-    "open_issues_count": 854,
-    "forks_count": 1601
+    "stargazers_count": 16267,
+    "open_issues_count": 861,
+    "forks_count": 1768
   },
   {
     "full_name": "wasmerio/winterjs",
-    "stargazers_count": 3116,
+    "stargazers_count": 3118,
     "open_issues_count": 16,
     "forks_count": 55
   },
   {
     "full_name": "codecrafters-io/build-your-own-x",
-    "stargazers_count": 374419,
-    "open_issues_count": 379,
-    "forks_count": 34854
+    "stargazers_count": 376232,
+    "open_issues_count": 373,
+    "forks_count": 35028
   },
   {
     "full_name": "punkpeye/awesome-mcp-servers",
-    "stargazers_count": 42731,
-    "open_issues_count": 57,
-    "forks_count": 3094
+    "stargazers_count": 44456,
+    "open_issues_count": 24,
+    "forks_count": 3232
   },
   {
     "full_name": "dafthack/MSOLSpray",
@@ -103,80 +163,20 @@
   },
   {
     "full_name": "netbox-community/netbox",
-    "stargazers_count": 17352,
-    "open_issues_count": 342,
-    "forks_count": 2695
+    "stargazers_count": 17412,
+    "open_issues_count": 327,
+    "forks_count": 2697
   },
   {
     "full_name": "mpv-player/mpv",
-    "stargazers_count": 30439,
-    "open_issues_count": 966,
-    "forks_count": 3027
+    "stargazers_count": 30482,
+    "open_issues_count": 968,
+    "forks_count": 3031
   },
   {
     "full_name": "sentient-agi/OpenDeepSearch",
-    "stargazers_count": 3250,
+    "stargazers_count": 3271,
     "open_issues_count": 13,
-    "forks_count": 272
-  },
-  {
-    "full_name": "nvm-sh/nvm",
-    "stargazers_count": 84142,
-    "open_issues_count": 346,
-    "forks_count": 8707
-  },
-  {
-    "full_name": "Orange-Cyberdefense/GOAD",
-    "stargazers_count": 6324,
-    "open_issues_count": 84,
-    "forks_count": 871
-  },
-  {
-    "full_name": "cucumber/godog",
-    "stargazers_count": 2414,
-    "open_issues_count": 80,
-    "forks_count": 256
-  },
-  {
-    "full_name": "jellyfin/jellyfin",
-    "stargazers_count": 39010,
-    "open_issues_count": 543,
-    "forks_count": 3472
-  },
-  {
-    "full_name": "tinylib/msgp",
-    "stargazers_count": 1840,
-    "open_issues_count": 42,
-    "forks_count": 196
-  },
-  {
-    "full_name": "gremwell/o365enum",
-    "stargazers_count": 267,
-    "open_issues_count": 2,
-    "forks_count": 39
-  },
-  {
-    "full_name": "jakebailey/go-testfs-insensitive",
-    "stargazers_count": 1,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "dylanhart/ulid-rs",
-    "stargazers_count": 418,
-    "open_issues_count": 14,
-    "forks_count": 41
-  },
-  {
-    "full_name": "cyanfish/naps2",
-    "stargazers_count": 3246,
-    "open_issues_count": 135,
-    "forks_count": 348
-  },
-  {
-    "full_name": "trpc/trpc",
-    "stargazers_count": 37053,
-    "open_issues_count": 171,
-    "forks_count": 1353
+    "forks_count": 273
   }
 ]
