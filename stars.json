@@ -1,55 +1,85 @@
 [
   {
+    "full_name": "wssheldon/osintui",
+    "stargazers_count": 1064,
+    "open_issues_count": 14,
+    "forks_count": 66
+  },
+  {
+    "full_name": "0xKoda/WireMCP",
+    "stargazers_count": 117,
+    "open_issues_count": 2,
+    "forks_count": 10
+  },
+  {
+    "full_name": "Spritualkb/nuclei-mcp",
+    "stargazers_count": 1,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "EdenYavin/Garak-MCP",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "kovidomi/game-reversing",
+    "stargazers_count": 1309,
+    "open_issues_count": 3,
+    "forks_count": 99
+  },
+  {
     "full_name": "bytedance/deer-flow",
-    "stargazers_count": 6650,
-    "open_issues_count": 52,
-    "forks_count": 587
+    "stargazers_count": 9653,
+    "open_issues_count": 86,
+    "forks_count": 880
   },
   {
     "full_name": "Quitten/Autorize",
-    "stargazers_count": 1044,
+    "stargazers_count": 1045,
     "open_issues_count": 13,
     "forks_count": 220
   },
   {
     "full_name": "firefly-iii/firefly-iii",
-    "stargazers_count": 19078,
-    "open_issues_count": 142,
-    "forks_count": 1700
+    "stargazers_count": 19110,
+    "open_issues_count": 144,
+    "forks_count": 1705
   },
   {
     "full_name": "SonarSource/docker-sonarqube",
-    "stargazers_count": 1453,
-    "open_issues_count": 2,
+    "stargazers_count": 1454,
+    "open_issues_count": 1,
     "forks_count": 1021
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 59869,
-    "open_issues_count": 437,
-    "forks_count": 6568
+    "stargazers_count": 60274,
+    "open_issues_count": 435,
+    "forks_count": 6640
   },
   {
     "full_name": "LaurieWired/GhidraMCP",
-    "stargazers_count": 4708,
-    "open_issues_count": 18,
-    "forks_count": 327
+    "stargazers_count": 4760,
+    "open_issues_count": 19,
+    "forks_count": 328
   },
   {
     "full_name": "Arcanum-Sec/Scopify",
-    "stargazers_count": 175,
+    "stargazers_count": 176,
     "open_issues_count": 1,
-    "forks_count": 21
+    "forks_count": 22
   },
   {
     "full_name": "bbc/wraith",
-    "stargazers_count": 4843,
+    "stargazers_count": 4844,
     "open_issues_count": 125,
     "forks_count": 357
   },
   {
     "full_name": "Visual-Regression-Tracker/Visual-Regression-Tracker",
-    "stargazers_count": 629,
+    "stargazers_count": 630,
     "open_issues_count": 59,
     "forks_count": 60
   },
@@ -61,13 +91,13 @@
   },
   {
     "full_name": "stevedylandev/bhvr",
-    "stargazers_count": 496,
+    "stargazers_count": 514,
     "open_issues_count": 2,
-    "forks_count": 18
+    "forks_count": 21
   },
   {
     "full_name": "lanmaster53/recon-ng",
-    "stargazers_count": 4645,
+    "stargazers_count": 4650,
     "open_issues_count": 29,
     "forks_count": 723
   },
@@ -79,104 +109,74 @@
   },
   {
     "full_name": "tilt-dev/tilt",
-    "stargazers_count": 8555,
-    "open_issues_count": 475,
-    "forks_count": 330
+    "stargazers_count": 8572,
+    "open_issues_count": 476,
+    "forks_count": 331
   },
   {
     "full_name": "httptoolkit/httptoolkit",
-    "stargazers_count": 3003,
+    "stargazers_count": 3008,
     "open_issues_count": 253,
     "forks_count": 75
   },
   {
     "full_name": "kubero-dev/kubero",
-    "stargazers_count": 3369,
-    "open_issues_count": 65,
-    "forks_count": 136
+    "stargazers_count": 3382,
+    "open_issues_count": 64,
+    "forks_count": 137
   },
   {
     "full_name": "dyrector-io/dyrectorio",
-    "stargazers_count": 1588,
+    "stargazers_count": 1591,
     "open_issues_count": 24,
     "forks_count": 114
   },
   {
     "full_name": "antiwork/shortest",
-    "stargazers_count": 4887,
+    "stargazers_count": 4963,
     "open_issues_count": 0,
-    "forks_count": 279
+    "forks_count": 283
   },
   {
     "full_name": "JustAman62/undercut-f1",
-    "stargazers_count": 625,
+    "stargazers_count": 627,
     "open_issues_count": 1,
     "forks_count": 12
   },
   {
     "full_name": "0x192/universal-android-debloater",
-    "stargazers_count": 16920,
+    "stargazers_count": 16937,
     "open_issues_count": 574,
     "forks_count": 880
   },
   {
     "full_name": "BrainBlend-AI/atomic-agents",
-    "stargazers_count": 3603,
-    "open_issues_count": 11,
-    "forks_count": 288
+    "stargazers_count": 3620,
+    "open_issues_count": 12,
+    "forks_count": 293
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 56722,
-    "open_issues_count": 257,
-    "forks_count": 2890
+    "stargazers_count": 57186,
+    "open_issues_count": 265,
+    "forks_count": 2919
   },
   {
     "full_name": "supabase-community/supabase-mcp",
-    "stargazers_count": 1389,
+    "stargazers_count": 1420,
     "open_issues_count": 35,
-    "forks_count": 95
+    "forks_count": 105
   },
   {
     "full_name": "fleetdm/fleet",
-    "stargazers_count": 4980,
-    "open_issues_count": 2444,
-    "forks_count": 566
+    "stargazers_count": 4986,
+    "open_issues_count": 2457,
+    "forks_count": 568
   },
   {
     "full_name": "unionlabs/union",
-    "stargazers_count": 61134,
-    "open_issues_count": 312,
-    "forks_count": 3007
-  },
-  {
-    "full_name": "Keats/kickstart",
-    "stargazers_count": 434,
-    "open_issues_count": 14,
-    "forks_count": 29
-  },
-  {
-    "full_name": "go-nunu/nunu",
-    "stargazers_count": 2214,
-    "open_issues_count": 0,
-    "forks_count": 170
-  },
-  {
-    "full_name": "emacs-ng/emacs-ng",
-    "stargazers_count": 1750,
-    "open_issues_count": 96,
-    "forks_count": 73
-  },
-  {
-    "full_name": "juspay/hyperswitch",
-    "stargazers_count": 18550,
-    "open_issues_count": 853,
-    "forks_count": 2505
-  },
-  {
-    "full_name": "wasmerio/winterjs",
-    "stargazers_count": 3124,
-    "open_issues_count": 16,
-    "forks_count": 55
+    "stargazers_count": 62191,
+    "open_issues_count": 314,
+    "forks_count": 3051
   }
 ]
