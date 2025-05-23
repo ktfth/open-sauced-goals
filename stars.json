@@ -1,19 +1,25 @@
 [
   {
+    "full_name": "attacksurge/ax",
+    "stargazers_count": 498,
+    "open_issues_count": 3,
+    "forks_count": 46
+  },
+  {
     "full_name": "KingOfBugbounty/enumrust",
-    "stargazers_count": 35,
+    "stargazers_count": 38,
     "open_issues_count": 0,
     "forks_count": 11
   },
   {
     "full_name": "wssheldon/osintui",
-    "stargazers_count": 1070,
+    "stargazers_count": 1071,
     "open_issues_count": 14,
     "forks_count": 67
   },
   {
     "full_name": "0xKoda/WireMCP",
-    "stargazers_count": 119,
+    "stargazers_count": 120,
     "open_issues_count": 2,
     "forks_count": 10
   },
@@ -31,51 +37,51 @@
   },
   {
     "full_name": "kovidomi/game-reversing",
-    "stargazers_count": 1314,
+    "stargazers_count": 1317,
     "open_issues_count": 3,
     "forks_count": 99
   },
   {
     "full_name": "bytedance/deer-flow",
-    "stargazers_count": 10976,
-    "open_issues_count": 80,
-    "forks_count": 1042
+    "stargazers_count": 11534,
+    "open_issues_count": 102,
+    "forks_count": 1134
   },
   {
     "full_name": "Quitten/Autorize",
-    "stargazers_count": 1047,
+    "stargazers_count": 1049,
     "open_issues_count": 13,
     "forks_count": 220
   },
   {
     "full_name": "firefly-iii/firefly-iii",
-    "stargazers_count": 19172,
-    "open_issues_count": 149,
-    "forks_count": 1713
+    "stargazers_count": 19205,
+    "open_issues_count": 148,
+    "forks_count": 1716
   },
   {
     "full_name": "SonarSource/docker-sonarqube",
-    "stargazers_count": 1456,
+    "stargazers_count": 1459,
     "open_issues_count": 0,
     "forks_count": 1020
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 60733,
-    "open_issues_count": 444,
-    "forks_count": 6731
+    "stargazers_count": 61129,
+    "open_issues_count": 432,
+    "forks_count": 6792
   },
   {
     "full_name": "LaurieWired/GhidraMCP",
-    "stargazers_count": 4812,
-    "open_issues_count": 20,
-    "forks_count": 332
+    "stargazers_count": 4855,
+    "open_issues_count": 19,
+    "forks_count": 336
   },
   {
     "full_name": "Arcanum-Sec/Scopify",
-    "stargazers_count": 178,
+    "stargazers_count": 180,
     "open_issues_count": 1,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "bbc/wraith",
@@ -91,21 +97,21 @@
   },
   {
     "full_name": "garris/BackstopJS",
-    "stargazers_count": 6962,
+    "stargazers_count": 6964,
     "open_issues_count": 566,
-    "forks_count": 612
+    "forks_count": 611
   },
   {
     "full_name": "stevedylandev/bhvr",
-    "stargazers_count": 521,
+    "stargazers_count": 528,
     "open_issues_count": 2,
     "forks_count": 22
   },
   {
     "full_name": "lanmaster53/recon-ng",
-    "stargazers_count": 4657,
+    "stargazers_count": 4662,
     "open_issues_count": 29,
-    "forks_count": 726
+    "forks_count": 728
   },
   {
     "full_name": "AccentuSoft/LinkScope_Client",
@@ -115,68 +121,62 @@
   },
   {
     "full_name": "tilt-dev/tilt",
-    "stargazers_count": 8590,
-    "open_issues_count": 476,
-    "forks_count": 331
+    "stargazers_count": 8607,
+    "open_issues_count": 477,
+    "forks_count": 332
   },
   {
     "full_name": "httptoolkit/httptoolkit",
-    "stargazers_count": 3012,
-    "open_issues_count": 253,
+    "stargazers_count": 3014,
+    "open_issues_count": 257,
     "forks_count": 75
   },
   {
     "full_name": "kubero-dev/kubero",
-    "stargazers_count": 3400,
-    "open_issues_count": 63,
+    "stargazers_count": 3411,
+    "open_issues_count": 57,
     "forks_count": 141
   },
   {
     "full_name": "dyrector-io/dyrectorio",
     "stargazers_count": 1592,
-    "open_issues_count": 25,
+    "open_issues_count": 24,
     "forks_count": 114
   },
   {
     "full_name": "antiwork/shortest",
-    "stargazers_count": 4988,
+    "stargazers_count": 4993,
     "open_issues_count": 0,
-    "forks_count": 283
+    "forks_count": 282
   },
   {
     "full_name": "JustAman62/undercut-f1",
-    "stargazers_count": 632,
-    "open_issues_count": 2,
+    "stargazers_count": 634,
+    "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "0x192/universal-android-debloater",
-    "stargazers_count": 16966,
+    "stargazers_count": 16990,
     "open_issues_count": 575,
     "forks_count": 882
   },
   {
     "full_name": "BrainBlend-AI/atomic-agents",
-    "stargazers_count": 3672,
+    "stargazers_count": 3729,
     "open_issues_count": 13,
-    "forks_count": 297
+    "forks_count": 299
   },
   {
     "full_name": "microsoft/markitdown",
-    "stargazers_count": 57548,
-    "open_issues_count": 266,
-    "forks_count": 2948
+    "stargazers_count": 57779,
+    "open_issues_count": 261,
+    "forks_count": 2961
   },
   {
     "full_name": "supabase-community/supabase-mcp",
-    "stargazers_count": 1450,
+    "stargazers_count": 1465,
     "open_issues_count": 35,
-    "forks_count": 113
-  },
-  {
-    "full_name": "fleetdm/fleet",
-    "stargazers_count": 4997,
-    "open_issues_count": 2463,
-    "forks_count": 569
+    "forks_count": 119
   }
 ]
