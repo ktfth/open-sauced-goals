@@ -1,33 +1,39 @@
 [
   {
+    "full_name": "pomdtr/tweety",
+    "stargazers_count": 118,
+    "open_issues_count": 3,
+    "forks_count": 6
+  },
+  {
     "full_name": "uutils/coreutils",
-    "stargazers_count": 20522,
-    "open_issues_count": 418,
-    "forks_count": 1474
+    "stargazers_count": 20614,
+    "open_issues_count": 423,
+    "forks_count": 1478
   },
   {
     "full_name": "microsoft/RD-Agent",
-    "stargazers_count": 4804,
-    "open_issues_count": 55,
-    "forks_count": 432
+    "stargazers_count": 5293,
+    "open_issues_count": 58,
+    "forks_count": 467
   },
   {
     "full_name": "pathwaycom/pathway",
-    "stargazers_count": 25949,
+    "stargazers_count": 26303,
     "open_issues_count": 42,
-    "forks_count": 566
+    "forks_count": 580
   },
   {
     "full_name": "lobehub/lobe-chat",
-    "stargazers_count": 61584,
-    "open_issues_count": 870,
-    "forks_count": 12873
+    "stargazers_count": 61984,
+    "open_issues_count": 878,
+    "forks_count": 12901
   },
   {
     "full_name": "langflow-ai/langflow",
-    "stargazers_count": 64103,
-    "open_issues_count": 736,
-    "forks_count": 6566
+    "stargazers_count": 66274,
+    "open_issues_count": 746,
+    "forks_count": 6637
   },
   {
     "full_name": "brasil-iot/pilotord-kit-onboarding",
@@ -43,15 +49,15 @@
   },
   {
     "full_name": "attacksurge/ax",
-    "stargazers_count": 501,
+    "stargazers_count": 502,
     "open_issues_count": 3,
-    "forks_count": 46
+    "forks_count": 47
   },
   {
     "full_name": "KingOfBugbounty/enumrust",
-    "stargazers_count": 40,
-    "open_issues_count": 0,
-    "forks_count": 12
+    "stargazers_count": 42,
+    "open_issues_count": 2,
+    "forks_count": 13
   },
   {
     "full_name": "wssheldon/osintui",
@@ -61,7 +67,7 @@
   },
   {
     "full_name": "0xKoda/WireMCP",
-    "stargazers_count": 124,
+    "stargazers_count": 129,
     "open_issues_count": 2,
     "forks_count": 10
   },
@@ -79,27 +85,27 @@
   },
   {
     "full_name": "kovidomi/game-reversing",
-    "stargazers_count": 1320,
+    "stargazers_count": 1323,
     "open_issues_count": 3,
-    "forks_count": 99
+    "forks_count": 100
   },
   {
     "full_name": "bytedance/deer-flow",
-    "stargazers_count": 11910,
-    "open_issues_count": 109,
-    "forks_count": 1210
+    "stargazers_count": 12193,
+    "open_issues_count": 118,
+    "forks_count": 1264
   },
   {
     "full_name": "Quitten/Autorize",
-    "stargazers_count": 1053,
+    "stargazers_count": 1055,
     "open_issues_count": 13,
     "forks_count": 220
   },
   {
     "full_name": "firefly-iii/firefly-iii",
-    "stargazers_count": 19265,
-    "open_issues_count": 141,
-    "forks_count": 1724
+    "stargazers_count": 19311,
+    "open_issues_count": 139,
+    "forks_count": 1732
   },
   {
     "full_name": "SonarSource/docker-sonarqube",
@@ -109,15 +115,15 @@
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 61566,
-    "open_issues_count": 431,
-    "forks_count": 6889
+    "stargazers_count": 61887,
+    "open_issues_count": 451,
+    "forks_count": 6928
   },
   {
     "full_name": "LaurieWired/GhidraMCP",
-    "stargazers_count": 4912,
+    "stargazers_count": 4967,
     "open_issues_count": 20,
-    "forks_count": 342
+    "forks_count": 346
   },
   {
     "full_name": "Arcanum-Sec/Scopify",
@@ -139,44 +145,38 @@
   },
   {
     "full_name": "garris/BackstopJS",
-    "stargazers_count": 6965,
-    "open_issues_count": 566,
-    "forks_count": 611
+    "stargazers_count": 6966,
+    "open_issues_count": 567,
+    "forks_count": 612
   },
   {
     "full_name": "stevedylandev/bhvr",
-    "stargazers_count": 529,
+    "stargazers_count": 534,
     "open_issues_count": 2,
     "forks_count": 22
   },
   {
     "full_name": "lanmaster53/recon-ng",
-    "stargazers_count": 4672,
+    "stargazers_count": 4683,
     "open_issues_count": 29,
     "forks_count": 728
   },
   {
     "full_name": "AccentuSoft/LinkScope_Client",
-    "stargazers_count": 376,
+    "stargazers_count": 377,
     "open_issues_count": 2,
     "forks_count": 24
   },
   {
     "full_name": "tilt-dev/tilt",
-    "stargazers_count": 8615,
-    "open_issues_count": 476,
-    "forks_count": 332
+    "stargazers_count": 8630,
+    "open_issues_count": 478,
+    "forks_count": 333
   },
   {
     "full_name": "httptoolkit/httptoolkit",
-    "stargazers_count": 3018,
+    "stargazers_count": 3023,
     "open_issues_count": 259,
     "forks_count": 75
-  },
-  {
-    "full_name": "kubero-dev/kubero",
-    "stargazers_count": 3427,
-    "open_issues_count": 55,
-    "forks_count": 144
   }
 ]
