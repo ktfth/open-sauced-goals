@@ -1,7 +1,7 @@
 [
   {
     "full_name": "linkdd/xq",
-    "stargazers_count": 25,
+    "stargazers_count": 30,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -13,51 +13,51 @@
   },
   {
     "full_name": "typicode/lowdb",
-    "stargazers_count": 22105,
+    "stargazers_count": 22109,
     "open_issues_count": 15,
     "forks_count": 952
   },
   {
     "full_name": "OliveTin/OliveTin",
-    "stargazers_count": 3038,
-    "open_issues_count": 33,
+    "stargazers_count": 3046,
+    "open_issues_count": 35,
     "forks_count": 91
   },
   {
     "full_name": "pomdtr/tweety",
-    "stargazers_count": 206,
+    "stargazers_count": 211,
     "open_issues_count": 4,
     "forks_count": 7
   },
   {
     "full_name": "uutils/coreutils",
-    "stargazers_count": 20716,
-    "open_issues_count": 433,
-    "forks_count": 1492
+    "stargazers_count": 20734,
+    "open_issues_count": 431,
+    "forks_count": 1496
   },
   {
     "full_name": "microsoft/RD-Agent",
-    "stargazers_count": 5690,
+    "stargazers_count": 5787,
     "open_issues_count": 75,
-    "forks_count": 519
+    "forks_count": 532
   },
   {
     "full_name": "pathwaycom/pathway",
-    "stargazers_count": 26625,
-    "open_issues_count": 42,
-    "forks_count": 601
+    "stargazers_count": 26624,
+    "open_issues_count": 44,
+    "forks_count": 602
   },
   {
     "full_name": "lobehub/lobe-chat",
-    "stargazers_count": 62373,
+    "stargazers_count": 62433,
     "open_issues_count": 855,
-    "forks_count": 12998
+    "forks_count": 12965
   },
   {
     "full_name": "langflow-ai/langflow",
-    "stargazers_count": 71430,
-    "open_issues_count": 777,
-    "forks_count": 6774
+    "stargazers_count": 72769,
+    "open_issues_count": 789,
+    "forks_count": 6805
   },
   {
     "full_name": "brasil-iot/pilotord-kit-onboarding",
@@ -73,25 +73,25 @@
   },
   {
     "full_name": "attacksurge/ax",
-    "stargazers_count": 516,
-    "open_issues_count": 4,
+    "stargazers_count": 518,
+    "open_issues_count": 3,
     "forks_count": 48
   },
   {
     "full_name": "KingOfBugbounty/enumrust",
-    "stargazers_count": 45,
+    "stargazers_count": 47,
     "open_issues_count": 2,
     "forks_count": 13
   },
   {
     "full_name": "wssheldon/osintui",
-    "stargazers_count": 1077,
+    "stargazers_count": 1079,
     "open_issues_count": 15,
     "forks_count": 67
   },
   {
     "full_name": "0xKoda/WireMCP",
-    "stargazers_count": 140,
+    "stargazers_count": 142,
     "open_issues_count": 2,
     "forks_count": 10
   },
@@ -109,15 +109,15 @@
   },
   {
     "full_name": "kovidomi/game-reversing",
-    "stargazers_count": 1335,
+    "stargazers_count": 1340,
     "open_issues_count": 3,
     "forks_count": 101
   },
   {
     "full_name": "bytedance/deer-flow",
-    "stargazers_count": 13033,
-    "open_issues_count": 137,
-    "forks_count": 1421
+    "stargazers_count": 13391,
+    "open_issues_count": 142,
+    "forks_count": 1481
   },
   {
     "full_name": "Quitten/Autorize",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "firefly-iii/firefly-iii",
-    "stargazers_count": 19427,
-    "open_issues_count": 139,
-    "forks_count": 1738
+    "stargazers_count": 19450,
+    "open_issues_count": 128,
+    "forks_count": 1741
   },
   {
     "full_name": "SonarSource/docker-sonarqube",
@@ -139,15 +139,15 @@
   },
   {
     "full_name": "browser-use/browser-use",
-    "stargazers_count": 62749,
-    "open_issues_count": 483,
-    "forks_count": 7084
+    "stargazers_count": 63021,
+    "open_issues_count": 488,
+    "forks_count": 7117
   },
   {
     "full_name": "LaurieWired/GhidraMCP",
-    "stargazers_count": 5105,
-    "open_issues_count": 24,
-    "forks_count": 363
+    "stargazers_count": 5134,
+    "open_issues_count": 25,
+    "forks_count": 365
   },
   {
     "full_name": "Arcanum-Sec/Scopify",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "Visual-Regression-Tracker/Visual-Regression-Tracker",
-    "stargazers_count": 631,
+    "stargazers_count": 632,
     "open_issues_count": 60,
     "forks_count": 60
   },
   {
     "full_name": "garris/BackstopJS",
-    "stargazers_count": 6980,
-    "open_issues_count": 567,
+    "stargazers_count": 6981,
+    "open_issues_count": 569,
     "forks_count": 613
   },
   {
     "full_name": "stevedylandev/bhvr",
-    "stargazers_count": 644,
-    "open_issues_count": 3,
-    "forks_count": 27
+    "stargazers_count": 660,
+    "open_issues_count": 4,
+    "forks_count": 28
   }
 ]
