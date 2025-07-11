@@ -1,27 +1,27 @@
 [
   {
-    "full_name": "jackjackbits/bitchat",
-    "stargazers_count": 3488,
-    "open_issues_count": 6,
-    "forks_count": 244
+    "full_name": "permissionlesstech/bitchat",
+    "stargazers_count": 14746,
+    "open_issues_count": 104,
+    "forks_count": 1244
   },
   {
     "full_name": "ferrumc-rs/ferrumc",
-    "stargazers_count": 1630,
-    "open_issues_count": 25,
+    "stargazers_count": 1633,
+    "open_issues_count": 26,
     "forks_count": 53
   },
   {
     "full_name": "haydenbleasel/ultracite",
-    "stargazers_count": 1095,
-    "open_issues_count": 13,
-    "forks_count": 24
+    "stargazers_count": 1148,
+    "open_issues_count": 12,
+    "forks_count": 25
   },
   {
     "full_name": "exo-explore/exo",
-    "stargazers_count": 28894,
+    "stargazers_count": 28937,
     "open_issues_count": 421,
-    "forks_count": 1832
+    "forks_count": 1835
   },
   {
     "full_name": "9Ninety/MCPNotes",
@@ -37,9 +37,9 @@
   },
   {
     "full_name": "google-gemini/gemini-cli",
-    "stargazers_count": 55256,
-    "open_issues_count": 957,
-    "forks_count": 4929
+    "stargazers_count": 57431,
+    "open_issues_count": 1109,
+    "forks_count": 5209
   },
   {
     "full_name": "sensepost/ntcrack",
@@ -49,27 +49,27 @@
   },
   {
     "full_name": "openai/openai-cs-agents-demo",
-    "stargazers_count": 5442,
+    "stargazers_count": 5531,
     "open_issues_count": 29,
-    "forks_count": 791
+    "forks_count": 807
   },
   {
     "full_name": "stateright/stateright",
-    "stargazers_count": 1677,
+    "stargazers_count": 1678,
     "open_issues_count": 12,
     "forks_count": 60
   },
   {
     "full_name": "jgraph/drawio-desktop",
-    "stargazers_count": 55692,
+    "stargazers_count": 55744,
     "open_issues_count": 60,
-    "forks_count": 5351
+    "forks_count": 5356
   },
   {
     "full_name": "stagewise-io/stagewise",
-    "stargazers_count": 4217,
-    "open_issues_count": 47,
-    "forks_count": 200
+    "stargazers_count": 4287,
+    "open_issues_count": 43,
+    "forks_count": 204
   },
   {
     "full_name": "nevo-david/Top-AI-Tools",
@@ -79,43 +79,43 @@
   },
   {
     "full_name": "radareorg/radare2",
-    "stargazers_count": 21922,
-    "open_issues_count": 889,
+    "stargazers_count": 21937,
+    "open_issues_count": 888,
     "forks_count": 3086
   },
   {
     "full_name": "Kong/kong",
-    "stargazers_count": 41234,
+    "stargazers_count": 41264,
     "open_issues_count": 140,
-    "forks_count": 4944
+    "forks_count": 4947
   },
   {
     "full_name": "swagger-api/swagger-codegen",
-    "stargazers_count": 17449,
-    "open_issues_count": 3438,
+    "stargazers_count": 17457,
+    "open_issues_count": 3440,
     "forks_count": 6033
   },
   {
     "full_name": "containers/podman",
-    "stargazers_count": 27513,
-    "open_issues_count": 870,
-    "forks_count": 2703
+    "stargazers_count": 27542,
+    "open_issues_count": 855,
+    "forks_count": 2704
   },
   {
     "full_name": "PabloLec/RecoverPy",
-    "stargazers_count": 1505,
+    "stargazers_count": 1507,
     "open_issues_count": 1,
     "forks_count": 75
   },
   {
     "full_name": "jstrosch/learning-reverse-engineering",
-    "stargazers_count": 654,
+    "stargazers_count": 656,
     "open_issues_count": 0,
     "forks_count": 95
   },
   {
     "full_name": "t3l3machus/psudohash",
-    "stargazers_count": 1328,
+    "stargazers_count": 1330,
     "open_issues_count": 7,
     "forks_count": 168
   },
@@ -133,50 +133,50 @@
   },
   {
     "full_name": "typicode/lowdb",
-    "stargazers_count": 22149,
+    "stargazers_count": 22154,
     "open_issues_count": 17,
     "forks_count": 953
   },
   {
     "full_name": "OliveTin/OliveTin",
-    "stargazers_count": 3084,
+    "stargazers_count": 3089,
     "open_issues_count": 33,
     "forks_count": 92
   },
   {
     "full_name": "pomdtr/tweety",
-    "stargazers_count": 223,
+    "stargazers_count": 224,
     "open_issues_count": 3,
     "forks_count": 7
   },
   {
     "full_name": "uutils/coreutils",
-    "stargazers_count": 20842,
-    "open_issues_count": 412,
+    "stargazers_count": 20854,
+    "open_issues_count": 406,
     "forks_count": 1509
   },
   {
     "full_name": "microsoft/RD-Agent",
-    "stargazers_count": 6455,
-    "open_issues_count": 91,
-    "forks_count": 613
-  },
-  {
-    "full_name": "pathwaycom/pathway",
-    "stargazers_count": 28595,
-    "open_issues_count": 43,
+    "stargazers_count": 6499,
+    "open_issues_count": 92,
     "forks_count": 624
   },
   {
+    "full_name": "pathwaycom/pathway",
+    "stargazers_count": 28639,
+    "open_issues_count": 45,
+    "forks_count": 653
+  },
+  {
     "full_name": "lobehub/lobe-chat",
-    "stargazers_count": 63205,
-    "open_issues_count": 910,
-    "forks_count": 13142
+    "stargazers_count": 63343,
+    "open_issues_count": 907,
+    "forks_count": 13166
   },
   {
     "full_name": "langflow-ai/langflow",
-    "stargazers_count": 82971,
-    "open_issues_count": 794,
-    "forks_count": 7023
+    "stargazers_count": 84316,
+    "open_issues_count": 806,
+    "forks_count": 7047
   }
 ]
