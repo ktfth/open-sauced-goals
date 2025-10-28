@@ -1,69 +1,105 @@
 [
   {
+    "full_name": "maquina-app/rails-mcp-server",
+    "stargazers_count": 373,
+    "open_issues_count": 2,
+    "forks_count": 19
+  },
+  {
+    "full_name": "guru-br/engineering-blogs",
+    "stargazers_count": 4,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "ruby/rss",
+    "stargazers_count": 199,
+    "open_issues_count": 8,
+    "forks_count": 36
+  },
+  {
+    "full_name": "papers-we-love/papers-we-love",
+    "stargazers_count": 99649,
+    "open_issues_count": 2,
+    "forks_count": 6144
+  },
+  {
+    "full_name": "user1342/Folly",
+    "stargazers_count": 24,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
+    "full_name": "user1342/Awesome-LLM-Red-Teaming",
+    "stargazers_count": 43,
+    "open_issues_count": 0,
+    "forks_count": 4
+  },
+  {
     "full_name": "karpathy/nanochat",
-    "stargazers_count": 31697,
-    "open_issues_count": 87,
-    "forks_count": 3402
+    "stargazers_count": 33617,
+    "open_issues_count": 105,
+    "forks_count": 3717
   },
   {
     "full_name": "danielmiessler/Personal_AI_Infrastructure",
-    "stargazers_count": 482,
-    "open_issues_count": 7,
-    "forks_count": 95
+    "stargazers_count": 498,
+    "open_issues_count": 0,
+    "forks_count": 101
   },
   {
     "full_name": "angiejones/mcp-selenium",
     "stargazers_count": 277,
-    "open_issues_count": 15,
-    "forks_count": 77
+    "open_issues_count": 16,
+    "forks_count": 78
   },
   {
     "full_name": "microrealestate/microrealestate",
-    "stargazers_count": 903,
-    "open_issues_count": 24,
-    "forks_count": 332
+    "stargazers_count": 904,
+    "open_issues_count": 25,
+    "forks_count": 331
   },
   {
     "full_name": "nuxt/awesome",
-    "stargazers_count": 5411,
-    "open_issues_count": 19,
-    "forks_count": 583
+    "stargazers_count": 5414,
+    "open_issues_count": 20,
+    "forks_count": 584
   },
   {
     "full_name": "ItzCrazyKns/Perplexica",
-    "stargazers_count": 26918,
-    "open_issues_count": 205,
-    "forks_count": 2780
+    "stargazers_count": 26993,
+    "open_issues_count": 203,
+    "forks_count": 2786
   },
   {
     "full_name": "netdata/netdata",
-    "stargazers_count": 76465,
-    "open_issues_count": 238,
-    "forks_count": 6207
+    "stargazers_count": 76502,
+    "open_issues_count": 241,
+    "forks_count": 6209
   },
   {
     "full_name": "AbacatePay/abacate-chat",
     "stargazers_count": 45,
-    "open_issues_count": 7,
+    "open_issues_count": 8,
     "forks_count": 14
   },
   {
     "full_name": "MudBlazor/MudBlazor",
-    "stargazers_count": 9751,
-    "open_issues_count": 1349,
-    "forks_count": 1534
+    "stargazers_count": 9773,
+    "open_issues_count": 1360,
+    "forks_count": 1543
   },
   {
     "full_name": "live-codes/livecodes",
-    "stargazers_count": 1197,
+    "stargazers_count": 1203,
     "open_issues_count": 27,
-    "forks_count": 191
+    "forks_count": 193
   },
   {
     "full_name": "microsoft/playwright-mcp",
-    "stargazers_count": 22325,
-    "open_issues_count": 31,
-    "forks_count": 1779
+    "stargazers_count": 22455,
+    "open_issues_count": 30,
+    "forks_count": 1794
   },
   {
     "full_name": "mbaragiola/hijos",
@@ -79,104 +115,68 @@
   },
   {
     "full_name": "alainm23/planify",
-    "stargazers_count": 4586,
-    "open_issues_count": 141,
-    "forks_count": 259
+    "stargazers_count": 4592,
+    "open_issues_count": 144,
+    "forks_count": 263
   },
   {
     "full_name": "plenaryapp/awesome-rss-feeds",
-    "stargazers_count": 1612,
+    "stargazers_count": 1623,
     "open_issues_count": 15,
     "forks_count": 120
   },
   {
     "full_name": "makerkit/nextjs-saas-starter-kit-lite",
-    "stargazers_count": 304,
+    "stargazers_count": 310,
     "open_issues_count": 2,
-    "forks_count": 108
+    "forks_count": 111
   },
   {
     "full_name": "TibixDev/winboat",
-    "stargazers_count": 13325,
-    "open_issues_count": 151,
-    "forks_count": 333
+    "stargazers_count": 13901,
+    "open_issues_count": 161,
+    "forks_count": 353
   },
   {
     "full_name": "quests-org/quests",
-    "stargazers_count": 328,
+    "stargazers_count": 333,
     "open_issues_count": 3,
-    "forks_count": 58
+    "forks_count": 61
   },
   {
     "full_name": "bytebot-ai/bytebot",
-    "stargazers_count": 9195,
-    "open_issues_count": 50,
-    "forks_count": 1116
+    "stargazers_count": 9254,
+    "open_issues_count": 53,
+    "forks_count": 1132
   },
   {
     "full_name": "rowboatlabs/rowboat",
-    "stargazers_count": 3836,
+    "stargazers_count": 3853,
     "open_issues_count": 50,
-    "forks_count": 342
+    "forks_count": 345
   },
   {
     "full_name": "garrylachman/ElectroCRUD",
-    "stargazers_count": 1547,
+    "stargazers_count": 1546,
     "open_issues_count": 12,
     "forks_count": 311
   },
   {
     "full_name": "microsoft/BASIC-M6502",
-    "stargazers_count": 4239,
+    "stargazers_count": 4247,
     "open_issues_count": 0,
     "forks_count": 473
   },
   {
     "full_name": "github/spec-kit",
-    "stargazers_count": 41236,
-    "open_issues_count": 367,
-    "forks_count": 3520
+    "stargazers_count": 42527,
+    "open_issues_count": 399,
+    "forks_count": 3639
   },
   {
     "full_name": "laravel/boost",
-    "stargazers_count": 2730,
+    "stargazers_count": 2741,
     "open_issues_count": 41,
-    "forks_count": 175
-  },
-  {
-    "full_name": "f1db/f1db",
-    "stargazers_count": 409,
-    "open_issues_count": 5,
-    "forks_count": 41
-  },
-  {
-    "full_name": "coleam00/Archon",
-    "stargazers_count": 12979,
-    "open_issues_count": 117,
-    "forks_count": 2231
-  },
-  {
-    "full_name": "formulahendry/mcp-server-spec-driven-development",
-    "stargazers_count": 359,
-    "open_issues_count": 4,
-    "forks_count": 29
-  },
-  {
-    "full_name": "gurnec/btcrecover",
-    "stargazers_count": 1478,
-    "open_issues_count": 383,
-    "forks_count": 827
-  },
-  {
-    "full_name": "naimo84/awesome-nodered",
-    "stargazers_count": 514,
-    "open_issues_count": 0,
-    "forks_count": 29
-  },
-  {
-    "full_name": "jpdias/node-red-contrib-self-healing",
-    "stargazers_count": 39,
-    "open_issues_count": 0,
-    "forks_count": 4
+    "forks_count": 179
   }
 ]
