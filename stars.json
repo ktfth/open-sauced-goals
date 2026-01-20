@@ -1,33 +1,39 @@
 [
   {
+    "full_name": "Yenn503/villager-ai-hexstrike-integration",
+    "stargazers_count": 47,
+    "open_issues_count": 0,
+    "forks_count": 14
+  },
+  {
     "full_name": "cjpais/Handy",
-    "stargazers_count": 11479,
-    "open_issues_count": 83,
-    "forks_count": 774
+    "stargazers_count": 12424,
+    "open_issues_count": 73,
+    "forks_count": 820
   },
   {
     "full_name": "KeygraphHQ/shannon",
-    "stargazers_count": 3866,
-    "open_issues_count": 9,
-    "forks_count": 548
+    "stargazers_count": 3954,
+    "open_issues_count": 6,
+    "forks_count": 565
   },
   {
     "full_name": "0xk1h0/ChatGPT_DAN",
-    "stargazers_count": 11091,
+    "stargazers_count": 11127,
     "open_issues_count": 88,
-    "forks_count": 1032
+    "forks_count": 1042
   },
   {
     "full_name": "GreyDGL/PentestGPT",
-    "stargazers_count": 11030,
+    "stargazers_count": 11100,
     "open_issues_count": 39,
-    "forks_count": 1775
+    "forks_count": 1800
   },
   {
     "full_name": "0x4m4/hexstrike-ai",
-    "stargazers_count": 6025,
-    "open_issues_count": 55,
-    "forks_count": 1360
+    "stargazers_count": 6164,
+    "open_issues_count": 59,
+    "forks_count": 1390
   },
   {
     "full_name": "rafabez/WAF-Bypass-MCP",
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "joe-desimone/mongobleed",
-    "stargazers_count": 907,
+    "stargazers_count": 914,
     "open_issues_count": 6,
-    "forks_count": 161
+    "forks_count": 160
   },
   {
     "full_name": "togodynamicslab/omi",
@@ -61,25 +67,25 @@
   },
   {
     "full_name": "buildermethods/agent-os",
-    "stargazers_count": 3355,
+    "stargazers_count": 3416,
     "open_issues_count": 6,
-    "forks_count": 613
+    "forks_count": 620
   },
   {
     "full_name": "invoke-ai/InvokeAI",
-    "stargazers_count": 26551,
-    "open_issues_count": 621,
+    "stargazers_count": 26585,
+    "open_issues_count": 627,
     "forks_count": 2760
   },
   {
     "full_name": "ventoy/Ventoy",
-    "stargazers_count": 73848,
-    "open_issues_count": 971,
-    "forks_count": 4652
+    "stargazers_count": 73944,
+    "open_issues_count": 977,
+    "forks_count": 4664
   },
   {
     "full_name": "maquina-app/rails-mcp-server",
-    "stargazers_count": 477,
+    "stargazers_count": 480,
     "open_issues_count": 7,
     "forks_count": 27
   },
@@ -97,9 +103,9 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 102365,
-    "open_issues_count": 2,
-    "forks_count": 6252
+    "stargazers_count": 102481,
+    "open_issues_count": 3,
+    "forks_count": 6256
   },
   {
     "full_name": "user1342/Folly",
@@ -109,74 +115,68 @@
   },
   {
     "full_name": "user1342/Awesome-LLM-Red-Teaming",
-    "stargazers_count": 70,
+    "stargazers_count": 71,
     "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "karpathy/nanochat",
-    "stargazers_count": 40341,
-    "open_issues_count": 47,
-    "forks_count": 5197
+    "stargazers_count": 40510,
+    "open_issues_count": 38,
+    "forks_count": 5233
   },
   {
     "full_name": "danielmiessler/Personal_AI_Infrastructure",
-    "stargazers_count": 4701,
-    "open_issues_count": 41,
-    "forks_count": 766
+    "stargazers_count": 5273,
+    "open_issues_count": 70,
+    "forks_count": 836
   },
   {
     "full_name": "angiejones/mcp-selenium",
-    "stargazers_count": 329,
+    "stargazers_count": 330,
     "open_issues_count": 18,
     "forks_count": 100
   },
   {
     "full_name": "microrealestate/microrealestate",
-    "stargazers_count": 997,
+    "stargazers_count": 1000,
     "open_issues_count": 27,
-    "forks_count": 355
+    "forks_count": 357
   },
   {
     "full_name": "nuxt/awesome",
-    "stargazers_count": 5456,
-    "open_issues_count": 19,
+    "stargazers_count": 5460,
+    "open_issues_count": 20,
     "forks_count": 585
   },
   {
     "full_name": "ItzCrazyKns/Perplexica",
-    "stargazers_count": 28248,
-    "open_issues_count": 214,
-    "forks_count": 2974
+    "stargazers_count": 28357,
+    "open_issues_count": 215,
+    "forks_count": 2983
   },
   {
     "full_name": "netdata/netdata",
-    "stargazers_count": 77359,
-    "open_issues_count": 247,
-    "forks_count": 6301
+    "stargazers_count": 77408,
+    "open_issues_count": 246,
+    "forks_count": 6306
   },
   {
     "full_name": "AbacatePay/abacate-chat",
-    "stargazers_count": 49,
+    "stargazers_count": 48,
     "open_issues_count": 7,
     "forks_count": 16
   },
   {
     "full_name": "MudBlazor/MudBlazor",
-    "stargazers_count": 10036,
-    "open_issues_count": 1095,
-    "forks_count": 1579
+    "stargazers_count": 10047,
+    "open_issues_count": 1058,
+    "forks_count": 1580
   },
   {
     "full_name": "live-codes/livecodes",
-    "stargazers_count": 1344,
+    "stargazers_count": 1345,
     "open_issues_count": 28,
-    "forks_count": 224
-  },
-  {
-    "full_name": "microsoft/playwright-mcp",
-    "stargazers_count": 25626,
-    "open_issues_count": 43,
-    "forks_count": 2082
+    "forks_count": 225
   }
 ]
