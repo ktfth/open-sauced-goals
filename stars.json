@@ -1,15 +1,27 @@
 [
   {
+    "full_name": "cloud-shuttle/leptos-shadcn-ui",
+    "stargazers_count": 47,
+    "open_issues_count": 8,
+    "forks_count": 4
+  },
+  {
+    "full_name": "AndyMik90/Auto-Claude",
+    "stargazers_count": 11669,
+    "open_issues_count": 340,
+    "forks_count": 1633
+  },
+  {
     "full_name": "VoltAgent/awesome-claude-code-subagents",
-    "stargazers_count": 9621,
+    "stargazers_count": 10067,
     "open_issues_count": 3,
-    "forks_count": 1046
+    "forks_count": 1084
   },
   {
     "full_name": "pedramamini/Maestro",
-    "stargazers_count": 1828,
-    "open_issues_count": 67,
-    "forks_count": 171
+    "stargazers_count": 2080,
+    "open_issues_count": 76,
+    "forks_count": 193
   },
   {
     "full_name": "leobaiano/Nurt",
@@ -19,51 +31,51 @@
   },
   {
     "full_name": "openclaw/openclaw",
-    "stargazers_count": 167997,
-    "open_issues_count": 3569,
-    "forks_count": 26802
+    "stargazers_count": 179859,
+    "open_issues_count": 5317,
+    "forks_count": 29834
   },
   {
     "full_name": "IAmTomShaw/f1-race-replay",
-    "stargazers_count": 4775,
-    "open_issues_count": 113,
-    "forks_count": 636
+    "stargazers_count": 4938,
+    "open_issues_count": 111,
+    "forks_count": 655
   },
   {
     "full_name": "Yenn503/villager-ai-hexstrike-integration",
-    "stargazers_count": 49,
+    "stargazers_count": 51,
     "open_issues_count": 0,
     "forks_count": 16
   },
   {
     "full_name": "cjpais/Handy",
-    "stargazers_count": 14206,
-    "open_issues_count": 91,
-    "forks_count": 956
+    "stargazers_count": 14511,
+    "open_issues_count": 92,
+    "forks_count": 988
   },
   {
     "full_name": "KeygraphHQ/shannon",
-    "stargazers_count": 4300,
-    "open_issues_count": 2,
-    "forks_count": 610
+    "stargazers_count": 17517,
+    "open_issues_count": 26,
+    "forks_count": 1839
   },
   {
     "full_name": "0xk1h0/ChatGPT_DAN",
-    "stargazers_count": 11309,
+    "stargazers_count": 11325,
     "open_issues_count": 89,
-    "forks_count": 1056
+    "forks_count": 1059
   },
   {
     "full_name": "GreyDGL/PentestGPT",
-    "stargazers_count": 11424,
-    "open_issues_count": 40,
-    "forks_count": 1888
+    "stargazers_count": 11513,
+    "open_issues_count": 41,
+    "forks_count": 1903
   },
   {
     "full_name": "0x4m4/hexstrike-ai",
-    "stargazers_count": 6656,
-    "open_issues_count": 63,
-    "forks_count": 1497
+    "stargazers_count": 6722,
+    "open_issues_count": 65,
+    "forks_count": 1508
   },
   {
     "full_name": "rafabez/WAF-Bypass-MCP",
@@ -93,29 +105,29 @@
     "full_name": "devshane/zork",
     "stargazers_count": 635,
     "open_issues_count": 17,
-    "forks_count": 139
+    "forks_count": 138
   },
   {
     "full_name": "buildermethods/agent-os",
-    "stargazers_count": 3704,
-    "open_issues_count": 7,
-    "forks_count": 656
+    "stargazers_count": 3747,
+    "open_issues_count": 8,
+    "forks_count": 663
   },
   {
     "full_name": "invoke-ai/InvokeAI",
-    "stargazers_count": 26654,
-    "open_issues_count": 459,
-    "forks_count": 2760
+    "stargazers_count": 26672,
+    "open_issues_count": 429,
+    "forks_count": 2768
   },
   {
     "full_name": "ventoy/Ventoy",
-    "stargazers_count": 74310,
-    "open_issues_count": 891,
-    "forks_count": 4690
+    "stargazers_count": 74392,
+    "open_issues_count": 896,
+    "forks_count": 4696
   },
   {
     "full_name": "maquina-app/rails-mcp-server",
-    "stargazers_count": 494,
+    "stargazers_count": 496,
     "open_issues_count": 7,
     "forks_count": 30
   },
@@ -133,7 +145,7 @@
   },
   {
     "full_name": "papers-we-love/papers-we-love",
-    "stargazers_count": 103000,
+    "stargazers_count": 103145,
     "open_issues_count": 3,
     "forks_count": 6266
   },
@@ -146,37 +158,25 @@
   {
     "full_name": "user1342/Awesome-LLM-Red-Teaming",
     "stargazers_count": 75,
-    "open_issues_count": 1,
-    "forks_count": 11
+    "open_issues_count": 0,
+    "forks_count": 10
   },
   {
     "full_name": "karpathy/nanochat",
-    "stargazers_count": 42334,
-    "open_issues_count": 43,
-    "forks_count": 5467
+    "stargazers_count": 42734,
+    "open_issues_count": 53,
+    "forks_count": 5527
   },
   {
     "full_name": "danielmiessler/Personal_AI_Infrastructure",
-    "stargazers_count": 6235,
-    "open_issues_count": 165,
-    "forks_count": 951
+    "stargazers_count": 6357,
+    "open_issues_count": 168,
+    "forks_count": 973
   },
   {
     "full_name": "angiejones/mcp-selenium",
     "stargazers_count": 338,
     "open_issues_count": 18,
-    "forks_count": 102
-  },
-  {
-    "full_name": "microrealestate/microrealestate",
-    "stargazers_count": 1009,
-    "open_issues_count": 27,
-    "forks_count": 359
-  },
-  {
-    "full_name": "nuxt/awesome",
-    "stargazers_count": 5470,
-    "open_issues_count": 19,
-    "forks_count": 584
+    "forks_count": 105
   }
 ]
