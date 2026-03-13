@@ -1,26 +1,32 @@
 [
   {
+    "full_name": "blackboardsh/electrobun",
+    "stargazers_count": 9645,
+    "open_issues_count": 132,
+    "forks_count": 216
+  },
+  {
     "full_name": "karpathy/autoresearch",
-    "stargazers_count": 16854,
-    "open_issues_count": 57,
-    "forks_count": 2137
+    "stargazers_count": 29026,
+    "open_issues_count": 100,
+    "forks_count": 3828
   },
   {
     "full_name": "shanraisshan/claude-code-best-practice",
-    "stargazers_count": 12939,
-    "open_issues_count": 2,
-    "forks_count": 1214
+    "stargazers_count": 13875,
+    "open_issues_count": 5,
+    "forks_count": 1306
   },
   {
     "full_name": "googleworkspace/cli",
-    "stargazers_count": 17274,
-    "open_issues_count": 56,
-    "forks_count": 685
+    "stargazers_count": 19628,
+    "open_issues_count": 83,
+    "forks_count": 873
   },
   {
     "full_name": "vedovelli/ai-dev-team-simulation",
-    "stargazers_count": 36,
-    "open_issues_count": 0,
+    "stargazers_count": 38,
+    "open_issues_count": 1,
     "forks_count": 9
   },
   {
@@ -31,9 +37,9 @@
   },
   {
     "full_name": "carmahhawwari/ui-design-brain",
-    "stargazers_count": 533,
+    "stargazers_count": 574,
     "open_issues_count": 0,
-    "forks_count": 48
+    "forks_count": 51
   },
   {
     "full_name": "alganet/neutrino",
@@ -43,21 +49,21 @@
   },
   {
     "full_name": "mcollina/skills",
-    "stargazers_count": 791,
-    "open_issues_count": 5,
-    "forks_count": 55
+    "stargazers_count": 1248,
+    "open_issues_count": 9,
+    "forks_count": 86
   },
   {
     "full_name": "alibaba/zvec",
-    "stargazers_count": 8790,
-    "open_issues_count": 44,
-    "forks_count": 493
+    "stargazers_count": 8890,
+    "open_issues_count": 39,
+    "forks_count": 500
   },
   {
     "full_name": "qwibitai/nanoclaw",
-    "stargazers_count": 21012,
-    "open_issues_count": 317,
-    "forks_count": 3573
+    "stargazers_count": 22064,
+    "open_issues_count": 370,
+    "forks_count": 4699
   },
   {
     "full_name": "cloud-shuttle/leptos-shadcn-ui",
@@ -67,21 +73,21 @@
   },
   {
     "full_name": "AndyMik90/Aperant",
-    "stargazers_count": 13147,
-    "open_issues_count": 343,
-    "forks_count": 1796
+    "stargazers_count": 13237,
+    "open_issues_count": 349,
+    "forks_count": 1813
   },
   {
     "full_name": "VoltAgent/awesome-claude-code-subagents",
-    "stargazers_count": 13049,
-    "open_issues_count": 6,
-    "forks_count": 1405
+    "stargazers_count": 13571,
+    "open_issues_count": 5,
+    "forks_count": 1504
   },
   {
     "full_name": "RunMaestro/Maestro",
-    "stargazers_count": 2443,
-    "open_issues_count": 120,
-    "forks_count": 239
+    "stargazers_count": 2475,
+    "open_issues_count": 132,
+    "forks_count": 246
   },
   {
     "full_name": "leobaiano/Nurt",
@@ -91,51 +97,51 @@
   },
   {
     "full_name": "openclaw/openclaw",
-    "stargazers_count": 291080,
-    "open_issues_count": 11871,
-    "forks_count": 55165
+    "stargazers_count": 308007,
+    "open_issues_count": 12756,
+    "forks_count": 58355
   },
   {
     "full_name": "IAmTomShaw/f1-race-replay",
-    "stargazers_count": 5202,
-    "open_issues_count": 118,
-    "forks_count": 705
+    "stargazers_count": 5237,
+    "open_issues_count": 120,
+    "forks_count": 708
   },
   {
     "full_name": "Yenn503/villager-ai-hexstrike-integration",
-    "stargazers_count": 58,
+    "stargazers_count": 59,
     "open_issues_count": 0,
     "forks_count": 22
   },
   {
     "full_name": "cjpais/Handy",
-    "stargazers_count": 17238,
-    "open_issues_count": 103,
-    "forks_count": 1286
+    "stargazers_count": 17485,
+    "open_issues_count": 106,
+    "forks_count": 1319
   },
   {
     "full_name": "KeygraphHQ/shannon",
-    "stargazers_count": 32940,
-    "open_issues_count": 19,
-    "forks_count": 3285
+    "stargazers_count": 33342,
+    "open_issues_count": 20,
+    "forks_count": 3332
   },
   {
     "full_name": "0xk1h0/ChatGPT_DAN",
-    "stargazers_count": 11497,
+    "stargazers_count": 11501,
     "open_issues_count": 89,
-    "forks_count": 1096
+    "forks_count": 1098
   },
   {
     "full_name": "GreyDGL/PentestGPT",
-    "stargazers_count": 11999,
-    "open_issues_count": 51,
-    "forks_count": 2036
+    "stargazers_count": 12048,
+    "open_issues_count": 45,
+    "forks_count": 2049
   },
   {
     "full_name": "0x4m4/hexstrike-ai",
-    "stargazers_count": 7330,
-    "open_issues_count": 69,
-    "forks_count": 1610
+    "stargazers_count": 7411,
+    "open_issues_count": 70,
+    "forks_count": 1628
   },
   {
     "full_name": "rafabez/WAF-Bypass-MCP",
@@ -145,7 +151,7 @@
   },
   {
     "full_name": "joe-desimone/mongobleed",
-    "stargazers_count": 942,
+    "stargazers_count": 943,
     "open_issues_count": 7,
     "forks_count": 166
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "devshane/zork",
-    "stargazers_count": 635,
+    "stargazers_count": 636,
     "open_issues_count": 10,
     "forks_count": 139
   },
   {
     "full_name": "buildermethods/agent-os",
-    "stargazers_count": 4033,
+    "stargazers_count": 4058,
     "open_issues_count": 10,
     "forks_count": 701
-  },
-  {
-    "full_name": "invoke-ai/InvokeAI",
-    "stargazers_count": 26925,
-    "open_issues_count": 431,
-    "forks_count": 2788
   }
 ]
