@@ -1,117 +1,129 @@
 [
   {
+    "full_name": "chrislgarry/Apollo-11",
+    "stargazers_count": 65783,
+    "open_issues_count": 127,
+    "forks_count": 7535
+  },
+  {
+    "full_name": "steipete/wacli",
+    "stargazers_count": 927,
+    "open_issues_count": 134,
+    "forks_count": 172
+  },
+  {
     "full_name": "santifer/career-ops",
-    "stargazers_count": 27812,
-    "open_issues_count": 40,
-    "forks_count": 5198
+    "stargazers_count": 32690,
+    "open_issues_count": 63,
+    "forks_count": 6436
   },
   {
     "full_name": "VoltAgent/awesome-design-md",
-    "stargazers_count": 38787,
-    "open_issues_count": 252,
-    "forks_count": 4880
+    "stargazers_count": 48474,
+    "open_issues_count": 262,
+    "forks_count": 5994
   },
   {
     "full_name": "emdash-cms/emdash",
-    "stargazers_count": 8712,
-    "open_issues_count": 184,
-    "forks_count": 665
+    "stargazers_count": 9206,
+    "open_issues_count": 133,
+    "forks_count": 731
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 5880,
-    "open_issues_count": 9,
+    "stargazers_count": 5885,
+    "open_issues_count": 6,
     "forks_count": 368
   },
   {
     "full_name": "GrafeoDB/grafeo",
-    "stargazers_count": 517,
+    "stargazers_count": 535,
     "open_issues_count": 2,
     "forks_count": 16
   },
   {
     "full_name": "mohebifar/tooscut",
-    "stargazers_count": 610,
+    "stargazers_count": 625,
     "open_issues_count": 1,
-    "forks_count": 38
+    "forks_count": 41
   },
   {
     "full_name": "affaan-m/everything-claude-code",
-    "stargazers_count": 148780,
-    "open_issues_count": 69,
-    "forks_count": 23005
+    "stargazers_count": 154603,
+    "open_issues_count": 80,
+    "forks_count": 23979
   },
   {
     "full_name": "jarrodwatts/claude-hud",
-    "stargazers_count": 18023,
-    "open_issues_count": 31,
-    "forks_count": 783
+    "stargazers_count": 18904,
+    "open_issues_count": 48,
+    "forks_count": 836
   },
   {
     "full_name": "obra/superpowers",
-    "stargazers_count": 143893,
-    "open_issues_count": 255,
-    "forks_count": 12299
+    "stargazers_count": 150549,
+    "open_issues_count": 283,
+    "forks_count": 13023
   },
   {
     "full_name": "paperclipai/paperclip",
-    "stargazers_count": 50746,
-    "open_issues_count": 1997,
-    "forks_count": 8395
+    "stargazers_count": 53094,
+    "open_issues_count": 2229,
+    "forks_count": 8911
   },
   {
     "full_name": "htdt/godogen",
-    "stargazers_count": 2703,
-    "open_issues_count": 3,
-    "forks_count": 252
+    "stargazers_count": 2786,
+    "open_issues_count": 4,
+    "forks_count": 264
   },
   {
     "full_name": "OlivierAlter/Claude-Certified-Architect-Foundations-Certification-Exam",
-    "stargazers_count": 76,
+    "stargazers_count": 82,
     "open_issues_count": 0,
     "forks_count": 22
   },
   {
     "full_name": "Infatoshi/OpenSquirrel",
-    "stargazers_count": 1344,
+    "stargazers_count": 1343,
     "open_issues_count": 4,
-    "forks_count": 84
+    "forks_count": 83
   },
   {
     "full_name": "shuvonsec/public-skills-builder",
-    "stargazers_count": 141,
+    "stargazers_count": 145,
     "open_issues_count": 0,
-    "forks_count": 25
+    "forks_count": 26
   },
   {
     "full_name": "shuvonsec/claude-bug-bounty",
-    "stargazers_count": 1657,
-    "open_issues_count": 5,
-    "forks_count": 287
+    "stargazers_count": 1724,
+    "open_issues_count": 7,
+    "forks_count": 299
   },
   {
     "full_name": "blackboardsh/electrobun",
-    "stargazers_count": 11207,
-    "open_issues_count": 197,
-    "forks_count": 275
+    "stargazers_count": 11271,
+    "open_issues_count": 199,
+    "forks_count": 278
   },
   {
     "full_name": "karpathy/autoresearch",
-    "stargazers_count": 69540,
-    "open_issues_count": 179,
-    "forks_count": 10128
+    "stargazers_count": 71676,
+    "open_issues_count": 180,
+    "forks_count": 10466
   },
   {
     "full_name": "shanraisshan/claude-code-best-practice",
-    "stargazers_count": 34310,
-    "open_issues_count": 5,
-    "forks_count": 3218
+    "stargazers_count": 41983,
+    "open_issues_count": 10,
+    "forks_count": 3996
   },
   {
     "full_name": "googleworkspace/cli",
-    "stargazers_count": 24229,
-    "open_issues_count": 66,
-    "forks_count": 1226
+    "stargazers_count": 24595,
+    "open_issues_count": 88,
+    "forks_count": 1248
   },
   {
     "full_name": "vedovelli/ai-dev-team-simulation",
@@ -127,9 +139,9 @@
   },
   {
     "full_name": "carmahhawwari/ui-design-brain",
-    "stargazers_count": 746,
+    "stargazers_count": 755,
     "open_issues_count": 0,
-    "forks_count": 65
+    "forks_count": 67
   },
   {
     "full_name": "alganet/neutrino",
@@ -139,21 +151,21 @@
   },
   {
     "full_name": "mcollina/skills",
-    "stargazers_count": 1654,
+    "stargazers_count": 1663,
     "open_issues_count": 4,
-    "forks_count": 124
+    "forks_count": 123
   },
   {
     "full_name": "alibaba/zvec",
-    "stargazers_count": 9280,
+    "stargazers_count": 9302,
     "open_issues_count": 49,
-    "forks_count": 533
+    "forks_count": 531
   },
   {
     "full_name": "qwibitai/nanoclaw",
-    "stargazers_count": 26991,
-    "open_issues_count": 626,
-    "forks_count": 11414
+    "stargazers_count": 27225,
+    "open_issues_count": 650,
+    "forks_count": 11863
   },
   {
     "full_name": "cloud-shuttle/leptos-shadcn-ui",
@@ -163,20 +175,8 @@
   },
   {
     "full_name": "AndyMik90/Aperant",
-    "stargazers_count": 13880,
+    "stargazers_count": 13943,
     "open_issues_count": 378,
-    "forks_count": 1896
-  },
-  {
-    "full_name": "VoltAgent/awesome-claude-code-subagents",
-    "stargazers_count": 16827,
-    "open_issues_count": 22,
-    "forks_count": 1918
-  },
-  {
-    "full_name": "RunMaestro/Maestro",
-    "stargazers_count": 2675,
-    "open_issues_count": 127,
-    "forks_count": 275
+    "forks_count": 1903
   }
 ]
