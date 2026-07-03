@@ -1,69 +1,81 @@
 [
   {
+    "full_name": "Crosstalk-Solutions/project-nomad",
+    "stargazers_count": 32646,
+    "open_issues_count": 45,
+    "forks_count": 3253
+  },
+  {
+    "full_name": "philschmid/self-learning-skill",
+    "stargazers_count": 81,
+    "open_issues_count": 0,
+    "forks_count": 9
+  },
+  {
     "full_name": "shadcn/improve",
-    "stargazers_count": 6431,
+    "stargazers_count": 6601,
     "open_issues_count": 9,
-    "forks_count": 266
+    "forks_count": 271
   },
   {
     "full_name": "pewdiepie-archdaemon/odysseus",
-    "stargazers_count": 79359,
-    "open_issues_count": 1504,
-    "forks_count": 10369
+    "stargazers_count": 80235,
+    "open_issues_count": 1544,
+    "forks_count": 10515
   },
   {
     "full_name": "dstotijn/hetty",
-    "stargazers_count": 11598,
+    "stargazers_count": 11623,
     "open_issues_count": 50,
-    "forks_count": 744
+    "forks_count": 747
   },
   {
     "full_name": "garrytan/gbrain",
-    "stargazers_count": 24555,
-    "open_issues_count": 1093,
-    "forks_count": 3539
+    "stargazers_count": 24867,
+    "open_issues_count": 1132,
+    "forks_count": 3583
   },
   {
     "full_name": "manaflow-ai/cmux",
-    "stargazers_count": 23162,
-    "open_issues_count": 3056,
-    "forks_count": 1832
+    "stargazers_count": 23448,
+    "open_issues_count": 3110,
+    "forks_count": 1857
   },
   {
     "full_name": "rohitg00/ai-engineering-from-scratch",
-    "stargazers_count": 36840,
-    "open_issues_count": 91,
-    "forks_count": 6082
+    "stargazers_count": 37164,
+    "open_issues_count": 92,
+    "forks_count": 6153
   },
   {
     "full_name": "thelounge/thelounge",
-    "stargazers_count": 6282,
+    "stargazers_count": 6284,
     "open_issues_count": 327,
     "forks_count": 770
   },
   {
     "full_name": "steipete/agent-scripts",
-    "stargazers_count": 5214,
-    "open_issues_count": 2,
-    "forks_count": 442
+    "stargazers_count": 5234,
+    "open_issues_count": 0,
+    "forks_count": 446
   },
   {
     "full_name": "juliohm/awesome-brazil-data",
     "stargazers_count": 196,
     "open_issues_count": 0,
-    "forks_count": 17
+    "forks_count": 18
   },
   {
     "full_name": "mattpocock/sandcastle",
-    "stargazers_count": 6518,
-    "open_issues_count": 68,
-    "forks_count": 649
+    "stargazers_count": 6594,
+    "open_issues_count": 80,
+    "forks_count": 657
   },
   {
     "full_name": "garrytan/gstack",
-    "stargazers_count": 118135,
-    "open_issues_count": 752,
-    "forks_count": 17581
+    "stargazers_count": 119008,
+    "open_issues_count": 761,
+    "forks_count": 17714
   },
   {
     "full_name": "samfoy/pi-ralph",
@@ -73,61 +85,61 @@
   },
   {
     "full_name": "h4ckf0r0day/obscura",
-    "stargazers_count": 16369,
+    "stargazers_count": 17402,
     "open_issues_count": 4,
-    "forks_count": 1133
+    "forks_count": 1213
   },
   {
     "full_name": "kyegomez/OpenMythos",
-    "stargazers_count": 14458,
+    "stargazers_count": 14571,
     "open_issues_count": 59,
-    "forks_count": 3248
+    "forks_count": 3290
   },
   {
     "full_name": "pascalorg/editor",
-    "stargazers_count": 17135,
-    "open_issues_count": 35,
-    "forks_count": 2306
+    "stargazers_count": 17179,
+    "open_issues_count": 38,
+    "forks_count": 2318
   },
   {
     "full_name": "chrislgarry/Apollo-11",
-    "stargazers_count": 68172,
+    "stargazers_count": 68190,
     "open_issues_count": 132,
-    "forks_count": 7704
+    "forks_count": 7710
   },
   {
     "full_name": "openclaw/wacli",
-    "stargazers_count": 2572,
+    "stargazers_count": 2575,
     "open_issues_count": 0,
     "forks_count": 312
   },
   {
     "full_name": "santifer/career-ops",
-    "stargazers_count": 56677,
-    "open_issues_count": 103,
-    "forks_count": 11195
+    "stargazers_count": 57911,
+    "open_issues_count": 120,
+    "forks_count": 11396
   },
   {
     "full_name": "VoltAgent/awesome-design-md",
-    "stargazers_count": 94366,
+    "stargazers_count": 95294,
     "open_issues_count": 295,
-    "forks_count": 11180
+    "forks_count": 11243
   },
   {
     "full_name": "emdash-cms/emdash",
-    "stargazers_count": 10974,
-    "open_issues_count": 210,
-    "forks_count": 1007
+    "stargazers_count": 11017,
+    "open_issues_count": 195,
+    "forks_count": 1012
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 5958,
-    "open_issues_count": 8,
+    "stargazers_count": 5962,
+    "open_issues_count": 6,
     "forks_count": 384
   },
   {
     "full_name": "GrafeoDB/grafeo",
-    "stargazers_count": 680,
+    "stargazers_count": 684,
     "open_issues_count": 36,
     "forks_count": 28
   },
@@ -139,44 +151,32 @@
   },
   {
     "full_name": "affaan-m/ECC",
-    "stargazers_count": 223528,
-    "open_issues_count": 61,
-    "forks_count": 34223
+    "stargazers_count": 225230,
+    "open_issues_count": 88,
+    "forks_count": 34460
   },
   {
     "full_name": "jarrodwatts/claude-hud",
-    "stargazers_count": 25935,
-    "open_issues_count": 11,
-    "forks_count": 1182
+    "stargazers_count": 26095,
+    "open_issues_count": 14,
+    "forks_count": 1189
   },
   {
     "full_name": "obra/superpowers",
-    "stargazers_count": 241593,
-    "open_issues_count": 291,
-    "forks_count": 21452
+    "stargazers_count": 244525,
+    "open_issues_count": 302,
+    "forks_count": 21689
   },
   {
     "full_name": "paperclipai/paperclip",
-    "stargazers_count": 72208,
-    "open_issues_count": 4933,
-    "forks_count": 13446
+    "stargazers_count": 72594,
+    "open_issues_count": 4918,
+    "forks_count": 13531
   },
   {
     "full_name": "htdt/godogen",
-    "stargazers_count": 4169,
+    "stargazers_count": 4230,
     "open_issues_count": 4,
-    "forks_count": 368
-  },
-  {
-    "full_name": "OlivierAlter/Claude-Certified-Architect-Foundations-Certification-Exam",
-    "stargazers_count": 140,
-    "open_issues_count": 1,
-    "forks_count": 36
-  },
-  {
-    "full_name": "Infatoshi/OpenSquirrel",
-    "stargazers_count": 1364,
-    "open_issues_count": 4,
-    "forks_count": 83
+    "forks_count": 376
   }
 ]
