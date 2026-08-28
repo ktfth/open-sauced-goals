@@ -1,32 +1,38 @@
 [
   {
+    "full_name": "bilawalsidhu/gods-eye-view",
+    "stargazers_count": 10110,
+    "open_issues_count": 87,
+    "forks_count": 2089
+  },
+  {
     "full_name": "bashalarmistalt/decimen-optical-transfer",
-    "stargazers_count": 6293,
-    "open_issues_count": 20,
-    "forks_count": 767
+    "stargazers_count": 6546,
+    "open_issues_count": 24,
+    "forks_count": 791
   },
   {
     "full_name": "projectdiscovery/depx",
-    "stargazers_count": 191,
-    "open_issues_count": 3,
+    "stargazers_count": 193,
+    "open_issues_count": 0,
     "forks_count": 19
   },
   {
     "full_name": "img2threejs/img2threejs",
-    "stargazers_count": 13427,
-    "open_issues_count": 67,
-    "forks_count": 1082
+    "stargazers_count": 14287,
+    "open_issues_count": 72,
+    "forks_count": 1152
   },
   {
     "full_name": "Ignitetechnologies/BurpSuite-For-Pentester",
-    "stargazers_count": 2587,
+    "stargazers_count": 2589,
     "open_issues_count": 5,
-    "forks_count": 509
+    "forks_count": 508
   },
   {
     "full_name": "millionco/reactbench",
-    "stargazers_count": 249,
-    "open_issues_count": 1,
+    "stargazers_count": 251,
+    "open_issues_count": 2,
     "forks_count": 10
   },
   {
@@ -37,9 +43,9 @@
   },
   {
     "full_name": "Crosstalk-Solutions/project-nomad",
-    "stargazers_count": 36280,
-    "open_issues_count": 86,
-    "forks_count": 3622
+    "stargazers_count": 36358,
+    "open_issues_count": 85,
+    "forks_count": 3628
   },
   {
     "full_name": "philschmid/self-learning-skill",
@@ -49,51 +55,51 @@
   },
   {
     "full_name": "shadcn/improve",
-    "stargazers_count": 8970,
+    "stargazers_count": 9015,
     "open_issues_count": 17,
-    "forks_count": 401
+    "forks_count": 404
   },
   {
     "full_name": "odysseus-dev/odysseus",
-    "stargazers_count": 86143,
-    "open_issues_count": 1113,
-    "forks_count": 633
+    "stargazers_count": 86441,
+    "open_issues_count": 1132,
+    "forks_count": 694
   },
   {
     "full_name": "dstotijn/hetty",
-    "stargazers_count": 12004,
-    "open_issues_count": 50,
-    "forks_count": 780
+    "stargazers_count": 12007,
+    "open_issues_count": 48,
+    "forks_count": 779
   },
   {
     "full_name": "garrytan/gbrain",
-    "stargazers_count": 29026,
-    "open_issues_count": 164,
-    "forks_count": 4298
+    "stargazers_count": 29230,
+    "open_issues_count": 152,
+    "forks_count": 4334
   },
   {
     "full_name": "manaflow-ai/cmux",
-    "stargazers_count": 26421,
-    "open_issues_count": 4430,
-    "forks_count": 2255
+    "stargazers_count": 26546,
+    "open_issues_count": 4603,
+    "forks_count": 2269
   },
   {
     "full_name": "rohitg00/ai-engineering-from-scratch",
-    "stargazers_count": 48342,
-    "open_issues_count": 94,
-    "forks_count": 8507
+    "stargazers_count": 50467,
+    "open_issues_count": 98,
+    "forks_count": 8763
   },
   {
     "full_name": "thelounge/thelounge",
-    "stargazers_count": 6319,
+    "stargazers_count": 6317,
     "open_issues_count": 316,
     "forks_count": 779
   },
   {
     "full_name": "steipete/agent-scripts",
-    "stargazers_count": 6563,
+    "stargazers_count": 6570,
     "open_issues_count": 0,
-    "forks_count": 543
+    "forks_count": 544
   },
   {
     "full_name": "juliohm/awesome-brazil-data",
@@ -103,15 +109,15 @@
   },
   {
     "full_name": "mattpocock/sandcastle",
-    "stargazers_count": 7631,
-    "open_issues_count": 137,
-    "forks_count": 790
+    "stargazers_count": 7709,
+    "open_issues_count": 139,
+    "forks_count": 796
   },
   {
     "full_name": "garrytan/gstack",
-    "stargazers_count": 129504,
-    "open_issues_count": 792,
-    "forks_count": 19500
+    "stargazers_count": 130158,
+    "open_issues_count": 808,
+    "forks_count": 19573
   },
   {
     "full_name": "samfoy/pi-ralph",
@@ -121,62 +127,56 @@
   },
   {
     "full_name": "h4ckf0r0day/obscura",
-    "stargazers_count": 22240,
-    "open_issues_count": 62,
-    "forks_count": 1643
+    "stargazers_count": 22384,
+    "open_issues_count": 86,
+    "forks_count": 1665
   },
   {
     "full_name": "kyegomez/OpenMythos",
-    "stargazers_count": 14802,
+    "stargazers_count": 14847,
     "open_issues_count": 64,
-    "forks_count": 3294
+    "forks_count": 3296
   },
   {
     "full_name": "pascalorg/editor",
-    "stargazers_count": 21691,
-    "open_issues_count": 50,
-    "forks_count": 2784
+    "stargazers_count": 21741,
+    "open_issues_count": 38,
+    "forks_count": 2793
   },
   {
     "full_name": "chrislgarry/Apollo-11",
-    "stargazers_count": 72168,
+    "stargazers_count": 72214,
     "open_issues_count": 131,
-    "forks_count": 7984
+    "forks_count": 7985
   },
   {
     "full_name": "openclaw/wacli",
-    "stargazers_count": 2707,
-    "open_issues_count": 11,
-    "forks_count": 334
+    "stargazers_count": 2715,
+    "open_issues_count": 12,
+    "forks_count": 336
   },
   {
     "full_name": "santifer/career-ops",
-    "stargazers_count": 68159,
-    "open_issues_count": 327,
-    "forks_count": 12940
+    "stargazers_count": 69035,
+    "open_issues_count": 298,
+    "forks_count": 13043
   },
   {
     "full_name": "VoltAgent/awesome-design-md",
-    "stargazers_count": 110177,
-    "open_issues_count": 319,
-    "forks_count": 12564
+    "stargazers_count": 111013,
+    "open_issues_count": 320,
+    "forks_count": 12629
   },
   {
     "full_name": "emdash-cms/emdash",
-    "stargazers_count": 11751,
+    "stargazers_count": 12046,
     "open_issues_count": 261,
-    "forks_count": 1098
+    "forks_count": 1123
   },
   {
     "full_name": "FastEndpoints/FastEndpoints",
     "stargazers_count": 5999,
-    "open_issues_count": 2,
+    "open_issues_count": 3,
     "forks_count": 385
-  },
-  {
-    "full_name": "GrafeoDB/grafeo",
-    "stargazers_count": 757,
-    "open_issues_count": 48,
-    "forks_count": 36
   }
 ]
