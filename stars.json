@@ -1,37 +1,49 @@
 [
   {
+    "full_name": "sergey-pronin/Awesome-Vulnerability-Research",
+    "stargazers_count": 1350,
+    "open_issues_count": 2,
+    "forks_count": 167
+  },
+  {
+    "full_name": "rmyndharis/OpenWA",
+    "stargazers_count": 13535,
+    "open_issues_count": 28,
+    "forks_count": 3139
+  },
+  {
     "full_name": "bilawalsidhu/gods-eye-view",
-    "stargazers_count": 10110,
-    "open_issues_count": 87,
-    "forks_count": 2089
+    "stargazers_count": 14808,
+    "open_issues_count": 109,
+    "forks_count": 2966
   },
   {
     "full_name": "bashalarmistalt/decimen-optical-transfer",
-    "stargazers_count": 6546,
-    "open_issues_count": 24,
-    "forks_count": 791
+    "stargazers_count": 6635,
+    "open_issues_count": 23,
+    "forks_count": 800
   },
   {
     "full_name": "projectdiscovery/depx",
-    "stargazers_count": 193,
+    "stargazers_count": 195,
     "open_issues_count": 0,
     "forks_count": 19
   },
   {
     "full_name": "img2threejs/img2threejs",
-    "stargazers_count": 14287,
-    "open_issues_count": 72,
-    "forks_count": 1152
+    "stargazers_count": 14790,
+    "open_issues_count": 77,
+    "forks_count": 1202
   },
   {
     "full_name": "Ignitetechnologies/BurpSuite-For-Pentester",
-    "stargazers_count": 2589,
+    "stargazers_count": 2591,
     "open_issues_count": 5,
     "forks_count": 508
   },
   {
     "full_name": "millionco/reactbench",
-    "stargazers_count": 251,
+    "stargazers_count": 252,
     "open_issues_count": 2,
     "forks_count": 10
   },
@@ -43,81 +55,81 @@
   },
   {
     "full_name": "Crosstalk-Solutions/project-nomad",
-    "stargazers_count": 36358,
-    "open_issues_count": 85,
-    "forks_count": 3628
+    "stargazers_count": 36428,
+    "open_issues_count": 90,
+    "forks_count": 3636
   },
   {
     "full_name": "philschmid/self-learning-skill",
     "stargazers_count": 93,
     "open_issues_count": 0,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "shadcn/improve",
-    "stargazers_count": 9015,
+    "stargazers_count": 9047,
     "open_issues_count": 17,
-    "forks_count": 404
+    "forks_count": 405
   },
   {
     "full_name": "odysseus-dev/odysseus",
-    "stargazers_count": 86441,
-    "open_issues_count": 1132,
-    "forks_count": 694
+    "stargazers_count": 86653,
+    "open_issues_count": 1150,
+    "forks_count": 744
   },
   {
     "full_name": "dstotijn/hetty",
     "stargazers_count": 12007,
     "open_issues_count": 48,
-    "forks_count": 779
+    "forks_count": 778
   },
   {
     "full_name": "garrytan/gbrain",
-    "stargazers_count": 29230,
-    "open_issues_count": 152,
-    "forks_count": 4334
+    "stargazers_count": 29390,
+    "open_issues_count": 201,
+    "forks_count": 4379
   },
   {
     "full_name": "manaflow-ai/cmux",
-    "stargazers_count": 26546,
-    "open_issues_count": 4603,
-    "forks_count": 2269
+    "stargazers_count": 26641,
+    "open_issues_count": 4690,
+    "forks_count": 2288
   },
   {
     "full_name": "rohitg00/ai-engineering-from-scratch",
-    "stargazers_count": 50467,
+    "stargazers_count": 51666,
     "open_issues_count": 98,
-    "forks_count": 8763
+    "forks_count": 8942
   },
   {
     "full_name": "thelounge/thelounge",
-    "stargazers_count": 6317,
-    "open_issues_count": 316,
-    "forks_count": 779
+    "stargazers_count": 6319,
+    "open_issues_count": 315,
+    "forks_count": 780
   },
   {
     "full_name": "steipete/agent-scripts",
-    "stargazers_count": 6570,
+    "stargazers_count": 6586,
     "open_issues_count": 0,
-    "forks_count": 544
+    "forks_count": 546
   },
   {
     "full_name": "juliohm/awesome-brazil-data",
-    "stargazers_count": 203,
+    "stargazers_count": 205,
     "open_issues_count": 0,
-    "forks_count": 19
+    "forks_count": 20
   },
   {
     "full_name": "mattpocock/sandcastle",
-    "stargazers_count": 7709,
-    "open_issues_count": 139,
-    "forks_count": 796
+    "stargazers_count": 7778,
+    "open_issues_count": 145,
+    "forks_count": 803
   },
   {
     "full_name": "garrytan/gstack",
-    "stargazers_count": 130158,
-    "open_issues_count": 808,
-    "forks_count": 19573
+    "stargazers_count": 130678,
+    "open_issues_count": 837,
+    "forks_count": 19645
   },
   {
     "full_name": "samfoy/pi-ralph",
@@ -127,56 +139,44 @@
   },
   {
     "full_name": "h4ckf0r0day/obscura",
-    "stargazers_count": 22384,
-    "open_issues_count": 86,
-    "forks_count": 1665
+    "stargazers_count": 22964,
+    "open_issues_count": 84,
+    "forks_count": 1703
   },
   {
     "full_name": "kyegomez/OpenMythos",
-    "stargazers_count": 14847,
+    "stargazers_count": 14860,
     "open_issues_count": 64,
-    "forks_count": 3296
+    "forks_count": 3292
   },
   {
     "full_name": "pascalorg/editor",
-    "stargazers_count": 21741,
-    "open_issues_count": 38,
-    "forks_count": 2793
+    "stargazers_count": 21800,
+    "open_issues_count": 37,
+    "forks_count": 2806
   },
   {
     "full_name": "chrislgarry/Apollo-11",
-    "stargazers_count": 72214,
-    "open_issues_count": 131,
-    "forks_count": 7985
+    "stargazers_count": 72248,
+    "open_issues_count": 129,
+    "forks_count": 7990
   },
   {
     "full_name": "openclaw/wacli",
-    "stargazers_count": 2715,
-    "open_issues_count": 12,
+    "stargazers_count": 2719,
+    "open_issues_count": 7,
     "forks_count": 336
   },
   {
     "full_name": "santifer/career-ops",
-    "stargazers_count": 69035,
-    "open_issues_count": 298,
-    "forks_count": 13043
+    "stargazers_count": 69661,
+    "open_issues_count": 377,
+    "forks_count": 13174
   },
   {
     "full_name": "VoltAgent/awesome-design-md",
-    "stargazers_count": 111013,
+    "stargazers_count": 112134,
     "open_issues_count": 320,
-    "forks_count": 12629
-  },
-  {
-    "full_name": "emdash-cms/emdash",
-    "stargazers_count": 12046,
-    "open_issues_count": 261,
-    "forks_count": 1123
-  },
-  {
-    "full_name": "FastEndpoints/FastEndpoints",
-    "stargazers_count": 5999,
-    "open_issues_count": 3,
-    "forks_count": 385
+    "forks_count": 12743
   }
 ]
